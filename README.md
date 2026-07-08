@@ -14,7 +14,7 @@ This project automates the extraction, conversion, and syncing of help center ar
    ```bash
    cp .env.sample .env
    ```
-   Open `.env` and fill in your `GEMINI_API_KEY`.
+   Open `.env` and fill in your `GEMINI_API_KEY` and `GEMINI_FILE_SEARCH_STORE_ID`.
 
 ## 2. How to Run Locally
 
