@@ -53,5 +53,4 @@ Instead of manually slicing tokens, this project leverages the **Fully-managed C
 
 Below is a screenshot demonstrating the OptiBot Assistant successfully answering the sample query ("How do I add a YouTube video?") and correctly citing the source article URL:
 
-![Assistant Screenshot](screenshot.png)
-*(Please add your screenshot image named `screenshot.png` to the repository root to display it here).*
+![Assistant Screenshot](image/results1.png)
