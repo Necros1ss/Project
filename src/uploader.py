@@ -6,6 +6,7 @@ import requests
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 load_dotenv()
 
@@ -179,6 +180,9 @@ def sync_articles():
     print(f"Found {len(active_gemini_files)} active files in Gemini Store.")
     print("-" * 40)
     
+    upload_tasks = []
+    delete_tasks = []
+    
     for article_id, zd_info in zendesk_articles.items():
         zd_ts = zd_info["timestamp"]
         slug = zd_info["slug"]
@@ -192,37 +196,9 @@ def sync_articles():
         is_update = not is_add and zd_ts > active_gemini_files[article_id]["timestamp"]
         
         if is_add or is_update:
-            # Delete old if update
-            if is_update:
-                old_file_name = active_gemini_files[article_id]["file_name"]
-                try:
-                    delete_file_with_retry(name=old_file_name)
-                    stats["updated"] += 1
-                except Exception as e:
-                    print(f"Failed to delete old document {old_file_name}: {e}")
-                    raise e
-            else:
-                stats["added"] += 1
-                
-            # Upload new file
             display_name = f"optibot_doc_{article_id}_{zd_ts}.md"
-            print(f"Uploading {display_name}...")
-            
-            try:
-                upload_file_with_retry(
-                    store_name=store_name,
-                    filepath=filepath,
-                    display_name=display_name
-                )
-                print(f"  Upload completed for {display_name}")
-                
-            except Exception as e:
-                print(f"Failed to upload {display_name}: {e}")
-                raise e
-            
-            _, chunks = estimate_tokens_and_chunks(filepath)
-            total_chunks += chunks
-            
+            old_file_name = active_gemini_files[article_id]["file_name"] if is_update else None
+            upload_tasks.append((article_id, filepath, display_name, is_update, old_file_name))
         else:
             stats["skipped"] += 1
             _, chunks = estimate_tokens_and_chunks(filepath)
@@ -231,14 +207,61 @@ def sync_articles():
     # Process Deleted
     for article_id, gemini_info in active_gemini_files.items():
         if article_id not in zendesk_articles:
-            print(f"Deleting outdated file for article {article_id}...")
-            try:
-                delete_file_with_retry(name=gemini_info["file_name"])
-                stats["deleted"] += 1
-            except Exception as e:
-                print(f"Failed to delete {gemini_info['file_name']}: {e}")
-                raise e
+            delete_tasks.append(gemini_info["file_name"])
             
+    def handle_upload_task(task):
+        article_id, filepath, display_name, is_update, old_file_name = task
+        if is_update and old_file_name:
+            print(f"Deleting old document for {article_id}...")
+            delete_file_with_retry(name=old_file_name)
+        print(f"Uploading {display_name}...")
+        upload_file_with_retry(
+            store_name=store_name,
+            filepath=filepath,
+            display_name=display_name
+        )
+        print(f"  Upload completed for {display_name}")
+        _, chunks = estimate_tokens_and_chunks(filepath)
+        return is_update, chunks
+
+    def handle_delete_task(file_name):
+        print(f"Deleting outdated file {file_name}...")
+        delete_file_with_retry(name=file_name)
+        return True
+
+    # Use ThreadPoolExecutor to run tasks concurrently
+    max_workers = 10
+    
+    # Run deletes first (for completely removed articles)
+    if delete_tasks:
+        print(f"Running {len(delete_tasks)} deletes in parallel...")
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = {executor.submit(handle_delete_task, name): name for name in delete_tasks}
+            for future in as_completed(futures):
+                try:
+                    future.result()
+                    stats["deleted"] += 1
+                except Exception as e:
+                    print(f"Failed to delete document: {e}")
+                    raise e
+
+    # Run uploads (adds & updates)
+    if upload_tasks:
+        print(f"Running {len(upload_tasks)} uploads/updates in parallel...")
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = {executor.submit(handle_upload_task, task): task for task in upload_tasks}
+            for future in as_completed(futures):
+                try:
+                    is_update, chunks = future.result()
+                    if is_update:
+                        stats["updated"] += 1
+                    else:
+                        stats["added"] += 1
+                    total_chunks += chunks
+                except Exception as e:
+                    print(f"Failed to upload document: {e}")
+                    raise e
+                    
     print("-" * 40)
     print("SYNC COMPLETE")
     print(f"Total files in Gemini Store: {stats['added'] + stats['updated'] + stats['skipped']}")
