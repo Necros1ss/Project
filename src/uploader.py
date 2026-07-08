@@ -16,7 +16,7 @@ ARTICLES_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "article
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-GEMINI_FILE_SEARCH_STORE_ID = os.environ.get("GEMINI_FILE_SEARCH_STORE_ID")
+GEMINI_FILE_SEARCH_STORE_ID = os.environ.get("GEMINI_FILE_SEARCH_STORE_ID", "optisigns-help-center-9n6q5v8jpotm")
 
 if not GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY is not set.")
@@ -29,6 +29,7 @@ client = genai.Client(api_key=GEMINI_API_KEY)
     wait=wait_exponential(multiplier=1, min=2, max=15),
     reraise=True
 )
+
 def upload_file_with_retry(store_name, filepath, display_name):
     operation = client.file_search_stores.upload_to_file_search_store(
         file_search_store_name=store_name,
@@ -51,7 +52,7 @@ def upload_file_with_retry(store_name, filepath, display_name):
     reraise=True
 )
 def delete_file_with_retry(name):
-    client.file_search_stores.documents.delete(name=name)
+    client.file_search_stores.documents.delete(name=name, config={'force': True})
 
 def get_zendesk_articles():
     """Fetch all active articles from Zendesk API to get current ids and updated_at."""
