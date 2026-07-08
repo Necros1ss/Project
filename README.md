@@ -38,9 +38,9 @@ You can view the execution logs and latest artifacts using the following public 
    [View GitHub Actions Execution History](https://github.com/Necros1ss/Project/actions)
 
 2. **Last Run Artifact (Latest Log File):**
-   [View Latest Sync Log (last_run.log)](https://github.com/Necros1ss/Project/blob/main/last_run.log)
+   [View Latest Sync Log (log/last_run.log)](https://github.com/Necros1ss/Project/blob/main/log/last_run.log)
 
-*(Note: The `last_run.log` file is automatically committed back to this repository after every successful run, detailing the exact counts of added, updated, and skipped files.)*
+*(Note: The `log/last_run.log` file is automatically committed back to this repository after every successful run, detailing the exact counts of added, updated, and skipped files.)*
 
 ## 4. Chunking Strategy
 

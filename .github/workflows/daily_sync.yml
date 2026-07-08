@@ -30,12 +30,13 @@ jobs:
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: |
-        python main.py > last_run.log 2>&1
+        mkdir -p log
+        python main.py > log/last_run.log 2>&1
 
     - name: Commit and Push last_run.log
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add last_run.log
+        git add log/last_run.log
         # Commit chỉ khi có sự thay đổi trong log
         git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update daily sync log [skip ci]" && git push)
