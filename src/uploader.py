@@ -108,6 +108,11 @@ def estimate_tokens_and_chunks(filepath):
     except Exception:
         return 0, 0
 
+@retry(
+    stop=stop_after_attempt(5),
+    wait=wait_exponential(multiplier=1, min=2, max=15),
+    reraise=True
+)
 def get_gemini_files(store_name):
     """Fetch all files currently linked in the Gemini File Search Store."""
     print(f"Fetching files attached to Gemini File Search Store ({store_name})...")
