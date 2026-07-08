@@ -23,7 +23,7 @@
 * Rename the schedule by clicking on its name.
 * Add an event by clicking the **Add Event** button or by dragging and selecting the calendar view to create a schedule at your desired time.
 * Fill out the details of your schedule item:
-	+ Use assets or playlists in your schedules.
+	+ Use assets or playlists in your schedules.
 	+ Fine-tune the time and set it to repeat daily, weekly, etc., or not at all.
 * Click **Save**.
 
@@ -45,7 +45,7 @@ Your schedule item is created. You can edit the schedule item or add more schedu
 | --- | --- |
 |  |  |
 
- 
+ 
 
 
 
@@ -131,7 +131,7 @@ You set a schedule item to play from 10 AM to 11 AM on 1/1/20XX.
 
 Daylight saving time adjustments will be handled automatically.
 
- 
+ 
 
 
 
@@ -172,7 +172,7 @@ There are two ways to assign a schedule to your screens.
 
 * Click **Save**.
 
- 
+ 
 
 **Method 2:**
 
@@ -198,7 +198,7 @@ Playlist item scheduling is a great tool for tailoring your content to different
 * Schedule Items: For each item in the playlist, set specific start and end times or days when they should be displayed.
 * Save Playlist: Click **Save** to apply the item-specific scheduling.
 
- 
+ 
 
 ---
 
@@ -245,7 +245,7 @@ If there is no scheduled content, the screen will display a black screen by defa
 For detailed information, visit: [Assign Default Content for Schedules](https://support.optisigns.com/hc/en-us/articles/360040943374)
 
 **Can I move an existing schedule to a folder I created?**  
-Yes. 
+Yes. 
 
 On **OptiSigns 1.0** you can click on **Move Schedule** on the top of the Schedule menu and then select the folder you wish to move the schedule to. On **OptiSigns 2.0**, you'll need to select the schedule you wish to move, then hit the **Move to** button which appears. You may then select the folder to move the schedule to.
 

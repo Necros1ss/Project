@@ -82,9 +82,9 @@ You can drag files from your File Explorers or Finders here. Or connect with you
 
 ![](https://support.optisigns.com/hc/article_attachments/18804619527571)
 
- 
+ 
 
- 
+ 
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 

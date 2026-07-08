@@ -11,7 +11,7 @@
 	+ [Position](#Position)
 	+ [Lock & Copy Style](#LockandCopyStyle)
 
-Adding shapes and elements to a design is a simple matter, but with Designer, there are tons of options to make your words really pop. From 
+Adding shapes and elements to a design is a simple matter, but with Designer, there are tons of options to make your words really pop. From 
 
 For more on the basic elements of Designer, see our [**Getting Started with Designer**](https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer) guide.
 
@@ -192,7 +192,7 @@ Selecting the **Effects** option allows you to change a number of different aspe
 
 Here, you have numerous options. We’ll go over each of them in turn.
 
-Expanding the **Color** section allows you to add color to the shape or element. 
+Expanding the **Color** section allows you to add color to the shape or element. 
 
 ![](https://support.optisigns.com/hc/article_attachments/42307234485395)
 
@@ -200,7 +200,7 @@ This is functionally the same as the Colors option in the Shapes and Elements To
 
 ![](https://support.optisigns.com/hc/article_attachments/42307250852115)
 
-Expanding the **Background** section allows you to set a specific background color for the Shape or Element to sit on. 
+Expanding the **Background** section allows you to set a specific background color for the Shape or Element to sit on. 
 
 ![](https://support.optisigns.com/hc/article_attachments/42307234487827)
 

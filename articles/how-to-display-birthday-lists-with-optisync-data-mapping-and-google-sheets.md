@@ -36,14 +36,14 @@ For an in-depth instructional video on how to dynamically map a birthday list to
 | Note: While this functionality is **not exclusive** to Google Sheets, it will be the primary data source used for demonstration purposes in our examples. |
 | --- |
 
- 
+ 
 
 ### Option 1: Create a Repeater from Scratch
 
 If none of the Repeater designs resonate with the design you are trying to accomplish, you can create your own design within the repeater itself from scratch. Here's how:
 
-1. Open the **Designer app**
-2. Go to **DataSource** →
+1. Open the **Designer app**
+2. Go to **DataSource** →
  Select your custom DataSource → Expand "**Row 1**".
 3. **Drag** **and** **drop** the
  information you want displayed on the Repeater.
@@ -51,7 +51,7 @@ If none of the Repeater designs resonate with the design you are trying to accom
 5. Customize your Repeater's design.
 6. Once the customization is complete press "**Update to Save**".
 
-After creating it, feel free to add the repeater to any template design,  create your own design or upload one of your choosing.
+After creating it, feel free to add the repeater to any template design, create your own design or upload one of your choosing.
 
 ### Option 2: Full Repeater Template
 
@@ -89,7 +89,7 @@ Here's how to set up a repeater component:
 
 
 
- 
+ 
 
 
 
@@ -118,7 +118,7 @@ You can access this in your Google Sheet by selecting **File** > **Settings** > 
 
 ## How to Handle Empty Data Values in a Repeater
 
-Let's say you're playing this design as a single asset or running it like a slideshow, but it is nobody's birthday. You can set how you would like your Repeater to handle empty data values. 
+Let's say you're playing this design as a single asset or running it like a slideshow, but it is nobody's birthday. You can set how you would like your Repeater to handle empty data values. 
 
 1. In Designer, **select your Repeater** so it is highlighted.
 2. Select **Settings** from the top bar.
@@ -211,7 +211,7 @@ After applying the formula, your sorted list would look like this:
 * Alice and Carol share the same birthdate (12/05/1990), so they are sorted alphabetically.
 * Bob is listed last with the latest birthdate (12/15/2001).
 
-Your list is now automatically sorted by birthdate and name. 
+Your list is now automatically sorted by birthdate and name. 
 
 Any updates or additions to the original data in your birthday columns will trigger the list in your new tab to auto-sort accordingly.
 
@@ -240,7 +240,7 @@ Here is what your design will look like when pushed to screens.
 
 ![](https://support.optisigns.com/hc/article_attachments/30118759886355)
 
- 
+ 
 
 ## That's all!
 

@@ -19,13 +19,13 @@ On Fire TV, you can open side menu by clicking the 3 bars button (see below).
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360039503854)
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
 

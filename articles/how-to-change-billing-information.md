@@ -5,7 +5,7 @@ or you can find it here:
 ![](https://support.optisigns.com/hc/article_attachments/23155558334099)
 
 
- 
+ 
 
 
 #### **Change Billing email**
@@ -15,7 +15,7 @@ Expand the Billing Email section, just add the email address and hit the Update 
 ![](https://support.optisigns.com/hc/article_attachments/23155558337939)
 
 
- 
+ 
 
 
 #### **Add/Change Payment Method**
@@ -27,7 +27,7 @@ Expand the Billing Information section, you can change your payment method here.
 ![](https://support.optisigns.com/hc/article_attachments/23155565223059)
 
 
- 
+ 
 
 
 #### **Add/Change Billing Address**
@@ -52,7 +52,7 @@ Expand the Tax ID section, select the corresponding Tax ID type, and put your Ta
 ![](https://support.optisigns.com/hc/article_attachments/23155565231763)
 
 
- 
+ 
 
 
 **That's all!**
@@ -61,7 +61,7 @@ Expand the Tax ID section, select the corresponding Tax ID type, and put your Ta
 If you have any additional questions, concerns, or feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
 
 
- 
+ 
 
 
 

@@ -13,7 +13,7 @@ There are 2 ways to use Excel with OptiSigns:
 2) Use Excel for Web (online) (pros: **you can make changes to the Excel file and screens will update automatically**, cons: need internet connection to display)
 
 
- 
+ 
 
 
 This article will walk you through how to set up option 2:
@@ -25,7 +25,7 @@ Upload your Excel to OneDrive and changes to your Excel can be automatically upd
 ![excel spreadsheet example](https://support.optisigns.com/hc/article_attachments/4542287976595)
 
 
-If this is your first time using OptiSigns, you can [read here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv) to get set up.
+If this is your first time using OptiSigns, you can [read here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv) to get set up.
 
 
 Otherwise, let's dive in.
@@ -34,7 +34,7 @@ Otherwise, let's dive in.
 ## **1) Create and prepare your Excel**
 
 
-First, we need to make sure your spreadsheet will fit on a single page. To do this, go to the **Page Layout**tab, then locate the **Scale to Fit**area. Here, for the **Width**, keep it to **1 page**, then set **Height**to **however large your spreadsheet is**.
+First, we need to make sure your spreadsheet will fit on a single page. To do this, go to the **Page Layout** tab, then locate the **Scale to Fit** area. Here, for the **Width**, keep it to **1 page**, then set **Height** to **however large your spreadsheet is**.
 
 
 ![image (33).jpg](https://support.optisigns.com/hc/article_attachments/42892845437075)
@@ -46,7 +46,7 @@ Then upload your Excel file to your Microsoft OneDrive. If you're using the Web 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4542330886931)
 
 
-Then on the **File** tab of the Ribbon, click **Share.**Make sure the Link Settings are set to **Anyone**:
+Then on the **File** tab of the Ribbon, click **Share.** Make sure the Link Settings are set to **Anyone**:
 
 
 ![](https://support.optisigns.com/hc/article_attachments/38674935152787) Now click **Share** again, then click **Embed**.
@@ -55,16 +55,16 @@ Then on the **File** tab of the Ribbon, click **Share.**Make sure the Link Se
 ![blobid3.png](https://support.optisigns.com/hc/article_attachments/4542332041363)
 
 
-To create the HTML code to embed your file in the web page, click **Generate.**
+To create the HTML code to embed your file in the web page, click **Generate.**
 
 
-Under **Embed Code**, right-click the code, click **Copy**, and then click **Close**.
+Under **Embed Code**, right-click the code, click **Copy**, and then click **Close**.
 
 
 ![blobid4.png](https://support.optisigns.com/hc/article_attachments/4542332693139)
 
 
- 
+ 
 
 
 ## **2) Add Excel Online App on OptiSigns**
@@ -105,7 +105,7 @@ Click Save
 
 | **NOTE** |
 | --- |
-| As of July 2025, Microsoft has created a limitation which only allows Excel sheets under **1 MB**to be uploaded in this manner. If you have an Excel sheet you'd like to display that is larger than 1 megabyte, we suggest **Option 1**. |
+| As of July 2025, Microsoft has created a limitation which only allows Excel sheets under **1 MB** to be uploaded in this manner. If you have an Excel sheet you'd like to display that is larger than 1 megabyte, we suggest **Option 1**. |
 
 
 **![](https://support.optisigns.com/hc/article_attachments/21661672438547)**
@@ -113,7 +113,7 @@ Click Save
 
 * Name: This is the name to organize assets, it will not be shown on the screen.
 * URL: This is the Excel link that is auto-generated.
-* Customize Display Region: Select a specific region in your file to be displayed on your screens. The asset must be saved first before the feature is enabled.
+* Customize Display Region: Select a specific region in your file to be displayed on your screens. The asset must be saved first before the feature is enabled.
 	+ If enabled, click on 'Select Display Region' and then click on the sheet page to select display region.
 
 
@@ -161,16 +161,16 @@ OptiSigns uses Microsoft APIs for integration. In order for our integrations to 
 This administrator access is only needed for first time access. Once the OptiSigns app is approved for use, other users can use OptiSigns directly.
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
 

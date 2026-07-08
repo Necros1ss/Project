@@ -10,11 +10,11 @@ Let's dive in.
 
 #### **1) OptiSigns User/Admin: How to send request approval for OptiSigns to access your Power BI, Calendar, etc.**
 
-If you are using a work account from your organization, sometimes, your organization's Admin have set security workflow so that apps like OptiSigns will need to be reviewed by your  Microsoft Azure Admin before granting access to your organization resources (like Power BI, Calendar, OneDrive).
+If you are using a work account from your organization, sometimes, your organization's Admin have set security workflow so that apps like OptiSigns will need to be reviewed by your Microsoft Azure Admin before granting access to your organization resources (like Power BI, Calendar, OneDrive).
 
 In OptiSigns, when click Log In with Microsoft account, it will prompt a window like below.
 
- 
+ 
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4403615938579)
 
@@ -26,7 +26,7 @@ Please enter something meaningful so that they know who you are and what you wan
 
 Then click "Request Approval"
 
- 
+ 
 
 Your admin will be notified by Microsoft Azure automatically, but it's usually a good idea to send them an email as well. **You can send your Admin a link to this article and refer to section #2 below for how to review & approve.**
 
@@ -34,7 +34,7 @@ If some times have past, and the Request Approval Expires (by default it's 30 da
 
 You can repeat this whole process again to send a new request.
 
- 
+ 
 
 #### **2) Microsoft Azure Admin: How to approve the request.**
 
@@ -56,7 +56,7 @@ Click "Review permission & consent"
 
 Review the permissions requested by OptiSigns. OptiSigns, as a digital signage application, only reads and displays assets. It will not modify, move, or delete objects. See our [Privacy Policy](https://www.optisigns.com/privacy-policy) for more information.
 
-Click **Accept:**
+Click **Accept:**
 
 ![mceclip7.png](https://support.optisigns.com/hc/article_attachments/4403627456531)
 
@@ -78,17 +78,17 @@ This administrator access is only needed for first time access. Once the OptiSig
 
 [Quickstart: Configure properties for an application in your Azure Active Directory (Azure AD) tenant | Microsoft Docs](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/add-application-portal-configure)
 
- 
+ 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

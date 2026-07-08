@@ -14,7 +14,7 @@ This guide covers the **two ways to connect a Teams Room to OptiSigns**, so you 
 
 
 
-|  | **Signage URL**  ·  *Recommended, fastest start* | **Service Principal** |
+|  | **Signage URL** · *Recommended, fastest start* | **Service Principal** |
 | --- | --- | --- |
 | **What it gives you** | Get content on a room in minutes — no app registration. | OptiSigns **discovers and lists all your Teams Rooms** (model, online/offline, health) in one place. |
 | **Microsoft setup** | None in Azure. You paste a URL in the Teams Rooms portal. | An Entra admin registers a read-only app and grants two permissions. |

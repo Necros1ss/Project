@@ -92,7 +92,7 @@ After a command is executed, it will appear in section 3: the command history.
 
 | **NOTE** |
 | --- |
-| The **Refresh & Relaunch** command can be used on any device. The **Reboot Device** command cannot be used on certain Android devices. |
+| The **Refresh & Relaunch** command can be used on any device. The **Reboot Device** command cannot be used on certain Android devices. |
 
 
 

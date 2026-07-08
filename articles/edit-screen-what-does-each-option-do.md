@@ -35,7 +35,7 @@ Navigate to the [**Screens page**](https://app.optisigns.com/app/screenManagemen
 | --- | --- |
 |  |  |
 
-The Edit Screen window, shown below, will appear. 
+The Edit Screen window, shown below, will appear. 
 
 
 
@@ -56,15 +56,15 @@ The Edit Screen window, shown below, will appear. 
 * **Type -** Select what will be bound to the screen
 	+ **Asset**: This is a specific content type such as images, videos, or app instances i.e. Weather app or Designer app
 		- You can click on '**Change**' to change the Selected Asset
-		- When the '**Asset**' option is selected, you have the ability to choose from different scaling options - None, Fit, Stretch, or Zoom.
-	+ **Playlist**:  Selecting this allows you to [Select a Playlist](https://support.optisigns.com/hc/en-us/articles/28295104605843) from the drop-down which will bind the screen to that playlist.
+		- When the '**Asset**' option is selected, you have the ability to choose from different scaling options - None, Fit, Stretch, or Zoom.
+	+ **Playlist**: Selecting this allows you to [Select a Playlist](https://support.optisigns.com/hc/en-us/articles/28295104605843) from the drop-down which will bind the screen to that playlist.
 		- A playlist is a grouping of assets and or nested playlists in a specific order.
 		- You can click on 'Go To' to go to the selected playlist. It will open a new window and display the playlist and its contents.
 	+ **Schedule**: Selecting this allows you to [Select a Schedule](https://support.optisigns.com/hc/en-us/articles/360016981853) from the drop-down and designate a schedule you want the screen to follow.
 * **Scale** - Adjust how your selected content displays and fits to your screen with None, Fit, Stretch, or Zoom.
-* **Orientation**- Adjust the positioning of the content on your screen.
+* **Orientation** - Adjust the positioning of the content on your screen.
 	+ **Landscape**: Default layout for most screens
-	+ **Rotate 90 degrees**:  Rotates screen 90 degrees clockwise from landscape.
+	+ **Rotate 90 degrees**: Rotates screen 90 degrees clockwise from landscape.
 	+ **Rotate 180 degrees**: Rotates screen180 degrees clockwise from landscape.
 	+ **Rotate 270 degrees**: Rotates 270 degrees clockwise from landscape.
 
@@ -94,7 +94,7 @@ Clicking the **"Advanced"** option at the bottom of the Edit Screen window provi
 * **Connection Status**
 	+ [**Show Downloading Status**](https://support.optisigns.com/hc/en-us/articles/12947300131731) - Set to show or hide downloading status on your screen
 	+ [**Show Offline Indicator**](https://support.optisigns.com/hc/en-us/articles/12498801963027) - Show an icon on the screen when there's no network connection, this is useful if your screen have live content that need internet connection all the time.
-* **Background Type** - You can select a background for a consistent backdrop in situations where content may not fill the screen or if the content is not Scaled. You can choose from the following:
+* **Background Type** - You can select a background for a consistent backdrop in situations where content may not fill the screen or if the content is not Scaled. You can choose from the following:
 	+ Default
 	+ Color
 	+ Image
@@ -191,7 +191,7 @@ This window provides information about your system in the form of Python lists a
 | **Note:** If you are not using an OptiSigns Player (OptiStick, Pro, or ProMax) these features will not be shown in your options. |
 | --- |
 
-[**Operational Schedule**](https://support.optisigns.com/hc/en-us/articles/28598173096723)- Schedule TV power on/off times and control volume and brightness. 
+[**Operational Schedule**](https://support.optisigns.com/hc/en-us/articles/28598173096723)- Schedule TV power on/off times and control volume and brightness. 
 
 [**Background Music**](https://support.optisigns.com/hc/en-us/articles/360050726634-Playing-background-music-radio-with-OptiSigns) - Setup your screen to play Background Music through the OptiSound add-on.
 

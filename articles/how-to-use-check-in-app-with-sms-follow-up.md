@@ -17,11 +17,11 @@ Optimized for use with OptiSigns on iPad or Android tablets
 Elevate your business operations and boost customer engagement with our intuitive check-in app.
 
 
- 
+ 
 
 
 
- 
+ 
 
 
 **How to set it up with OptiSigns:**
@@ -39,7 +39,7 @@ Select **Check-In Management** and then click on **Build**
 ![](https://support.optisigns.com/hc/article_attachments/23566934954771)
 
 
- 
+ 
 
 
 On the Build page, you can configure several essential settings to customize the appearance of your check-in page on your tablet or iPad.
@@ -52,14 +52,14 @@ Let's go over each configuration in detail:
 
 
 * **General**
-	+ **Asset name** - A unique identifier for the asset, not visible on the tablet or iPad
+	+ **Asset name** - A unique identifier for the asset, not visible on the tablet or iPad
 * **Welcome Page**
 	+ **Show Welcome Page** - Toggle to show or hide the welcome page on the tablet. The welcome page consists of the logo, welcome text(s), and the CTA (call to action) button.
 	+ **Logo** - Upload to customize your logo; Allowed file types: png, jpg, jpeg.
 	+ **Welcome text** - Text displayed on the welcome page.
 	+ **Returning visitor welcome message** - Personalized message for returning visitors i.e. Welcome Back, John!
-	+ **Select font**  - Choose the font style for the welcome page.
-* **CTA Button  (Call to Action)**
+	+ **Select font** - Choose the font style for the welcome page.
+* **CTA Button (Call to Action)**
 	+ **Button text** - Text displayed on the call-to-action button i.e. Please tap here to check-in
 	+ **Button background color** - Customize the background color of the button.
 	+ **Button text color** - Customize the text color of the button.
@@ -86,7 +86,7 @@ Let's go over each configuration in detail:
 ![](https://support.optisigns.com/hc/article_attachments/23862608100371)
 
 
-Once you have set your configuration settings, click **Review**to continue to the next page. 
+Once you have set your configuration settings, click **Review** to continue to the next page. 
 
 
 * On the Review page, you can review all of your configuration settings and preview the screen before committing your changes. You can also preview in full screen by clicking on 'Preview Full Screen' at the bottom.
@@ -95,28 +95,28 @@ Once you have set your configuration settings, click **Review**to continue to t
 ![](https://support.optisigns.com/hc/article_attachments/24134179036435)
 
 
- 
+ 
 
 
-Click **Assign**to continue to the next page.
+Click **Assign** to continue to the next page.
 
 
 * On this page, you can assign your check-in app to a specific screen/tablet or screens/tablets with a specific tag.
 
 
- 
+ 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/24134162893203)
 
 
-When ready, click **Complete**.
+When ready, click **Complete**.
 
 
 ![](https://support.optisigns.com/hc/article_attachments/24134179048979)
 
 
-From here, you could either **Return to Apps** or **Start a New App.**
+From here, you could either **Return to Apps** or **Start a New App.**
 
 
 Upon assigning the app to a screen or tablet, customers can initiate the check-in process by either:
@@ -174,7 +174,7 @@ In the visitor log, users can efficiently manage visitor data with a range of fe
 **Default Settings:** These mirror the configurations you set in your app settings earlier.
 
 
-**Notifications**: These settings are for your SMS message settings  -
+**Notifications**: These settings are for your SMS message settings -
 
 
 #### **🔑Very important:** Please put your Google Maps link to your business here, that's where your customers will be sent to to write review. Click [here](https://support.optisigns.com/hc/en-us/articles/23629657318547-How-to-get-Google-Review-link) to learn more on Google review link.
@@ -192,7 +192,7 @@ If you have multiple locations, you can reach out to us to learn about how to se
 ![](https://support.optisigns.com/hc/article_attachments/23566944306579)
 
 
- 
+ 
 
 
 Due to SMS regulation, very limited changes, and customization can be done to the SMS message. The message content has to remain pretty much constant, the only thing that can be changed is the company name.
@@ -204,7 +204,7 @@ By default, the customer will receive an SMS message **4 hours** after check-in 
 ![](https://support.optisigns.com/hc/article_attachments/23566934988179)
 
 
- 
+ 
 
 
 ## **That's all! It's just that simple!**
@@ -213,7 +213,7 @@ By default, the customer will receive an SMS message **4 hours** after check-in 
 We hope Check-in all will help you to enhance your customer experience and grow your business faster!
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

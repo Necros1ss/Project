@@ -11,7 +11,7 @@ You can read more below for details steps by steps guide.
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360073358514)
 
 
- 
+ 
 
 
 ## **Let's jump in and get started:**
@@ -23,13 +23,13 @@ Go go Walls.io, view your social walls and copy the URL like below.
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360074557813)
 
 
-You will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+You will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 
-Go to Files/Assets, Click on **Apps**.
+Go to Files/Assets, Click on **Apps**.
 
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360073378854)
@@ -47,12 +47,12 @@ Enter the details needed.
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360073383554)
 
 
-* Name: Identification of your wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
+* Name: Identification of your wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * URL Paste the URL of your walls.io here.
-* Update interval: How often your wall should be refreshed. Walls.io automatically update your walls, so it's not critical to set this parameter low. 600 seconds is recommended.
+* Update interval: How often your wall should be refreshed. Walls.io automatically update your walls, so it's not critical to set this parameter low. 600 seconds is recommended.
 
 
-Click **Save**.
+Click **Save**.
 
   
 After Saving, you can preview the wall. It may take several seconds for the app prepare your wall.  
@@ -63,7 +63,7 @@ After Saving, you can preview the wall. It may take several seconds for the app 
 
 
 You have created your Walls.io.  
-You can change the wall any time by click on it in the Files/Assets tab. 
+You can change the wall any time by click on it in the Files/Assets tab. 
 
 
 You can assign the newly created wall to your screen by going to Screens, click Edit screens and assign the wall to screens that you want.
@@ -72,10 +72,10 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created walls of Playlists and Schedules too.
 
 
- 
+ 
 
 
- If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
+ If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
 
 
 

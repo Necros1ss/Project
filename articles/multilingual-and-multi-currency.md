@@ -5,7 +5,7 @@ OptiSigns support payment in USD, CAD, GBP, EUR, and AUD
 Just select your preferred payment currency on checkout.
 
 
- 
+ 
 
 
 #### **Multi-languages**
@@ -36,7 +36,7 @@ Or at the account level that will affect all users under your account
 Each user can set their preference regardless of account level preference.
 
 
- 
+ 
 
 
 To set the language for your profile go to:
@@ -63,7 +63,7 @@ select language (this will apply to all users on your account unless they set th
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4411796296979)
 
 
- 
+ 
 
 
 #### **Apps & Widget Translations:**

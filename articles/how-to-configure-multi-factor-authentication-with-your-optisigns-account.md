@@ -72,13 +72,13 @@ You can download the Backup Codes.
 ![](https://support.optisigns.com/hc/article_attachments/18381755259155)
 
 
-You can turn off the **Text Message (SMS)** at any time, you can just click the "**Turn Off**" button.
+You can turn off the **Text Message (SMS)** at any time, you can just click the "**Turn Off**" button.
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

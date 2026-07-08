@@ -31,7 +31,7 @@ There are two different methods to adding Google Sheets to your DataSources:
 
 
 * In our portal, select your account name, then **More**, then **DataSources**
-* Select **Google Sheets**from the list of options
+* Select **Google Sheets** from the list of options
 * Copy and Paste your Google Sheets URL into the provided text box, then **Import Data**
 	+ Note: You will be prompted to sign into your Google
 * Once your Google Sheets is imported into a table in our portal, click **Update**

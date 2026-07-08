@@ -16,7 +16,7 @@ First, head over to our Engage section in our OptiSigns portal, or click on the 
 <https://app.optisigns.com/app/engageManagement>
 
 
-Select QR Overlay → “Build” 
+Select QR Overlay → “Build” 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/28149616742291)
@@ -43,7 +43,7 @@ For example, if you select “Link”, make sure to paste your desired website U
 ![](https://support.optisigns.com/hc/article_attachments/28149616764307)
 
 
- 
+ 
 
 
 If you’d like to customize your QR Code, select “QR Options” for a variety of customization options to drop down
@@ -81,52 +81,52 @@ You can also adjust the scaling of the asset to
 ![](https://support.optisigns.com/hc/article_attachments/28149616806931)
 
 
- 
+ 
 
 
-Change the QR Code's location with preset locations in the corners of the screen or customize it to where you’d like it to reside on your screen. 
+Change the QR Code's location with preset locations in the corners of the screen or customize it to where you’d like it to reside on your screen. 
 
 
 Also, adjust the QR Code to your preferred size, making it bigger or smaller.
 
 
- 
+ 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/28149646868883)
 
 
- 
+ 
 
 
-Lastly, click **Save** and **Assign** your QR Overlay to your Screen or Tags, or you can assign it later. 
+Lastly, click **Save** and **Assign** your QR Overlay to your Screen or Tags, or you can assign it later. 
 
 
- 
+ 
 
 
 ## **That's all! Congratulations!**
 
 
- 
+ 
 
 
 You’ve successfully created a QR Overlay to fit your brand’s unique identity!
 
 
- 
+ 
 
 
 Note: QR Overlay is available to every subscription plan, but the other features listed in Engage need to have the Engage plan to access them.
 
 
- 
+ 
 
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at support@optisigns.com
 
 
- 
+ 
 
 
   

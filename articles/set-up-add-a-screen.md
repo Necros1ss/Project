@@ -1,5 +1,5 @@
 
- 
+ 
 ## **Introduction:**
 
 
@@ -9,7 +9,7 @@ This article will walk you through
 3) Assign content to your screen
 
 
- 
+ 
 
 
 ## **Let's jump in and get started:**
@@ -35,7 +35,7 @@ You then will see this pairing screen:
 ![](https://support.optisigns.com/hc/article_attachments/18804163213075)
 
 
-Go to our website: [https://app.optisigns.com](https://app.optisigns.com/)
+Go to our website: [https://app.optisigns.com](https://app.optisigns.com/)
 
 
 If you don't have an account already, create one, or you can also log in with Google or Facebook account.
@@ -44,7 +44,7 @@ If you don't have an account already, create one, or you can also log in with Go
 
 
 ![](https://static.wixstatic.com/media/e48f7f_9fed168e13d34c6c93ad2563658be726~mv2.jpg/v1/fill/w_925,h_520,al_c,q_90,usm_0.66_1.00_0.01/e48f7f_9fed168e13d34c6c93ad2563658be726~mv2.webp)
- 
+ 
 
 
 Once you logged in Click the "**Add screen**" button
@@ -53,7 +53,7 @@ Once you logged in Click the "**Add screen**" button
 
 
 ![](https://support.optisigns.com/hc/article_attachments/18804198349971)
- 
+ 
 
 
 In this pop up, type in the Pair Code showing up on your screen. Then click Pair
@@ -62,7 +62,7 @@ In this pop up, type in the Pair Code showing up on your screen. Then click Pair
 
 
 ![](https://support.optisigns.com/hc/article_attachments/18804196438035)
- 
+ 
 
 
 The screen will change to:
@@ -71,7 +71,7 @@ The screen will change to:
 
 
 ![](https://support.optisigns.com/hc/article_attachments/18804188786707)
- 
+ 
 
 
 #### **2) Upload files contents**
@@ -104,7 +104,7 @@ You will see messages saying that your files are successfully uploaded, and you 
 #### **3) Assign content to your screen**
 
 
-You can hover on the file and click the three dots of the file. 
+You can hover on the file and click the three dots of the file. 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/18804516816787)

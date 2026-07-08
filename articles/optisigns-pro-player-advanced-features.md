@@ -121,16 +121,16 @@ On the **Advanced Settings** screen, you can perform various functions such as e
 * **Network Proxy -** Server information for any network proxy. This is a system or router which serves as a middleman between our Pro Player and the internet and can be used to enhance security, privacy, or efficiency.
 * **KeyBoard Layout -** Choose between various international keyboard layouts. Default is US.
 * **Static IP Information -** An IP address that remains the same over time. We allow two types of Static IP: WLAN or ETH. These can improve network performance. This screenshot shows WLAN; if Static ETH IP is chosen, these will be ETH IP Address, Default Gateway, Subnet Mask, and DNS Server.
-	+ **IP Address -**Set the Static IP address.
-	+ **Default Gateway**- Set the Default Gateway for the Static IP address. This is the IP address of your router.
-	+ **Subnet Mask**- Set the Subnet Mask for the Static IP. Usually, this number is 255.255.255.0 or some variant of this.
-	+ **DNS Server**- Lets you set up your DNS server for the Static IP address.
+	+ **IP Address -** Set the Static IP address.
+	+ **Default Gateway** - Set the Default Gateway for the Static IP address. This is the IP address of your router.
+	+ **Subnet Mask** - Set the Subnet Mask for the Static IP. Usually, this number is 255.255.255.0 or some variant of this.
+	+ **DNS Server** - Lets you set up your DNS server for the Static IP address.
 
 ![](https://support.optisigns.com/hc/article_attachments/44646006341779)
 
-* **802.1x UserName**- Username of the 802.1x Enterprise Ethernet network
-* **802.1x Password**- Password of the 802.1x Enterprise Ethernet network
-* **802.1x Certificate**- Allows you to install a certificate for accessing an 802.1x Enterprise network. The certificate will need to be present locally on the device in order to be installed.
+* **802.1x UserName** - Username of the 802.1x Enterprise Ethernet network
+* **802.1x Password** - Password of the 802.1x Enterprise Ethernet network
+* **802.1x Certificate** - Allows you to install a certificate for accessing an 802.1x Enterprise network. The certificate will need to be present locally on the device in order to be installed.
 
 
 
@@ -175,7 +175,7 @@ This means the OptiSigns Pro Player has received the command and executed it. Yo
 
 Pro Players allow remoting into devices using SSH. Here's how to set that up.
 
-First, enable **SSH**in your Advanced Settings.
+First, enable **SSH** in your Advanced Settings.
 
 ![ssh advanced settings](https://support.optisigns.com/hc/article_attachments/40985616289939)
 
@@ -193,7 +193,7 @@ SSH [optisigns@<ip-address-here>](mailto:optisigns@<ip-address-here>) -p <port-n
 ```
 When it asks for a password, type **optisigns**. This should connect you to the device via SSH.
 
-To change the default password (which we ***highly recommend***), type:
+To change the default password (which we ***highly recommend***), type:
 
 
 ```
@@ -227,7 +227,7 @@ Here, you have several additional options. Hit **Factory Reset**. You’ll recei
 
 ![](https://support.optisigns.com/hc/article_attachments/35577555704723)
 
-You’ll need to enter your **admin password.**
+You’ll need to enter your **admin password.** 
 
 
 

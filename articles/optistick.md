@@ -25,7 +25,7 @@ The OptiStick is recommended for use to up to 4 zones content, and 16h per day p
 
 **How to Order the OptiSigns OptiStick Digital Signage Player:**
 
-* Buy directly from the OptiSigns [Website](https://links.optisigns.com/szzk)
+* Buy directly from the OptiSigns [Website](https://links.optisigns.com/szzk) 
 	+ When ordering directly from our website you can preconfigure the Wi-Fi and it will pair it to your account.
 	+ Shipping time - 3-5 days to most locations in the US
 * Buy from Amazon
@@ -44,7 +44,7 @@ The OptiStick is recommended for use to up to 4 zones content, and 16h per day p
 | --- |
 | Don’t power the device with TV’s USB port, most TV USB ports do not have enough power to run the device stably for extended periods of time. |
 
- 
+ 
 
 ![](https://support.optisigns.com/hc/article_attachments/27735423456659)
 
@@ -67,11 +67,11 @@ From here, there are two paths, depending if you pre-configured your device at c
 * If you **DID NOT** pre-configure your device at checkout:
 	+ Keep following the guide below.
 
-3. If you see the below screen below please connect to the Network 
+3. If you see the below screen below please connect to the Network 
 
 ![WIN_20250331_10_01_57_Pro.jpg](https://support.optisigns.com/hc/article_attachments/39894411653395)
 
-4. To configure your Wi-Fi now, press the Ok button on the remote. Network and Internet page will open up. In the Network & Internet, select your Wi-Fi network, and then enter your Wi-Fi password. 
+4. To configure your Wi-Fi now, press the Ok button on the remote. Network and Internet page will open up. In the Network & Internet, select your Wi-Fi network, and then enter your Wi-Fi password. 
 
 ![WIN_20250331_10_04_15_Pro.jpg](https://support.optisigns.com/hc/article_attachments/39894458704019)
 
@@ -84,7 +84,7 @@ From here, there are two paths, depending if you pre-configured your device at c
 * You can also use Ethernet Port on the device and connect to the internet via wired connection.
 * If you order an un-provisioned device (the device will not be automatically provisioned to your account because you order as guest, or you just chose to order an un-provisioned device).
 
-6. After connecting to the internet, the device will generate a Pairing code like below. You can log in to <https://app.optisigns.com> and  click on Add Screen to Pair the device. For more detail refer to this [article](https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen)
+6. After connecting to the internet, the device will generate a Pairing code like below. You can log in to <https://app.optisigns.com> and click on Add Screen to Pair the device. For more detail refer to this [article](https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen)
 
   
 ![](https://support.optisigns.com/hc/article_attachments/39900231805843)
@@ -95,19 +95,19 @@ From here, there are two paths, depending if you pre-configured your device at c
 
 8 Click the Type drop down list and select Playlist & Select the Playlist you want to use. If you haven't create a playlist yet, you can use the Simple Playlist that was automatically created with your account.
 
- 
+ 
 
 ![](https://support.optisigns.com/hc/article_attachments/27527231218451)
 
- 
+ 
 
 Click Save.
 
 That's all! Congratulations, you have set up your OptiStick Device.
 
- 
+ 
 
-If you have questions please don't hesitate to contact us at support@optisigns.com 
+If you have questions please don't hesitate to contact us at support@optisigns.com 
 
 
 

@@ -10,7 +10,7 @@ It displays images related to the city in the Location field, making your experi
 
 *Image of a rainy day in Houston, Texas, USA.*
 
- 
+ 
 
 Below is a full list of cities we’re currently supporting:
 
@@ -41,7 +41,7 @@ Below is a full list of cities we’re currently supporting:
 | Omaha, Nebraska | Buffalo, New York |
 | St. Louis, Missouri | *More coming soon...* |
 
- 
+ 
 
 
 
@@ -49,7 +49,7 @@ Below is a full list of cities we’re currently supporting:
 | --- | --- |
 | Montreal, Quebec | Toronto, Ontario |
 
- 
+ 
 
 
 

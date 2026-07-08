@@ -11,7 +11,7 @@ Using OptiSigns Emergency Feed app, you can have OptiSigns listen to an RSS feed
 
 When the emergency is over, the feed returns blank, or no more matching content. OptiSigns will return to playing signage content as usual.
 
- 
+ 
 
 ![emergency feed example image](https://signagecloud-prd.s3.amazonaws.com/editor/5f1595d6020cce00136d5164/f37643a3bef24cb59f514684aa518c3d_5f1595d6020cce00136d5164.jpg)
 
@@ -42,9 +42,9 @@ Select **Emergency Feed:**
 
 
 ![select emergency feed app](https://support.optisigns.com/hc/article_attachments/29815767093395)
- 
+ 
 You'll see the following screen:
- 
+ 
 ![emergency feed app setup](https://support.optisigns.com/hc/article_attachments/47770635827731)
 
 
@@ -105,14 +105,14 @@ Click **Advanced** to expand the field and provide a slate of additional options
 * **Title Tag:** Message title from the RSS XML feed. The default is <title> - you can change it if your feed is different
 * **Description Tag**: Message content from the RSS XML feed. The default is <description> - you can change it if your feed is different
 * **Location (Screen Tags):** Some RSS can pass locations tag (i.e. emergency in a certain location only). The default tag is <location> - you can change it if your feed is different
-* **Filter content containing:** Filter content based on specific words in the title or description (i.e. "fire"). If any title or description contains the word "fire" (non-case insensitive), the app will trigger the screen takeover.
-* **Exclude title containing:** this filter will only apply to the title. You can hide all the old feeds by filtering with specific words in the title. I.E: “All Clear”, so after the emergency is gone, all the feeds before this title will be hidden, then the screen will revert to the original content or just display the new content after that.
+* **Filter content containing:** Filter content based on specific words in the title or description (i.e. "fire"). If any title or description contains the word "fire" (non-case insensitive), the app will trigger the screen takeover.
+* **Exclude title containing:** this filter will only apply to the title. You can hide all the old feeds by filtering with specific words in the title. I.E: “All Clear”, so after the emergency is gone, all the feeds before this title will be hidden, then the screen will revert to the original content or just display the new content after that.
 
 
 
 
 Click **Save**.
- 
+ 
 After Saving, the app will start listening to the RSS feed. If the conditions match based on your settings, they will take over the screens you targeted and display the emergency messages from the RSS feed.
 ### That's all!
 
@@ -121,8 +121,8 @@ If you have any additional questions, concerns, or any feedback about OptiSigns,
 
 
 
- 
- 
+ 
+ 
 
 
 ---

@@ -76,18 +76,18 @@ Go to **Files/Assets**, then click the **Apps** button on the left side of the s
 Find and click on **SharePoint.**
 
 ![](https://support.optisigns.com/hc/article_attachments/37403530798611)
- 
+ 
 Enter details for your SharePoint site. The URL will be the one you copied earlier.
 ![](https://support.optisigns.com/hc/article_attachments/37403516113939)
 
-* **Name -** Name of your app asset, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
+* **Name -** Name of your app asset, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * **URL -** The URL address to your SharePoint site. This is the URL we copied earlier.
 
 
 Click **Sign In** for a dropdown with more options. Most SharePoint sites require a Sign In before they can be viewed. Here, you'll input that information.
 
 
-* **Master Password -** When checked, this will prompt you to enter a Master Password for use on OptiSigns.
+* **Master Password -**  When checked, this will prompt you to enter a Master Password for use on OptiSigns.
 	+ While your password is encrypted with OptiSigns, this adds an extra layer of encryption. This way, even OptiSigns cannot decrypt your password. We will go into more detail on our encryption methods in our [FAQ section.](#FAQs)
 * **Username -** Your Microsoft account username.
 * **Password -** Your Microsoft account password.
@@ -187,11 +187,11 @@ This will ensure no one, not even OptiSigns, can decrypt your password under any
 OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns or getting SharePoint to work on it, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
 
 
- 
+ 
 
 
 
- 
+ 
 
 
 

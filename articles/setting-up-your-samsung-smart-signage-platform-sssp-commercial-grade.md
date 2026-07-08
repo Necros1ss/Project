@@ -1,4 +1,4 @@
-### Samsung Smart Signage Platform —SSSP— powered displays are one of the most popular commercial grade TVs. OptiSigns supports Samsung SSP devices natively. Nearly all features are supported, including offline playback and auto update of the OptiSigns app. Getting your SSSP with OptiSigns is an easy process!
+### Samsung Smart Signage Platform —SSSP— powered displays are one of the most popular commercial grade TVs. OptiSigns supports Samsung SSP devices natively. Nearly all features are supported, including offline playback and auto update of the OptiSigns app. Getting your SSSP with OptiSigns is an easy process!
 
 
 
@@ -6,9 +6,9 @@
 | --- |
 | Your screen should be marked as "SSSP/Samsung Smart Signage Platform". Samsung has other product lines that run on Tizen OS, and aren't SSSPs. Not sure if your Samsung Smart TV is an SSP or uses Tizen OS? Check out our [**Full List of Samsung SSP Models.**](https://support.optisigns.com/hc/en-us/articles/17882306279315-Samsung-Smart-Signage-Platform-SSSP-Supported-Model-List) |
 
- 
+ 
 
-*\*For TVs utilizing Samsung Tizen OS, please use this guide:* [*How to use OptiSigns with Browser*](https://www.optisigns.com/post/how-to-use-optisigns-with-browser)*.*
+*\*For TVs utilizing Samsung Tizen OS, please use this guide:* [*How to use OptiSigns with Browser*](https://www.optisigns.com/post/how-to-use-optisigns-with-browser)*.* 
 
 
 
@@ -61,7 +61,7 @@ The OptiSigns app for SSSP is now installed and will automatically launch, showi
 
 ![pairing code centered.jpg](https://support.optisigns.com/hc/article_attachments/33310214922387)
 
-Now, you are ready to pair the screen and begin assigning content to it. After you pair your screen, the OptiSigns app will automatically launch each time the SSSP screen is turned on. 
+Now, you are ready to pair the screen and begin assigning content to it. After you pair your screen, the OptiSigns app will automatically launch each time the SSSP screen is turned on. 
 *For detailed steps on pairing your screen and publishing content, see our simple* [*set up & add screen guide*](https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen)*.*
 
 
@@ -69,7 +69,7 @@ Now, you are ready to pair the screen and begin assigning content to it. After y
 
 ## Option 2: Install on a Brand New SSSP Display Through Out-of-Box Experience Setup:
 
-This option is if your SSSP display is new, or just went through a factory reset. It will start with the out-of-box experience to guide you through the initial setup. 
+This option is if your SSSP display is new, or just went through a factory reset. It will start with the out-of-box experience to guide you through the initial setup. 
 
 Please note:
 
@@ -99,9 +99,9 @@ The OptiSigns app will open and a pairing code will appear:
 
 ![pairing code centered](https://support.optisigns.com/hc/article_attachments/33310214922387)
 
-Now you are ready to pair the screen and begin assigning content to it. After you pair your screen, the OptiSigns app will automatically launch each time the SSSP screen is turned on. 
+Now you are ready to pair the screen and begin assigning content to it. After you pair your screen, the OptiSigns app will automatically launch each time the SSSP screen is turned on. 
 
- 
+ 
 
 For detailed steps on pairing your screen and publishing content, see our simple [set up & add screen guide](https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen).
 
@@ -111,7 +111,7 @@ For detailed steps on pairing your screen and publishing content, see our simple
 
 ## Limitations
 
-Samsung SSP graphics resolution output is 1080P only. Take precaution when using 4k videos. Samsung SSP can only process a single video at any point of time. Preloading of the next video is not allowed. The transition from video to video is not as smooth as other players that allow video preloading. 
+Samsung SSP graphics resolution output is 1080P only. Take precaution when using 4k videos. Samsung SSP can only process a single video at any point of time. Preloading of the next video is not allowed. The transition from video to video is not as smooth as other players that allow video preloading. 
 
 ![mceclip11.png](https://support.optisigns.com/hc/article_attachments/11126230309651)
 

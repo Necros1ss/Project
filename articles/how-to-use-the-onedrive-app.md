@@ -1,4 +1,4 @@
-With OptiSigns, you can quickly put images, videos from your Microsoft OneDrive on your Digital Signs screens  by using OneDrive App. The app will create a playlist for files in your OneDrive, any changes, updates, add, remove will automatically be synced. This allow you to quickly update, share contents within your team without needing to login to OptiSigns portal. 
+With OptiSigns, you can quickly put images, videos from your Microsoft OneDrive on your Digital Signs screens by using OneDrive App. The app will create a playlist for files in your OneDrive, any changes, updates, add, remove will automatically be synced. This allow you to quickly update, share contents within your team without needing to login to OptiSigns portal. 
 
 With the OptiSigns OneDrive app you can:
 
@@ -8,20 +8,20 @@ With the OptiSigns OneDrive app you can:
 
 ## **Let's jump in and get started:**
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App" and add the OneDrive app to your Account.
 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/26400546709779)
- 
+ 
 Click OneDrive app:
 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360076676833)
- 
+ 
 Sign in with Microsoft account.
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/11413102757907)
@@ -34,14 +34,14 @@ Select the folder you want to use:
 
 ![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360076676873)
 
- Enter information for your OneDrive app
+ Enter information for your OneDrive app
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/11413154341267)
 
-* Name: Name of your OneDrive App, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
+* Name: Name of your OneDrive App, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Folder: Your folder name from OneDrive.
 * Transition Effect: Transition effect between your images, and videos in the folder.
-* Transition Speed: How fast you want your transitions to animate.
+* Transition Speed: How fast you want your transitions to animate.
 * Duration for Image: How long each image should show on your screen, default is 10 seconds.
 * Max Video Duration: Default is 0, which means the app will play each video till the end. You can set it to some other values to prevent too long videos. For example, if you set this value to 60 seconds. If a video is longer than 60s, it will get cut off at 60s to play next item. If a video is less than 60s, it will play the duration of the video.
 
@@ -73,7 +73,7 @@ Another option is to switch devices.
 ## **That's all! Congratulations!**
 
 You have created your OneDrive app.  
-You can change the wall at any time by clicking on it in the Files/Assets tab. 
+You can change the wall at any time by clicking on it in the Files/Assets tab. 
 
 You can assign the newly created wall to your screen by going to Screens, clicking Edit screens, and assigning the wall to screens that you want.
 
@@ -96,9 +96,9 @@ You can also force refresh, and sync by clicking the Refresh Data button.
 * Microsoft does not have published SLA for integration API, hence sometime it could take really long time before Microsoft send folder change notification. As a workaround, OptiSigns will check the OneDrive folder every 12h to ensure folders are synced up.
 * You can only create 100 OneDrive app per 1 account, if you need more please contact [support@optisigns.com](mailto:support@optisigns.com) to discuss Enterprise Plan
 
- 
+ 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

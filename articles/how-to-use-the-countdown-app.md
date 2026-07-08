@@ -5,7 +5,7 @@
 	+ [Theme Settings](#ThemeSettings)
 	+ [Advanced Settings](#Advanced)
 
-The CountDown (or Count Down) app is a simple way to display a customizable count down clock for any occasion. 
+The CountDown (or Count Down) app is a simple way to display a customizable count down clock for any occasion. 
 
 ![OptiSigns count down timer example](https://support.optisigns.com/hc/article_attachments/45147769373075)
 
@@ -56,7 +56,7 @@ This allows you to choose the precise date and time for the countdown to be comp
 
   
 ![timer styles count down app](https://support.optisigns.com/hc/article_attachments/45147743666323)  
- 
+ 
 
 
 Specific differences between these can be seen in the Preview panel.
@@ -142,9 +142,9 @@ After you've configured the CountDown app to your liking, hit **Save**. Your Cou
 
 ### That's all!
 
-OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
 
- 
+ 
 
 
 

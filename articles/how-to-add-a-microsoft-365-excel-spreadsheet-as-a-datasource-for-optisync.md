@@ -74,7 +74,7 @@ The duration of time between updates if you chose "Periodic direct access" or "P
 
 Now you've successfully added your Excel spreadsheet as a DataSource to be used for data mapping with OptiSync!
 
- 
+ 
 
 
 

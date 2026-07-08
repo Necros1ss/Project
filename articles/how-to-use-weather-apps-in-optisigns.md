@@ -77,8 +77,8 @@ Fill in all the required information for your Weather Wall on the left side:
 ![](https://support.optisigns.com/hc/article_attachments/29483885657107)
 
 
-* **Font Size:** Use the default font size or customize it for text on your Weather Wall.
-* **Theme:** You can select from a list of pre-designed themes.
+* **Font Size:** Use the default font size or customize it for text on your Weather Wall.
+* **Theme:** You can select from a list of pre-designed themes.
 
 
 ![](https://support.optisigns.com/hc/article_attachments/29483894777363)
@@ -91,7 +91,7 @@ Fill in all the required information for your Weather Wall on the left side:
 ![](https://support.optisigns.com/hc/article_attachments/29483431942547)
 
 
-* **Weather Condition:** You can view our default settings or customize each weather condition for three themes: **City Themes, Pacific Blue,** and **Pearl Flaxen**. Additionally, you can upload a custom photo for the chosen weather condition.
+* **Weather Condition:** You can view our default settings or customize each weather condition for three themes: **City Themes, Pacific Blue,** and **Pearl Flaxen**. Additionally, you can upload a custom photo for the chosen weather condition.
 
 
 ![](https://support.optisigns.com/hc/article_attachments/29483827903251)
@@ -109,17 +109,17 @@ Fill in all the required information for your Weather Wall on the left side:
 ![](https://support.optisigns.com/hc/article_attachments/40437012090003)
 
 
-* Click **Reset** to return to default settings.
-* **Advanced options:**More custom options
+* Click **Reset** to return to default settings.
+* **Advanced options:** More custom options
 
 
 ![](https://support.optisigns.com/hc/article_attachments/29483431958931)
 
 
 * **Scrolling Strip Font Size:** If you put the Weather Wall app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be.
-* **Lock Location:** Position and lock the weather location to the bottom left or right on the Scrolling Strip.
-* **Visibility:** With City-theme, select the visibility unit - miles, meters, or kilometers.
-* **Wind Speed:**Select the wind speed unit - mph, m/sec, or km/h.
+* **Lock Location:** Position and lock the weather location to the bottom left or right on the Scrolling Strip.
+* **Visibility:** With City-theme, select the visibility unit - miles, meters, or kilometers.
+* **Wind Speed:** Select the wind speed unit - mph, m/sec, or km/h.
 
 
 To enhance the user experience with the Weather Wall app, we have added the City Themes feature, which you can view at the following article:
@@ -150,13 +150,13 @@ To enhance the user experience with the Weather Wall app, we have added the City
 ### hot-weather.png
 
 
-**Hot Weather**- This icon displays if the temperature is >=86°F.
+**Hot Weather** - This icon displays if the temperature is >=86°F.
 
 
- 
+ 
 
 
-The **Sun**and **Moon**icons display if it is day or night, respectively.
+The **Sun** and **Moon** icons display if it is day or night, respectively.
 
 
 
@@ -208,10 +208,10 @@ Then fill out the information in the Weather Radar app:
 * **Show forecast details:** display an overlay layer to show forecast day by day, hour by hour details.
 * **Play forecast:** play the forecast radar movement like you would see on TVs.
 * **Update interval:** The default is 600 seconds, or 10 minutes. This means the app will refresh the link every 10 mins for any changes in your presentation. You can adjust this interval by typing in a different value.
-* **Advanced Settings:** In this section, you can adjust the metric system for **Wind, Temperature, Rain, Waves, Snow, and Pressure.**
+* **Advanced Settings:** In this section, you can adjust the metric system for **Wind, Temperature, Rain, Waves, Snow, and Pressure.**
 
 
-After setting up your information, click **Save** to add your Weather Radar app to your account. If you'd like to tailor it to your specific location, see our article on [how to use weather apps based on device location](https://support.optisigns.com/hc/en-us/articles/4408052029587-How-to-use-weather-app-based-on-devices-location).
+After setting up your information, click **Save** to add your Weather Radar app to your account. If you'd like to tailor it to your specific location, see our article on [how to use weather apps based on device location](https://support.optisigns.com/hc/en-us/articles/4408052029587-How-to-use-weather-app-based-on-devices-location).
 
 
 
@@ -221,7 +221,7 @@ After setting up your information, click **Save** to add your Weather Radar app
 Weather Apps can ideally be used within a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573), allowing you to display weather content alongside other assets and content on a screen. If you don't know how to [push content to your screens](https://support.optisigns.com/hc/en-us/articles/18988049363859), read our article.
 
 
- 
+ 
 
 
 ## That's it!

@@ -14,15 +14,15 @@ Then you can recreate the Facebook app in the OptiSigns portal: <https://app.opt
 
 ![](https://support.optisigns.com/hc/article_attachments/51302925708435)* **Select your Facebook Page and allow the OptiSigns to your Facebook page**
 
-![](https://support.optisigns.com/hc/article_attachments/51302925708819) 
+![](https://support.optisigns.com/hc/article_attachments/51302925708819) 
 
 * **Select Continue as "Your Profile Name"**
 
 ![](https://support.optisigns.com/hc/article_attachments/51302925709587)You should be able to see your Facebook page in the dropdown list.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
- 
+ 
 
 
 

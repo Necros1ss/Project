@@ -11,7 +11,7 @@ If you're unable to use a credit card, please contact us at [billing@optisigns.c
 
 | **Country** | **Currency** | **Accepted Payment Methods** |
 | --- | --- | --- |
-| United States | USD | Credit/ Debit Cards, ACH Direct Debit,  Check ($25 payment processing fees) |
+| United States | USD | Credit/ Debit Cards, ACH Direct Debit,  Check ($25 payment processing fees) |
 | Canada | CAD | Credit/ Debit Cards, |
 | EU Countries | EUR | Credit/ Debit Cards, [SEPA Debit](https://support.optisigns.com/hc/en-us/articles/35749502945555), [iDEAL](https://support.optisigns.com/hc/en-us/articles/35749502945555), Bancontact, Sofort |
 | United Kingdom | GBP | Credit/ Debit Cards |
@@ -41,13 +41,13 @@ Our billing team will then send you a quote. Once you’ve obtained a Purchase O
 For OptiSigns Vendor Payment Information, you can find it [here](https://drive.google.com/open?id=1KMc3ukI7kA6v6SnUJDzqT9mAtvY5GVwm&usp=drive_fs).
 
 
- 
+ 
 
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our billing team at [billing@optisigns.com](mailto:billing@optisigns.com)
 
 
- 
+ 
 
 
 

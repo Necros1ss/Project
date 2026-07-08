@@ -6,12 +6,12 @@
 | With the launch of the Amazon Signage Stick, Amazon has been removing support for digital signage on FireSticks. As such, OptiSigns will be ending its support for Amazon Firesticks in the near future**.** We recommend our OptiStick device, or the Amazon Signage Stick. In addition, in October 2024, [**Amazon eliminated the ability to auto start the app**](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/) with FireStick & Fire TVs starting with FireOS 8. Amazon have released their own [**digital signage stick**](https://signage.amazon.com/), which supports OptiSigns, and we also have our own [**OptiSigns Android Player**](https://app.optisigns.com/app/s/order-device). |
 
 
- 
+ 
 There are workarounds with [ADB commands](https://support.optisigns.com/hc/en-us/articles/23274673797139) or manually to start the app.
 However, those workarounds are very inconvenient. We believe that, without an easy way to AutoStart apps, the Fire Stick is not a good solution for a Digital Signage player.
- 
+ 
 In addition, newer Firesticks, including the Firestick Select series, use a new OS called Vega OS. In addition to the auto-start problems, with Vega OS the app will fall asleep frequently unless videos are played every several minutes. This means it cannot be used to display static images by themselves.
- 
+ 
 Consider a dedicated player, like our [Android Stick Player](https://links.optisigns.com/szzk), Amazon's [digital signage stick](https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Digital-Signage-Stick-Setup), Google ChromeCast, or any [Windows, Mac, or Linux](https://www.optisigns.com/download) device.
 * [FireStick Lite](https://www.amazon.com/fire-tv-stick-lite-latest-alexa-voice-remote-lite/dp/B091G4YP57/) - $29.99 - this one is still running FireOS 7 and still can AutoStart OptiSigns. However, Amazon may roll out OS updates in the future.
 	+ FireStick Lite has severe issues due to performance, so we do not recommend these even though they technically work.
@@ -35,7 +35,7 @@ If you already have FireStick Lites, or older FireStick versions, you can contin
 
 
 
- 
+ 
 
 
 
@@ -54,7 +54,7 @@ If you already have FireStick Lites, or older FireStick versions, you can contin
 So let's dive in!
 
 
- 
+ 
 ### **1) Set up Amazon Fire TV Stick**
 
 
@@ -127,7 +127,7 @@ If you don't have an account already, you can create one, or you can also log in
 
 
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360055530533)Once you logged in Click "**Add screen**" button
- 
+ 
 
 
 
@@ -148,7 +148,7 @@ The Fire TV screen will change to:
 Now you are ready to upload and assign content.
 
 
- 
+ 
 
 
 ### **3) Using OptiSigns' web portal to assign content and remotely manage your screens**

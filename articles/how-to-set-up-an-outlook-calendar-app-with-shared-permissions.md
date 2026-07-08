@@ -52,7 +52,7 @@ Click the Display Name of the resource you want to change the permissions of to 
 
 Log in to Outlook with the user you wish to display OptiSigns on. Hit **Add Calendar**:
 
-![microsoft outlook add calendar](https://support.optisigns.com/hc/article_attachments/45619197986323)Next, click **Add from Directory**, then **Select an Account**. 
+![microsoft outlook add calendar](https://support.optisigns.com/hc/article_attachments/45619197986323)Next, click **Add from Directory**, then **Select an Account**. 
 
 ![microsoft outlook add calendar directory](https://support.optisigns.com/hc/article_attachments/45619197986963)You'll choose your User account here:
 
@@ -68,7 +68,7 @@ From here, follow the normal instructions on [Setting Up a Microsoft Outlook Cal
 
 ### That's all!
 
-OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
 
 
 

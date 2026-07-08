@@ -4,16 +4,16 @@ With OptiSigns Website Screenshot App, you can capture a screenshot on the URL l
 This is particularly useful if you have public website page running on any browsers that you want to push to your screens, and your screens sometimes can be offline, or you want to avoid the loading time of the website.
 
 
- 
+ 
 
 
 ### **Let's jump in and get started:**
 
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 
 Go to Files/Assets, Click on "App", search for and add Screen Capture to your Account.
@@ -28,7 +28,7 @@ Enter your Website Screenshot app information:
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/10258999491219)
 
 
-* Name: Name of your Website Screenshot app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
+* Name: Name of your Website Screenshot app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 * URL: URL link that you want to take Screenshot.
 * Snapshot Interval: in hours, how often the Website Screenshot app should take screenshot of your website. Default is 24 hours. If you want to have interval shorter than 1h, it will require Enterprise plan, please contact us at [support@optisigns.com](mailto:support@optisigns.com) with some details of your use cases so we can upgrade you.
 * Resolution: Select the resolution for your snapshot.
@@ -48,7 +48,7 @@ You can assign the newly created Website Screenshot app to your screen by going 
 You can put the walls in a Playlist, Schedule too.
 
 
- 
+ 
 
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at[support@optisigns.com](mailto:support@optisigns.com) 

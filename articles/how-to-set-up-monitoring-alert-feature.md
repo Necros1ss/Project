@@ -59,7 +59,7 @@ Fill in the settings for your policy:
 You can click "Manage Alert Rules" to go to manage alert rule pages and update your rules if needed.
 
 
- 
+ 
 
 
 #### **That's it!**
@@ -68,10 +68,10 @@ You can click "Manage Alert Rules" to go to manage alert rule pages and update y
 You have created Monitoring Alert rule to help you get notifications when your screens are down, so you can take actions.
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

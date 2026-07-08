@@ -24,7 +24,7 @@ Open the **Terminal,** run command line, use this command to switch the audio ou
 amixer cset numid=3 2
 ```
 
-If output is set to `2`, which is HDMI.  Output to `1` is analogue (headphone jack). Default setting is `0` is automatic.
+If output is set to `2`, which is HDMI. Output to `1` is analogue (headphone jack). Default setting is `0` is automatic.
 
 
 **Solution 3:**
@@ -41,13 +41,13 @@ sudo raspi-config
 ![mceclip6.png](https://support.optisigns.com/hc/article_attachments/8571021810579)
 
 
-Select **System Options**.
+Select **System Options**.
 
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/8570979748499)
 
 
-Select **Audio**.
+Select **Audio**.
 
 
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/8570950798611)
@@ -71,13 +71,13 @@ After that, run reboot in the command to reboot your Raspberry Pi
 ![mceclip5.png](https://support.optisigns.com/hc/article_attachments/8570988279571)
 
 
- 
+ 
 
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
 

@@ -6,10 +6,10 @@ Putting a Streaming video on your digital signs screens is easy with OptiSigns.
 ## **Let's jump in and get started:**
 
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 
 Go to Files/Assets, Click on "App". And click the Streaming App.
@@ -34,7 +34,7 @@ Enter your Streaming App information:
 
 Click Save.  
 After Saving, you can Preview the video to verify.
- 
+ 
 ## **That's all! Congratulation!**
 
 
@@ -47,10 +47,10 @@ You can assign the newly created Streaming App asset to your screen by going to 
 You can put the Streaming App to a Playlist, Schedule too.
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
 
 
 

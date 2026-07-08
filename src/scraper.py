@@ -21,6 +21,9 @@ def process_html_content(html_body):
     if not html_body:
         return ""
     
+    # Replace non-breaking spaces to avoid encoding issues (like Â)
+    html_body = html_body.replace('\xa0', ' ').replace('&nbsp;', ' ')
+    
     soup = BeautifulSoup(html_body, 'html.parser')
     
     # Convert relative links and images to absolute URLs

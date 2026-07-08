@@ -10,7 +10,7 @@ The add-on is a ~200MB app, so it will take several minutes to download and acti
 If auto-activation fails, then you can follow these steps to manually install & activate AI detection add-on on your Linux or Raspberry Pi devices.
 
 
- 
+ 
 
 
 **Before you start, please ensure that you have:**
@@ -96,13 +96,13 @@ Open Terminal and run:
 ~/bin/optisigns-ai-detection remove
 ```
 
- 
+ 
 
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
 

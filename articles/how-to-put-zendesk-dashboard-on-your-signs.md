@@ -4,7 +4,7 @@ This article will guide you through how to create and use a Zendesk App.
 ## Let's jump in and get started:
 
 
- Go to App screen and select Zendesk:
+ Go to App screen and select Zendesk:
 
 
 ![zendesk-1.png](https://support.optisigns.com/hc/article_attachments/360099562894)
@@ -31,7 +31,7 @@ Congratulation! You have created your Zendesk App.
 
 
 On your device, you will need to enter in username and password to log in.  
-If you are using FireStick, you can use the [Fire TV Remote app on your phone](https://www.lifewire.com/use-phone-as-remote-control-for-amazon-fire-tv-stick-4571277) to make it easier to enter password, or connect up a [Bluetooth keyboard, mouse](https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-display-content-inside-websites-that-require-login-).
+If you are using FireStick, you can use the [Fire TV Remote app on your phone](https://www.lifewire.com/use-phone-as-remote-control-for-amazon-fire-tv-stick-4571277) to make it easier to enter password, or connect up a [Bluetooth keyboard, mouse](https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-display-content-inside-websites-that-require-login-).
 
 
 You can change the wall any time by click on it in the Files/Assets tab.
@@ -43,7 +43,7 @@ You can assign the newly created app to your screen by going to Screens, click E
 You can put the walls in a Playlist, Schedule too.
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
 
 
 

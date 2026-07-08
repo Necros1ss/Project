@@ -135,7 +135,7 @@ We’ll set the **Delay** to **3 seconds** and then set the **End Delay** to **3
 | --- |
 | The formula for each Object Animation iteration is as follows: Delay + Animation Duration + End Delay = 1 Iteration. |
 
- 
+ 
 
 
 
@@ -168,7 +168,7 @@ OptiSigns is the leader in [digital signage software](https://www.optisigns.com/
 
   
   
- 
+ 
 
 
 

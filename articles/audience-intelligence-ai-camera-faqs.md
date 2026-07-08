@@ -19,7 +19,7 @@ OptiSigns Audience Intelligence, namely AI Camera, is an app that allows you to 
 1. Detect and collect data about passing by foot traffic to analyze impressions and exposure of your digital sign
 2. Responsively display different content based on the demographic of viewers standing in front of your screens.
 
- 
+ 
 
 
 
@@ -34,7 +34,7 @@ OptiSigns AI Camera can be used for:
 
 To set up the OptiSigns AI Camera, follow the [quick start guide here.](https://support.optisigns.com/hc/en-us/articles/27690296225555)
 
- 
+ 
 
 
 
@@ -71,13 +71,13 @@ This data is:
 * Anonymous and not personal identifiable
 * Processed on the fly on the local device
 
-OptiSigns does not store images or facial identification information on our servers, or locally on the device through the OptiSigns Digital Signage app. The ONLY stored data points are the four points above, which can be accessed through the **AI Analytics** tab in the OptiSigns web portal.
+OptiSigns does not store images or facial identification information on our servers, or locally on the device through the OptiSigns Digital Signage app. The ONLY stored data points are the four points above, which can be accessed through the **AI Analytics** tab in the OptiSigns web portal.
 
 Therefore, **OptiSigns is GDPR and SOCII compliant.**
 
 However, customers can store images and facial ID through the use of third party software via their webcam. This is done completely outside of OptiSigns, and would require compliance with local laws and regulations.
 
- 
+ 
 
 
 
@@ -89,7 +89,7 @@ OptiSigns AI is optimized for real-time detection, not accuracy.
 
 In general, expect **80+%** accuracy in detection.
 
- 
+ 
 
 
 
@@ -115,7 +115,7 @@ For the AI Detection program:
 * **For Windows:** Download and run the [**optisigns-ai-detection.exe**](https://links.optisigns.com/ai-add-on-win) program. The AI Camera **WILL NOT** run without this download.
 * **For Linux, Raspberry Pi,** and **Android:** The AI Detection program is downloaded automatically.
 
- 
+ 
 
 
 
@@ -125,7 +125,7 @@ For the AI Detection program:
 
 The Audience Intelligence feature is part of our **Engage** subscription plan, which costs $30/month per screen.
 
- 
+ 
 
 
 

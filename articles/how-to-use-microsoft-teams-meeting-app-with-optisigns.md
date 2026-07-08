@@ -29,7 +29,7 @@ Click Participants, then click Share Invite. Then click Copy Link
 ![mceclip3.png](https://support.optisigns.com/hc/article_attachments/4404053323411)
 
 
- 
+ 
 
 
 Log in to OptiSigns:  
@@ -73,11 +73,11 @@ Have the host start the meeting a few mins before screens are joining automatica
 It will take a device 10-15s to join the meeting, so it's not a good idea to put the Teams Meeting in a playlist. It's better to use it as single asset to take up full screen or be part of a [SplitScreen zone](https://support.optisigns.com/hc/en-us/articles/360026559573).
 
 
- 
+ 
 
 
   
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

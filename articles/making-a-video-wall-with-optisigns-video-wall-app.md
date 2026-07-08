@@ -17,7 +17,7 @@
 		- [Option 2: Fix the Screen Size Using the Override Win Size and Position Option (Recommended)](#PositionOption)
 	+ [Using a Video Wall Controller Distributor](#Controller)
 
-Video walls are a common request from OptiSigns customers. They can be used in numerous industries, including retail, manufacturing, entertainment, command and control environments, broadcasting, education, and far more. 
+Video walls are a common request from OptiSigns customers. They can be used in numerous industries, including retail, manufacturing, entertainment, command and control environments, broadcasting, education, and far more. 
 
 Now, using the power of the new [OptiSigns Pro](https://www.optisigns.com/post/the-new-optisigns-pro-digital-signage-player-is-here) and [ProMax Player](https://www.optisigns.com/product/hardware/promax-digital-signage-player) and the Video Wall App, it’s possible to push your digital signs to multiple screens and use them as a cohesive video wall easier than ever.
 
@@ -41,9 +41,9 @@ To set up a video wall for use in the Video Wall app, you’ll need:
 
 | **A NOTE ON PRICING** |
 | --- |
-| The license and Video Wall app apply to the player, not the number of screens. In other words, you will only need one license per video wall, regardless of the number of screens used.   Example: say you have a Pro Plus plan license at $15/month. You then want to make a 4-screen video wall using a ProMax Player. You buy a single Video Wall add-on. This lets you run a 4-screen video wall at $40/month. That same $40/month could be used to run a 2 or 3 screen video wall as well. |
+| The license and Video Wall app apply to the player, not the number of screens. In other words, you will only need one license per video wall, regardless of the number of screens used.   Example: say you have a Pro Plus plan license at $15/month. You then want to make a 4-screen video wall using a ProMax Player. You buy a single Video Wall add-on. This lets you run a 4-screen video wall at $40/month. That same $40/month could be used to run a 2 or 3 screen video wall as well. |
 
- 
+ 
 
 
 
@@ -53,7 +53,7 @@ To set up a video wall for use in the Video Wall app, you’ll need:
 
 With the Video Wall app, you can push content to multiple screens at once. There are a few things to keep in mind:
 
-* The ProMax Player is our ***most recommended***option if you're looking to use a video wall with digital signage. It allows for 4K video per screen and our full range of options, with up to four screens usable in any orientation.
+* The ProMax Player is our ***most recommended*** option if you're looking to use a video wall with digital signage. It allows for 4K video per screen and our full range of options, with up to four screens usable in any orientation.
 * The Pro Player can handle up to 3 screens at a time, at 1080p max resolution.
 
 ### Video Wall Orientations and Pixel Sizes
@@ -127,7 +127,7 @@ You’ll be prompted to select the number of screens and their orientation:
 
 | **NOTE** |
 | --- |
-| **4 Screens**are only available using the **OptiSigns ProMax Player.**The regular Pro Player can handle 2 or 3 screens. |
+| **4 Screens** are only available using the **OptiSigns ProMax Player.** The regular Pro Player can handle 2 or 3 screens. |
 
 Once selected, you’ll have a couple options: you can build a basic video wall, or create a continuous one.
 
@@ -155,7 +155,7 @@ Clicking the **Gear** icon will lead you to this screen:
 
 ![picture of video wall configs menu with audio zone and primary zone options](https://support.optisigns.com/hc/article_attachments/33382521817235)
 
-**Audio Zone** - Lets you choose which screen the audio will come from. This can be **All**, or any one of the **HDMI ports**you've assigned a screen to.
+**Audio Zone** - Lets you choose which screen the audio will come from. This can be **All**, or any one of the **HDMI ports** you've assigned a screen to.
 
 **Primary Zone** - Setting one of your screens as a Primary Zone will provide a better experience or smoother content transition when you need to coordinate contents in different zones and put use the video wall app in a playlist.
 
@@ -252,7 +252,7 @@ Your video will now display in the requested mode.
 ## Setting Up the OptiSigns Pro or ProMax Player
 
 With a Video Wall license purchased and app made, it's now time to set up your video wall! To do this, simply arrange the screens in the same manner you've arranged them in the app, then plug in the appropriate HDMI or DP port.  
- 
+ 
 
 ### ProMax Player
 
@@ -266,7 +266,7 @@ Remember: in most setups, the player will be facing outward, with the AV ports f
 
 ![video wall hdmi diagram](https://support.optisigns.com/hc/article_attachments/36987172953491)
 
-**HD-A-1** goes to your farthest left or most vertical screen, **HD-A-2** goes to your middle screen, and **HD-A-3** goes to the farthest right or bottom screen. If using just two screens, HD-A-3 is not needed.
+**HD-A-1** goes to your farthest left or most vertical screen, **HD-A-2** goes to your middle screen, and **HD-A-3** goes to the farthest right or bottom screen. If using just two screens, HD-A-3 is not needed.
 
 
 
@@ -316,7 +316,7 @@ This is a simple, basic technique whereby you simply drag the OptiSigns app wind
 
 ![optisigns video wall demo](https://support.optisigns.com/hc/article_attachments/40326717839635)
 
-This is the easiest method, but does not provide precise control over how large your screen will be. Remember to hide your taskbar, to make OptiSigns fill in all the screens. 
+This is the easiest method, but does not provide precise control over how large your screen will be. Remember to hide your taskbar, to make OptiSigns fill in all the screens. 
 
 #### Option 2: Fixing Screen Size Using the Override Win Size & Position Option (Recommended)
 
@@ -358,7 +358,7 @@ Then you can plug in FireStick, or any other player running OptiSigns and have i
 
 Note that if your wall is big, you should use a Video Controller with 4K support, and use FireStick 4K or equivalent devices to output 4K high-resolution content, which will help the quality of your video wall.
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

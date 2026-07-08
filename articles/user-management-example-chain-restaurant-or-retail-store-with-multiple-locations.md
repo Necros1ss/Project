@@ -131,7 +131,7 @@ A bit about User Roles before we continue:
 
 The others, we don’t need to worry about for this example. For more on User Roles, see our article on [**Managing User Roles**](https://support.optisigns.com/hc/en-us/articles/360046356113-Advanced-Security-Managing-User-Roles).
 
-For this example, we’ve given Admin access to all our regional and local managers, as well as the store manager. A User has been added to the store as well, who will be able to add content and edit the screens only within that store. 
+For this example, we’ve given Admin access to all our regional and local managers, as well as the store manager. A User has been added to the store as well, who will be able to add content and edit the screens only within that store. 
 
 
 
@@ -149,7 +149,7 @@ Finally, ***Refresh your browser***. You’ll need to do this before the next st
 
 Now that we’ve made our Teams, it’s time to set up Folder Level security. We only want to grant access to screens that the users on the Team will actually use, and no more.
 
-To do this, go to your **Screens** tab. Find the Folder you want to set permissions for. In this case, we’ll start with the **Pacific** folder at the top of the structure. Click the **Three Dots →  Change Permissions:**
+To do this, go to your **Screens** tab. Find the Folder you want to set permissions for. In this case, we’ll start with the **Pacific** folder at the top of the structure. Click the **Three Dots → Change Permissions:**
 
 ![find change permission tab on folder](https://support.optisigns.com/hc/article_attachments/43657783484051)
 
@@ -173,7 +173,7 @@ To illustrate this, let’s go back to our example. Here is a partial nested set
 
 ![regional level folder permissions example](https://support.optisigns.com/hc/article_attachments/43657783490451)
 
-Note how ***every Team operating in the region*** has permissions for this folder. 
+Note how ***every Team operating in the region*** has permissions for this folder. 
 
 As we go deeper into the nesting, we can eliminate teams that do not need certain permissions. For example, here are the Teams needing **California** folder permissions:
 
@@ -202,7 +202,7 @@ This can be applied across OptiSigns, and it is possible to create similar nesti
 ![add folder in files/assets area](https://support.optisigns.com/hc/article_attachments/43657735771923)
 
   
- 
+ 
 
 ![add folders in playlist and schedule area](https://support.optisigns.com/hc/article_attachments/43657783499411)
 
@@ -241,7 +241,7 @@ To do this, go to our [**SSO & SAML**](https://support.optisigns.com/hc/en-us/se
 
 ### That’s all!
 
-OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).  
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
 
 
 

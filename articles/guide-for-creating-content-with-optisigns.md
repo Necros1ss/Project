@@ -52,7 +52,7 @@ You can learn more about Feeds and how to incorporate them into your digital sig
 
 * [What Are Feeds and How to Use Them](https://support.optisigns.com/hc/en-us/articles/24338756617747)
 
- 
+ 
 
 
 
@@ -65,7 +65,7 @@ We offer over 160+ integrated apps, with popular features being Google and Micro
 Here are just a few:
 
 * [Weather Wall and Radar](https://support.optisigns.com/hc/en-us/articles/360017964153)
-* [Linkedin,](https://support.optisigns.com/hc/en-us/articles/4406180781203)[Instagram](https://support.optisigns.com/hc/en-us/articles/360016388733), [Facebook](https://support.optisigns.com/hc/en-us/articles/360023848334)
+* [Linkedin,](https://support.optisigns.com/hc/en-us/articles/4406180781203) [Instagram](https://support.optisigns.com/hc/en-us/articles/360016388733), [Facebook](https://support.optisigns.com/hc/en-us/articles/360023848334)
 * [Youtube](https://support.optisigns.com/hc/en-us/articles/360051014713)
 * [PowerBi](https://support.optisigns.com/hc/en-us/articles/360024859713)
 * [Microsoft Excel](https://support.optisigns.com/hc/en-us/articles/4529298306963), [Powerpoint](https://support.optisigns.com/hc/en-us/articles/4414355658899), [Teams](https://support.optisigns.com/hc/en-us/articles/4417940565139)
@@ -75,7 +75,7 @@ Here are just a few:
 	+ [Web Scripting](https://support.optisigns.com/hc/en-us/articles/1500012522362) - For website requiring login
 	+ [Website Screenshot](https://support.optisigns.com/hc/en-us/articles/10259143299219) - For offline use or avoiding loading times on a webpage
 
- 
+ 
 
 
 
@@ -85,7 +85,7 @@ Here are just a few:
 
 ![64e2cde33dcb63d6e43f4067_Screenshot 2023-08-18 at 10.30.40 AM-p-800.png](https://support.optisigns.com/hc/article_attachments/29829876893203)
 
-Canva is an easy-to-use online graphic design tool offering a vast library of templates perfect for digital signage, including presentations, posters, and videos. 
+Canva is an easy-to-use online graphic design tool offering a vast library of templates perfect for digital signage, including presentations, posters, and videos. 
 
 OptiSigns is one of the few digital signage providers with Canva integration. As such, pushing content to your screens is easy. You can both export and upload Canva images and videos or copy and paste a Live Embed link to OptiSigns.
 
@@ -93,7 +93,7 @@ Read our support article to learn how to get started with Canva and OptiSigns:
 
 * [How to Best Use Canva with OptiSigns](https://support.optisigns.com/hc/en-us/articles/1500005888781)
 
- 
+ 
 
 
 
@@ -119,7 +119,7 @@ Engage offers an interactive screen experience, enabling users to effortlessly c
 * [Enterprise App](https://support.optisigns.com/hc/en-us/articles/13320135306515)
 * [Check in & SMS follow up](https://support.optisigns.com/hc/en-us/articles/23566927217939)
 
- 
+ 
 
 
 
@@ -137,7 +137,7 @@ These guides break down how to set up these features so you can get to displayin
 * [How to use Secured Dashboard App](https://support.optisigns.com/hc/en-us/articles/19589190970771)
 * [How to use Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362) - For websites requiring login
 
- 
+ 
 
 
 
@@ -145,14 +145,14 @@ These guides break down how to set up these features so you can get to displayin
 
 ### Google Drive and OneDrive Synchronization
 
-With OptiSigns, you can quickly put images and videos from your Microsoft OneDrive or Google Drive on your screens using our integrated apps. These apps will create a playlist for files in your dedicated drives, and any changes or updates will automatically be synced. This allows you to update and share content within your team without needing to login to OptiSigns portal. 
+With OptiSigns, you can quickly put images and videos from your Microsoft OneDrive or Google Drive on your screens using our integrated apps. These apps will create a playlist for files in your dedicated drives, and any changes or updates will automatically be synced. This allows you to update and share content within your team without needing to login to OptiSigns portal. 
 
 To learn more about how to set this up, please read the following support articles:
 
 * [How to use Google Drive App](https://support.optisigns.com/hc/en-us/articles/360049518313)
 * [How to use OneDrive App](https://support.optisigns.com/hc/en-us/articles/360050665253)
 
- 
+ 
 
 
 
@@ -176,7 +176,7 @@ This feature consists of two parts:
 | --- | --- |
 | This is a console to allows users to centrally manage the APIs, as well as configure and test the APIs. | Use OptiSync's DataSources and Repeaters in the Designer app to get an element on Designer mapped to the API data. The screens will call the API and use the API data on the element when there is a change. |
 
- 
+ 
 
 
 

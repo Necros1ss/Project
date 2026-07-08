@@ -24,7 +24,7 @@ OptiSigns Enterprise App is more than a framework, it also contains templates to
 #### **1. Create Enterprise App and build custom designed page.**
 
 
-Go to [app.optisigns.com](https://app.optisigns.com/).
+Go to [app.optisigns.com](https://app.optisigns.com/).
 
 
 Click Files/Assets, then click Apps, and select "Enterprise App".
@@ -43,7 +43,7 @@ The template comes with sample code that you can use directly, all you need to d
 ![mceclip4.png](https://support.optisigns.com/hc/article_attachments/13320838658451)
 
 
- 
+ 
 
 
 #### **2. Build the integration to your enterprise systems or custom applications.**
@@ -52,13 +52,13 @@ The template comes with sample code that you can use directly, all you need to d
 We will use the demo Control Center to show how you can send data and interact with the screens in this tutorial. In your cases, the demo Control Center will be your systems that you want to initiate the process to control the screen or a custom application that was specifically built for your need.
 
 
-Click "Control Center" in the Enterprise App, it will launch the demo Control Center.  
+Click "Control Center" in the Enterprise App, it will launch the demo Control Center. 
 
 
 ![mceclip5.png](https://support.optisigns.com/hc/article_attachments/13320889712915)
 
 
-The demo Control Center will launch with the logon page first. In this case, you just need to use your OptiSigns account. The framework supports authentication and authorization, when you build your integrations with other systems, you will have the capability to utilize the authorization you defined with in OptiSigns. 
+The demo Control Center will launch with the logon page first. In this case, you just need to use your OptiSigns account. The framework supports authentication and authorization, when you build your integrations with other systems, you will have the capability to utilize the authorization you defined with in OptiSigns. 
 
 
 After logon, the demo Control Center will list all the screens that you have access to. You can also search the screens that you want to control. In this case, we will try to control the Enterprise App Demo Screen.
@@ -92,7 +92,7 @@ Once done, you can click the "Stop" button to end the integration.
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/13440341376531)
 
 
-To verify the data that was sent to the screen, you can go back to the OptiSigns portal, find the screen. Expand the "Advanced" section, then expand "More" section. 
+To verify the data that was sent to the screen, you can go back to the OptiSigns portal, find the screen. Expand the "Advanced" section, then expand "More" section. 
 
 
 At the bottom of the Edit Screen page, click the button to show the Device Specific Info. You can see the same data sent from the demo Control Center.
@@ -107,7 +107,7 @@ On the screen, you will see those data sent from the demo Control Center are dis
 ![mceclip4.png](https://support.optisigns.com/hc/article_attachments/13440515661203)
 
 
- 
+ 
 
 
 **That's all!**
@@ -116,7 +116,7 @@ On the screen, you will see those data sent from the demo Control Center are dis
 This is how you can build integration with OptiSigns Enterprise App.
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

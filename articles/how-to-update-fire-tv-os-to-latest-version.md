@@ -38,13 +38,13 @@ Once it is updated, your Fire Stick will automatically restart. When you check f
 
 
 
-If your device hasn’t restarted, you can do it manually by pressing on the **Middle**button and **Play/Pause** button at the same time and hold it for 5 seconds.
+If your device hasn’t restarted, you can do it manually by pressing on the **Middle** button and **Play/Pause** button at the same time and hold it for 5 seconds.
 
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
 

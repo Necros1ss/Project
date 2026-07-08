@@ -5,7 +5,7 @@ With OptiSigns, you can show the Live TV from your cable TV services (such as Xf
 * If you would like to broadcast to more than one screen and use any media players, you can follow this document and use the video streaming app to achieve it.
 
 
-Video streaming app is used to subscribe to the live streams transferred through HTTP, such as HLS, DASH. HTTP is widely used for the internet data transfer, it is supported well on almost all the platforms, such as Windows, Linux, Android, etc. To stream Live TV, you will need to get a HDMI Video Encoder to convert the Live TV to a HLS stream, such as this [URayCoder HDMI Video Encoder](https://a.co/d/ezieSsp). Then the video streaming app can be used to show the Live TV on your screens, and you can use the same HLS stream on multiple screens as long as they are in the same network.  
+Video streaming app is used to subscribe to the live streams transferred through HTTP, such as HLS, DASH. HTTP is widely used for the internet data transfer, it is supported well on almost all the platforms, such as Windows, Linux, Android, etc. To stream Live TV, you will need to get a HDMI Video Encoder to convert the Live TV to a HLS stream, such as this [URayCoder HDMI Video Encoder](https://a.co/d/ezieSsp). Then the video streaming app can be used to show the Live TV on your screens, and you can use the same HLS stream on multiple screens as long as they are in the same network. 
 
 
 In this document, we will walk through how to show the Live TV using the video streaming app. It consists of 3 steps at high level.
@@ -16,10 +16,10 @@ In this document, we will walk through how to show the Live TV using the video s
 3. Put the Live TV on your Screen
 
 
-If you have an IPTV system in place which supports HLS already, you can skip step 1 and set up the video streaming app to put it on your screens directly. 
+If you have an IPTV system in place which supports HLS already, you can skip step 1 and set up the video streaming app to put it on your screens directly. 
 
 
- 
+ 
 
 
 **1. Set up the HDMI Video Encoder**
@@ -28,7 +28,7 @@ If you have an IPTV system in place which supports HLS already, you can skip ste
 The HDMI Video Encoder has an admin console to manage the configuration and settings. Depending on the encoder you use, you will need to access it differently. Please follow the instructions of the HDMI Video Encoder to access the admin console. For the UrayCoder HDMI Video Encoder, the default IP address to access the admin console is 192.168.1.168
 
 
-Once in the admin console, please go to the setting page to configure the video stream to be used. In this case, we will need to make sure the HLS stream is enabled, the rest of the streams can be disabled.  
+Once in the admin console, please go to the setting page to configure the video stream to be used. In this case, we will need to make sure the HLS stream is enabled, the rest of the streams can be disabled. 
 
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/10158743969939)
@@ -43,7 +43,7 @@ Click Apply after the change, then you will be able to see the URL to use for th
 **2. Create the video streaming app**
 
 
-Go to asset->app section to create a video stream app. Simply put the HLS stream URL of the HDMI video encoder in the video streaming app, then it will be available for use. You can refer to [this article](https://support.optisigns.com/hc/en-us/articles/8369526604435) for more information about the video streaming app. 
+Go to asset->app section to create a video stream app. Simply put the HLS stream URL of the HDMI video encoder in the video streaming app, then it will be available for use. You can refer to [this article](https://support.optisigns.com/hc/en-us/articles/8369526604435) for more information about the video streaming app. 
 
 
 .
@@ -64,13 +64,13 @@ You can also put it in the splitscreen app, then you will be able to have other 
 ![mceclip3.png](https://support.optisigns.com/hc/article_attachments/10159027869971)
 
 
- 
+ 
 
 
 ### **That's all! Congratulation!**
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
 
 
 

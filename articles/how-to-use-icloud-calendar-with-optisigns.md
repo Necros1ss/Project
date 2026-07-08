@@ -6,7 +6,7 @@ Before we start, please take a quick moment to ensure your iCloud account is ful
 
 Sign in to <https://www.icloud.com/> and check your account information for the status of all features. This ensures smooth and optimal functionality for your iCloud experience.
 
-   ![](https://support.optisigns.com/hc/article_attachments/27359206807571)     ![](https://support.optisigns.com/hc/article_attachments/27359175323027)
+ ![](https://support.optisigns.com/hc/article_attachments/27359206807571) ![](https://support.optisigns.com/hc/article_attachments/27359175323027)
 
 **Let's jump in and get started:**
 
@@ -37,9 +37,9 @@ To obtain your app-specific password:
 Once authenticated you'll be prompted to enter the details of your calendar:![](https://support.optisigns.com/hc/article_attachments/27359175343379)
 
 * **Name:** Name of your calendar that you wish to see labeled as within the OptiSigns platform. **This name is internal to you only.**
-* **Calendars:**  The dropdown will show all the calendars that are within the account. These can be calendars you created or subscribed to.
+* **Calendars:** The dropdown will show all the calendars that are within the account. These can be calendars you created or subscribed to.
 * **Title:** Title of the calendar, this will be displayed on your screen.
-* **Display Mode:** Select the view of the calendar 
+* **Display Mode:** Select the view of the calendar 
 	+ Schedule - Linear listing of every event in succession by time and date.
 	+ Day - Listing the current day's event activity.
 	+ Week - Listing the current week's event activity
@@ -60,7 +60,7 @@ Once authenticated you'll be prompted to enter the details of your calendar:![](
 * **Font Size:** The font size of the display
 * **Start of the week:** (only available if you select Week as Display Mode) Enables you to choose either Monday or Sunday as the start of the week.
 * **24 Hours Format:** format time in 24h
-* **Auto Scroll:** By default, the calendar will focus the display of events on current local time or your set time zone time. This can be less helpful if you anticipate viewers to be able to see all event activities on your calendar.   
+* **Auto Scroll:** By default, the calendar will focus the display of events on current local time or your set time zone time. This can be less helpful if you anticipate viewers to be able to see all event activities on your calendar.   
 Toggle the auto scroll pans the schedule so that all times are viewable.
 * **Time Zone:** select to use Device's time zone or your specified time zone.
 * **Theme:** Light and Dark Themes are available as options.

@@ -4,7 +4,7 @@ With Pro Plus and Enterprise plan, you can configure SAML 2.0 with OptiSigns via
 OneLogin will be acting as the IDP (Identify Provider), and OptiSigns will be working as the SP(Service Provider).
 
 
- 
+ 
 
 
 ### **Set up OptiSigns & OneLogin:**
@@ -48,7 +48,7 @@ The settings are:
 ![](https://support.optisigns.com/hc/article_attachments/19053301304083)
 
 
- 
+ 
 
 
 **Next, add OptiSigns as an App in your OneLogin admin portal:**
@@ -92,7 +92,7 @@ Then go to the SSO page. Get these 3 highlighted information, these need to be m
 ![](https://support.optisigns.com/hc/article_attachments/19053348948883)
 
 
- 
+ 
 
 
 Go back to your OptiSigns account maintain above mentioned 3 fields, and save it.
@@ -113,7 +113,7 @@ Put the content from base64 encoded x509 certificate under Public Certificate.
 Now your login portal & integration are all setup.
 
 
- 
+ 
 
 
 #### **Assign & map users, and groups from OneLogin to OptiSigns**
@@ -125,14 +125,14 @@ It's not required, but recommended to create groups of users to be assigned, and
 **IMPORTANT NOTE: If you don't configure this, all users will be assigned User Role & Default Team (screenshot see below)**
 
 
- 
+ 
 
 
-To configure how OptiSigns should map the user groups to OptiSigns Roles by going to: <https://app.optisigns.com/app/s/saml-settings>
+To configure how OptiSigns should map the user groups to OptiSigns Roles by going to: <https://app.optisigns.com/app/s/saml-settings>
 
 
 Scroll to Advanced Settings and create a mapping.  
-Group Name (roles assigned to the user from OneLogin), Role (role in OptiSigns) mapping.   
+Group Name (roles assigned to the user from OneLogin), Role (role in OptiSigns) mapping.   
 ![mceclip9.png](https://support.optisigns.com/hc/article_attachments/4407387515155)
 
 
@@ -159,7 +159,7 @@ This way they will receive an error when trying to log in and will have to reach
 Note that if you map a SAML group to a Team and then delete the team, it will result in the new user being mapped to No Team and will have to contact you to be assigned to a team to use the app.
 
 
- 
+ 
 
 
 Next, go to your OneLogin portal. Go to the parameters page of the OptiSigns application. This is where you maintain the mapping of the attributes.
@@ -174,7 +174,7 @@ These mappings will pass information to OptiSigns on the user's Name and Group.
 ![mceclip7.png](https://support.optisigns.com/hc/article_attachments/4407387440147)
 
 
- 
+ 
 
 
 The parameter names are corresponding to OptiSigns
@@ -183,16 +183,16 @@ The parameter names are corresponding to OptiSigns
 <https://app.optisigns.com/app/s/saml-settings>
 
 
-OptiSigns accept firstName, lastName, and group by default. Instead of setting the parameter names to the default attribute name used on OptiSigns,  you can also change the attribute name on OptiSigns to match the parameter names you defined on OneLogin as well.
+OptiSigns accept firstName, lastName, and group by default. Instead of setting the parameter names to the default attribute name used on OptiSigns, you can also change the attribute name on OptiSigns to match the parameter names you defined on OneLogin as well.
 
 
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/19053401940243)
 
 
- 
+ 
 
 
- 
+ 
 
 
 ### **That's it!**
@@ -207,13 +207,13 @@ Now your users can log in using the subdomain that you configured (in this case 
 You can share the URL with your users and they can log in with their SSO credentials.
 
 
- 
+ 
 
 
-If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
 

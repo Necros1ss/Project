@@ -18,13 +18,13 @@ If you have a playlist that mixed downloadable contents and live contents, the l
 These changes will be cached, when the device comes online, it will receive the latest assignment and play the content as expected.
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 

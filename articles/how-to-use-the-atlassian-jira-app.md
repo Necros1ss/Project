@@ -19,7 +19,7 @@ In your Jira account, navigate to the page of the project or private dashboard t
 ![Jira dashboard with the URL pointed at](https://support.optisigns.com/hc/article_attachments/35838410787219)
 
 
-Next, log in to [OptiSigns portal](https://app.optisigns.com/app/screenManagement) and navigate to the files/assets page. Click Apps and search for Jira. 
+Next, log in to [OptiSigns portal](https://app.optisigns.com/app/screenManagement) and navigate to the files/assets page. Click Apps and search for Jira. 
 
 
 ![Jira app within OptiSigns](https://support.optisigns.com/hc/article_attachments/35838410792595)
@@ -54,10 +54,10 @@ Finally, click "**Save**".
 When you push your Jira asset to your screen for the first time, Jira will send a verification code to your email. You will need to input this code into the asset pushed to your screen.
 
 
-For this, you will need a **keyboard and mouse**connected to your device to input this. Afterward, Jira will recognize your device and not ask you to do this again.
+For this, you will need a **keyboard and mouse** connected to your device to input this. Afterward, Jira will recognize your device and not ask you to do this again.
 
 
-[According to Jira](https://community.atlassian.com/t5/Jira-questions/Stop-asking-me-for-email-verification/qaq-p/1646087), this is for security purposes so Jira can register the device to your account. 
+[According to Jira](https://community.atlassian.com/t5/Jira-questions/Stop-asking-me-for-email-verification/qaq-p/1646087), this is for security purposes so Jira can register the device to your account. 
 
 
 

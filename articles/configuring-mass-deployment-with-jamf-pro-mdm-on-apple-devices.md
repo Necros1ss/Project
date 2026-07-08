@@ -47,7 +47,7 @@ To proceed with this guide, please ensure that you have:
 Inside ABM (Apple Business Manager) volume purchase licenses of OptiSigns Digital Signage (It's free).
 
 
-We assume that the ABM VPP account is linked to your Jamf Pro instance, otherwise, use this Jamf [Video Guide](https://trainingcatalog.jamf.com/volume-purchasing/637880) to do so.
+We assume that the ABM VPP account is linked to your Jamf Pro instance, otherwise, use this Jamf [Video Guide](https://trainingcatalog.jamf.com/volume-purchasing/637880) to do so.
 
 
 After populating ABM apps into Jamf MDM, you should see OptiSigns Digital Signage app inside MDM Mobile Device Apps section, as shown below:
@@ -78,11 +78,11 @@ Let's go through each section of the configuration:
 ![chrome_QVJc5ejA6j.png](https://support.optisigns.com/hc/article_attachments/36280396752915)
 
 
-1. **serialNo:** Serial number of the device, you can map this to a variable from your MDM.
+1. **serialNo:** Serial number of the device, you can map this to a variable from your MDM.
 2. **accountId:** This is your OptiSigns Account ID, you need to enter it manually.
 
 
-Account ID can be found inside the OptiSigns portal, by visiting the **[Screens tab](https://app.optisigns.com/app/screenManagement)** → Finding the screen you'd like→ Clicking **Edit Screens** → Click **Advanced** → Click **More** → Click on the "**i**" button 
+Account ID can be found inside the OptiSigns portal, by visiting the **[Screens tab](https://app.optisigns.com/app/screenManagement)** → Finding the screen you'd like→ Clicking **Edit Screens** → Click **Advanced** → Click **More** → Click on the "**i**" button 
 
 
 ![chrome_yBWo4GT2Dw.png](https://support.optisigns.com/hc/article_attachments/31704324281107)

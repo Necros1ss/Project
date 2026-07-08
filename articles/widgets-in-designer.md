@@ -94,7 +94,7 @@ Clicking the **Position** option allows you to change the image layering and set
 
 ![files assets selector video widget](https://support.optisigns.com/hc/article_attachments/42436941351699)
 
- 
+ 
 
 ![video widget format options](https://support.optisigns.com/hc/article_attachments/42459962073747)
 
@@ -226,7 +226,7 @@ For more information, see our article on [**Creating and Using Playlists**](http
 
 ![time widget](https://support.optisigns.com/hc/article_attachments/42436969986579)
 
-**Time** will place a clock into your design. 
+**Time** will place a clock into your design. 
 
 ![time widget example clock](https://support.optisigns.com/hc/article_attachments/42436969988115)
 
@@ -254,7 +254,7 @@ Hitting the **Settings** button with it selected brings up these options:
 
 ![weather widget](https://support.optisigns.com/hc/article_attachments/42436941366419)
 
-**Weather** will place a weather forecast into your design. 
+**Weather** will place a weather forecast into your design. 
 
 ![weather widget example](https://support.optisigns.com/hc/article_attachments/42436941369107)
 

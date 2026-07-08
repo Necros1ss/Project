@@ -2,7 +2,7 @@
 * [Setting Up Live and Expire](#SettingUp)
 * [Playlist and Schedule Behavior](#PlaylistandSchedule)
 
-If your organization needs to set an asset to be shown on your screen at a specific date and time or for a period of time, the **Live** **and Expire** feature may be of interest to you. 
+If your organization needs to set an asset to be shown on your screen at a specific date and time or for a period of time, the **Live** **and Expire** feature may be of interest to you. 
 
 When Live and Expire is set up on an asset, that asset will only be shown during the period of time defined as live. When it is out of the defined live period, the asset will be skipped during content playback. You can also set it to repeat as well. These assets can be pushed directly to your screens, or put in any Playlist or Schedule and they will behave the same.
 
@@ -46,20 +46,20 @@ Either way, the **Set Asset to Live/Expire** menu will pop up:
 	+ **Live Immediately** - The asset is immediately available and will display if already deployed within a schedule, playlist or directly assigned to a screen.
 	+ **Schedule** - Set a date and time for the asset to be available for use within schedules or playlists. This will shift the UI
 * **Expire Time**
-	+ **Non Expiring** - The asset is always available after going live and will continue to display if the asset is already deployed within an existing schedule, playlist or directly assigned to a screen.
-	+ **Expire At** - Set a date and time for the asset to default to be unavailable after expiration. In order for future re-use, you must re-enter a new Live At date in the future.
+	+ **Non Expiring** - The asset is always available after going live and will continue to display if the asset is already deployed within an existing schedule, playlist or directly assigned to a screen.
+	+ **Expire At** - Set a date and time for the asset to default to be unavailable after expiration. In order for future re-use, you must re-enter a new Live At date in the future.
 * **Timezone** - Set the appropriate time zone that relates to the asset status.
 * **Delete Option** - Checking the box will delete the asset after expiration.
 
 Once you've set these options, a **Reset** button will appear - hit this to **clear all** **Live/Expire settings.**
 
-If you've chosen **Schedule** as your type, you will have slightly different options:![](https://support.optisigns.com/hc/article_attachments/51713326622099) 
+If you've chosen **Schedule** as your type, you will have slightly different options:![](https://support.optisigns.com/hc/article_attachments/51713326622099) 
 
-* **Type -** Schedule: You can set it live in the schedule
+* **Type -** Schedule: You can set it live in the schedule
 * **Schedule -** Create the schedule for your asset live/ expire. It lets you create an event in your calendar.
 * **Timezone -** Set the appropriate time zone that relates to the asset status.
 
-Now, hit **Save**. Once the Live/Expire status setup is complete, the asset will indicate when it's scheduled to go live and if it was previously set to expire.   
+Now, hit **Save**. Once the Live/Expire status setup is complete, the asset will indicate when it's scheduled to go live and if it was previously set to expire.   
   
 ![](https://support.optisigns.com/hc/article_attachments/51713317755027)
 
@@ -93,9 +93,9 @@ When a Playlist or Schedule has expired assets, you'll see a banner at the top l
 
 ### **That's all!**
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
- 
+ 
 
 
 

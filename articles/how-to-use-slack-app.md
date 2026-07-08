@@ -18,15 +18,15 @@ Go to Files/Assets, Click on "App" and add Slack on your Account.
 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/26483553436051)
- 
+ 
 Click Slack:
 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4408809656083)
- 
+ 
 Click "SIGN IN WITH SLACK" and sign in with your credentials.  
   
- 
+ 
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4407317471251)
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4408767274899)
 
@@ -34,14 +34,14 @@ Enter your Slack Wall information:
 
 ![mceclip3.png](https://support.optisigns.com/hc/article_attachments/4407317561619)* Name: Name of your Slack Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Channels: Select list of channels you want to display. **Important**: you can only set this one time during the creation of the asset, if you want to change this later, you should delete the old asset and create a new one.
-* Message Filters: Show all messages, pinned messages or only messages with @OptiSigns. **Important**: you can only set this one time during the creation of the asset, if you want to change this later, you should delete the old asset and create a new one.
+* Message Filters: Show all messages, pinned messages or only messages with @OptiSigns. **Important**: you can only set this one time during the creation of the asset, if you want to change this later, you should delete the old asset and create a new one.
 * Display Mode: Select [**Chat Log View**](https://social-player.optisigns.com/slack/?asset_id=kD84rTsZzScadRTmj) (real-time update), [**Social Kiosk View**](https://social-player.optisigns.com/slack/?asset_id=d6tDAiaYTm9m8uqtY) or [**Timeline View**](https://social-player.optisigns.com/slack/?asset_id=LTfKWyLMiwg66mDZa). Click on the links to see live example.
 * Theme: Select Slack, Light or Dark Theme.
 
 
 	+ You can select Photo and set Text Color for your Slack Theme.
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4408759522579) 
+![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4408759522579) 
 
 * + You can also customize your background and text color if you select Custom.
 
@@ -63,17 +63,17 @@ You can click Advanced and set:
 * Continue Playing Content in Playlist: In the playlist, the Slack app plays 10 items in the 1st round, and it will start with #11 item in the 2nd round.
 
 
- 
+ 
 
 
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4408802130323)
 
 
- 
+ 
 
 
 Click Save.  
-After Saving, you can Preview the wall. It may take several seconds for the app to fetch posts and prepare your wall, so please be patient. ## **How to send messages to OptiSigns from Slack:**
+After Saving, you can Preview the wall. It may take several seconds for the app to fetch posts and prepare your wall, so please be patient. ## **How to send messages to OptiSigns from Slack:**
 
 You can select how to send messages to OptiSigns from Slack by setting Message Filters:
 * Show All: send all messages from your Slack channels to the OptiSigns Slack app.
@@ -84,16 +84,16 @@ If your Slack message has more than one image, we only fetch the first image to 
 
 * Currently, bot messages in a Slack channel will not display.
 
- ## **That's all! Congratulations!**
+ ## **That's all! Congratulations!**
 
 You have created your Slack Wall.  
-You can change the wall any time by click on it in the Files/Assets tab. 
+You can change the wall any time by click on it in the Files/Assets tab. 
 
 You can assign the newly created wall to your screen by going to Screens, click Edit screens and assign the wall to screens that you want.
 
 You can put the created Slack walls in a Playlist, Schedule too.
 
- 
+ 
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 

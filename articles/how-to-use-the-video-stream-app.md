@@ -25,7 +25,7 @@ Enter your Video Stream app information:
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/8369552339219)
 
 
-* Name: Name of your Video Stream app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
+* Name: Name of your Video Stream app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 * URL: the URL link to the Video Stream link you want to display.
 
 
@@ -54,13 +54,13 @@ You can change the wall any time by click on it in the Files/Assets tab.
 You can put the walls in a Playlist, Schedule too.
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
 

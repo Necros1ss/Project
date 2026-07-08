@@ -14,7 +14,7 @@ This guide covers the **two ways to connect Google Meet hardware to OptiSigns**,
 
 
 
-|  | **Signage URL**  ·  *Recommended, fastest start* | **Service Account** |
+|  | **Signage URL** · *Recommended, fastest start* | **Service Account** |
 | --- | --- | --- |
 | **What it gives you** | Get content on a room in minutes — no Google Cloud setup. | OptiSigns **discovers and lists all your Meet hardware** (model, online/offline) in one place. |
 | **Google setup** | None. You paste a URL in the Google Admin Console. | A Workspace super-admin registers a read-only service account with domain-wide delegation. |

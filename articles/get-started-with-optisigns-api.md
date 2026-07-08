@@ -1,8 +1,8 @@
-The easiest way to get started with the development is to use the provided web-based GraphQL IDE.  You can access it from here.  
-<https://graphql-gateway.optisigns.com/graphql> 
+The easiest way to get started with the development is to use the provided web-based GraphQL IDE. You can access it from here.  
+<https://graphql-gateway.optisigns.com/graphql> 
 
 
-You also will need API key to provide authorization to your account. You can learn how to get your API key from [here](https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-OptiSigns-API-Key).
+You also will need API key to provide authorization to your account. You can learn how to get your API key from [here](https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-OptiSigns-API-Key).
 
 
 #### **Query and Mutation**
@@ -46,7 +46,7 @@ query{
 #### **Fetch a specific asset**
 
 
-If you want to fetch the data following a condition, you can do so by supply an argument. This query will get the asset named "Houston Weather Test" in your account. 
+If you want to fetch the data following a condition, you can do so by supply an argument. This query will get the asset named "Houston Weather Test" in your account. 
 
 
 
@@ -78,7 +78,7 @@ query{
 **Next Article - [GraphQL API Tutorial: Pair and Assign Content to Screen](https://support.optisigns.com/hc/en-us/articles/4414553099667-GraphQL-API-Tutorial-Pair-and-Assign-Content-to-Screen)**
 
 
- 
+ 
 
 
 

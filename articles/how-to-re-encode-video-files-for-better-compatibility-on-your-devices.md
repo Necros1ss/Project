@@ -2,9 +2,9 @@ Amazon Fire TV, Android or Roku rely on Hardware decode to decode your videos fi
 
 Most of the time it should be OK, however, there could be times when codec is not recognized or support by your devices.
 
-For example, here's a link to Amazon's [supported codec](https://developer.amazon.com/docs/fire-tv/device-specifications.html) or [Roku supported codec.](https://developer.roku.com/en-gb/docs/specs/streaming.md)
+For example, here's a link to Amazon's [supported codec](https://developer.amazon.com/docs/fire-tv/device-specifications.html) or [Roku supported codec.](https://developer.roku.com/en-gb/docs/specs/streaming.md)
 
- 
+ 
 
 To solve the problem you will need to convert/re-encode your video into something that Amazon, Android or Roku device support.
 
@@ -26,9 +26,9 @@ Click Start.
 
 When it's done, you can upload the file back to OptiSigns and assign to your playlists, screens.
 
- 
+ 
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

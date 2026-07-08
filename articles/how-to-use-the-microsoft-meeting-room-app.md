@@ -48,13 +48,13 @@ First, go to the [OptiSigns Portal](http://app.optisigns.com/). Go to **Files/As
 
 
 ![](https://support.optisigns.com/hc/article_attachments/50258994637203)
- 
+ 
 Select **Microsoft Meeting Room**.
 
 
-![](https://support.optisigns.com/hc/article_attachments/50258994638611) 
+![](https://support.optisigns.com/hc/article_attachments/50258994638611) 
 The below screen should appear:  
- 
+ 
 ![](https://support.optisigns.com/hc/article_attachments/50258994645651)
 Here, you have two options. If you have used a Microsoft account on the OptiSigns platform, you can select it from the dropdown. If you have not, you'll need to hit **Login with Work Account**, enter in your Microsoft account information, and grant OptiSigns the necessary permissions. Then, hit **Next** within OptiSigns.
 
@@ -115,7 +115,7 @@ If user scan QR code, they can book the meeting from their mobile phone browser.
 ![](https://support.optisigns.com/hc/article_attachments/50258994655635)
 
 
-Click **Save**. You can change the wall any time by click on it in the Files/Assets tab.  Now you're ready to deploy it. 
+Click **Save**. You can change the wall any time by click on it in the Files/Assets tab.  Now you're ready to deploy it. 
 
 ---
 
@@ -133,7 +133,7 @@ Here, select **Asset** under Content type, then hit **Browse** next to Selected 
 
 Then, select your created Microsoft Meeting Room asset:
 
-![](https://support.optisigns.com/hc/article_attachments/50258994662547)Now hit **Save**. Your Microsoft Meeting Room asset will now display on screen. 
+![](https://support.optisigns.com/hc/article_attachments/50258994662547)Now hit **Save**. Your Microsoft Meeting Room asset will now display on screen. 
 
 
 

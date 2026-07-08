@@ -27,7 +27,7 @@ Modify attributes, add, delete, or rearrange items, and the content on your scre
 or, hover over the item in the playlist and check the checkbox.
 
 
-**2.** Select assets within your playlist to access **Remove from Playlist** and **Edit Duration** options.
+**2.** Select assets within your playlist to access **Remove from Playlist** and **Edit Duration** options.
 
 
 
@@ -55,7 +55,7 @@ To add items from your files/asset to your playlist:
 ![](https://support.optisigns.com/hc/article_attachments/28565848159763)
 
 
- 
+ 
 
 
 ## **Playlist Options and Change Multiple Playlists Settings at Once**
@@ -63,8 +63,8 @@ To add items from your files/asset to your playlist:
 #### **Singular Playlist Options:**
 
 
-**1.** Click the **gear icon** on the top right-hand side.![](https://support.optisigns.com/hc/article_attachments/28565848186003) 
-**2.** The Playlist Option page will then appear:![](https://support.optisigns.com/hc/article_attachments/28565863777555) 
+**1.** Click the **gear icon** on the top right-hand side.![](https://support.optisigns.com/hc/article_attachments/28565848186003) 
+**2.** The Playlist Option page will then appear:![](https://support.optisigns.com/hc/article_attachments/28565863777555) 
 **3.** The following Playlist Option features will be listed below.* **Scale Image:** The option will default to Fit. This option will allow you to resize your Image per the selected preference:
 	+ None
 	+ Fit
@@ -97,7 +97,7 @@ To add items from your files/asset to your playlist:
 
 **4.** Click the Advanced button:
 
-  * **Playlist - Max Duration:** The maximum duration for your playlist playback in seconds. The minimum duration you can set this to is 4 seconds.
+  * **Playlist - Max Duration:** The maximum duration for your playlist playback in seconds. The minimum duration you can set this to is 4 seconds.
 * **Adv. playback settings apply to:** Apply restrictions on the playlist items so that the item will only play on certain screens or not play on certain screens:
 	+ All
 	+ Play on
@@ -105,11 +105,11 @@ To add items from your files/asset to your playlist:
 * **Target Screens:** This field will only be visible if you have selected the option "**Play on**" or "**Not play on**" in the "**Adv. playback settings apply to**" option.
 	+ Select the target screens by either Screen name or Screen Tags.
 * **Screen Tags**: Add a tag name.
-* **Screens:** Choose your paired screen.
+* **Screens:** Choose your paired screen.
 * **Target tags:** A grouping method for screens, enabling you to push content to tags, with all screens assigned to those tags receiving the content.
 	+ **Use Asset Default:** By mixing content for different screens within the same playlist, you can simplify the management of your screens.
 		- You will also need to set up content tagging which you can learn more about it [here](https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-The-Asset-Tag-Features-in-The-Playlist).
-	+ **Use Playlist Default:** By mixing content for different screens within the same playlist, you can simplify the management of your screens.
+	+ **Use Playlist Default:** By mixing content for different screens within the same playlist, you can simplify the management of your screens.
 		- Create a tag name.
 		- You will also need to set up content tagging which you can learn more about [here](https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-The-Asset-Tag-Features-in-The-Playlist).
 		- Make sure to select "Use Playlist Default".
@@ -132,17 +132,17 @@ To add items from your files/asset to your playlist:
 
 ![](https://support.optisigns.com/hc/article_attachments/28295074968595)
 
- 
+ 
 
 **3.** The **"Playlist Option"** page will then appear:
 
 ![](https://support.optisigns.com/hc/article_attachments/28565863793299)![](https://support.optisigns.com/hc/article_attachments/28565848229139)
 
- 
+ 
 
 **4.** The features on the "Playlist Options" page are the same as the section above.
 
- 
+ 
 
 ## **Display Operation Report**
 
@@ -171,7 +171,7 @@ A **Playlist Operation Report** offers a summary of the features activated withi
 ![](https://support.optisigns.com/hc/article_attachments/28295074977043)
 
 
- 
+ 
 
 
 ## **Modify Playlist Colors**
@@ -190,13 +190,13 @@ Set a color for the playlist to enhance organization and improve visibility in s
 
 ![](https://support.optisigns.com/hc/article_attachments/28295078794771)
 
- 
+ 
 
 **2.** **Confirm** the deletion.
 
 ![](https://support.optisigns.com/hc/article_attachments/28295074980115)
 
- 
+ 
 
 ## **External Playlist Sharing**
 
@@ -208,11 +208,11 @@ Set a color for the playlist to enhance organization and improve visibility in s
 
 To learn more about this feature, you can click [here](https://support.optisigns.com/hc/en-us/articles/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users)
 
- ## **That's all!**
+ ## **That's all!**
 
-If you're interested in exploring our advanced features further, consider [Nested Playlists.](https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-create-and-use-Nested-Playlists) These resources offer detailed insights into optimizing your playlist management experience with OptiSigns.
+If you're interested in exploring our advanced features further, consider [Nested Playlists.](https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-create-and-use-Nested-Playlists) These resources offer detailed insights into optimizing your playlist management experience with OptiSigns.
 
- 
+ 
 
 Please let us know if you have any questions or feedback.
 

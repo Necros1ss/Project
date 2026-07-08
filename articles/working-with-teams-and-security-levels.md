@@ -6,7 +6,7 @@ Team(like workspace) is built for segregation, all the resources (Screens, Asset
 
 | **NOTE** |
 | --- |
-| Teams can only be added under the **Pro Plus****plan**or above. Free and Standard plan users can still Add/Invite members to the Default team. |
+| Teams can only be added under the **Pro Plus** **plan** or above. Free and Standard plan users can still Add/Invite members to the Default team. |
 
 
 This article will guide you through how to work with Teams, and set security for your account.
@@ -121,7 +121,7 @@ To change a member's security level/role, just click on the ... next to the memb
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360045726613)
 
 
- 
+ 
 
 
 
@@ -161,19 +161,19 @@ To do so, simply click on your name on the top right, then in the drop-down clic
 ![mceclip6.png](https://support.optisigns.com/hc/article_attachments/360045728873)
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
 

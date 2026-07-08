@@ -131,7 +131,7 @@ Here, you have several additional options. Hit **Factory Reset**. You’ll recei
 
 ![factory reset password screen](https://support.optisigns.com/hc/article_attachments/40736654917395)
 
-You’ll need to enter your **admin password.**
+You’ll need to enter your **admin password.** 
 
 Once entered, you’ll see a screen like this:
 

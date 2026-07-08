@@ -21,10 +21,10 @@ Note: Pro Plus or Enterprise Plan is required.
 ### 1. Create a Screen Capture asset
 
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 
 Go to Files/Assets, Click on "App", search for, and add Screen Capture to your Account.
@@ -39,7 +39,7 @@ Enter your Screen Capture app information:
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/6086733185811)
 
 
-* Name: Name of your Screen Capture app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
+* Name: Name of your Screen Capture app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 * Snapshot Type: Image (Screenshot).
 * Snapshot Interval: in minutes, how often the Screen Capture app should take screenshots of your desktop. The default is 60min.
 * Snapshot resolution: Select the resolution for your snapshot.
@@ -93,10 +93,10 @@ You can assign the Screen Capture app anywhere like any other asset, image, or v
 
 
 You have created your Screen Capture app.  
-You can change the wall at any time by clicking on it in the Files/Assets tab. 
+You can change the wall at any time by clicking on it in the Files/Assets tab. 
 
 
- 
+ 
 
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

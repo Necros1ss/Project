@@ -13,13 +13,13 @@ Click the Color Palate button, then click the Eyedrop button.
 Your cursor will turn into an eyedrop crosshair. You can select anywhere on your desktop, even in a different window, applications on your desktop.
 
 
- 
+ 
 
 
 After that, you can use this color anywhere on your Design.
 
 
- 
+ 
 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/7589168253459)

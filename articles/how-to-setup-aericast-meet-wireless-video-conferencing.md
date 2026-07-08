@@ -1,5 +1,5 @@
 AeriCast Meet is a new feature included in the AeriCast add-on. It allows users to wirelessly connect to the conference room webcam, microphone and speakers, and join various video conference platforms, such as Zoom, MS Teams, Google Meet, Webex and more. AeriCast Meet also supports wide range of the conference room webcam, microphone and speaker devices, and is a perfect solution to fit your current and future conference room setup and needs.
- 
+ 
 
 
 Here is the detailed information to setup your AeriCast Meet solution:
@@ -9,7 +9,7 @@ Here is the detailed information to setup your AeriCast Meet solution:
 
 * Upgraded AeriCast add-on license
 * Receiver device
-	+ A Windows device to run the **OptiSigns Player** software (v5.6.24+)
+	+ A Windows device to run the **OptiSigns Player** software (v5.6.24+)
 	+ Minimun hardware spec: Intel J6426 CPU, 4GB RAM, 80GB storage
 	+ OS: Win/Mac/Linux
 * Video conferencing A/V devices
@@ -55,19 +55,19 @@ Here is the detailed information to setup your AeriCast Meet solution:
 3. Open the video conferencing software, such as Zoom or MS Teams, and change the video and audio device settings:
 	* Video: AeriCast Camera
 	* Microphone: AeriCast Virtual Input
-	* Speaker: AeriCast Virtual Output devices   
+	* Speaker: AeriCast Virtual Output devices   
 	![](https://support.aericast.com/hc/article_attachments/21398889157005)  
 	![](https://support.aericast.com/hc/article_attachments/21398874475277)
 4. Start your video conference meeting
 
 
 
- 
-Please note that AeriCast Meet does NOT work with Android Player due to the resource restrictions. 
- 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)   
+ 
+Please note that AeriCast Meet does NOT work with Android Player due to the resource restrictions. 
+ 
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)   
 
- 
+ 
 
 
 ---

@@ -1,7 +1,7 @@
 You can export high resolution canvas, template designs for other purposes such as printing out.
 
 
- 
+ 
 
 
 To do so go to: Files/Assets library:
@@ -22,16 +22,16 @@ Click Download File.
 Depends on your browser, you can right click and click Save to your local PC.
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
 

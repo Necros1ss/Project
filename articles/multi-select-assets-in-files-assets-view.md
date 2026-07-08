@@ -1,7 +1,7 @@
 There are a few ways to can select multiple assets at a time:
 
 
- 
+ 
 
 
 **1) Press Ctrl and click on the assets you want to select:**
@@ -13,7 +13,7 @@ Once multiple items selected, you can use the toolbar to interact with it: Delet
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/1500008222001)
 
 
- 
+ 
 
 
 **2) Click the check mark when hovering your mouse over the asset:**
@@ -25,7 +25,7 @@ Hover your mouse over the asset to click the check mark. This is effectively the
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/1500008222141)
 
 
- 
+ 
 
 
 **3) Change your preference to Singe Click to select:**

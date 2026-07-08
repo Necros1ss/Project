@@ -33,7 +33,7 @@ Now, let's get started in setting your's up!
 ## Step 1: Create Your QR Scan-to-Interact App
 
 
-Go to our portal: <http://app.optisigns.com/>
+Go to our portal: <http://app.optisigns.com/>
 
 
 Then, go to **Engage → Explore More** 
@@ -61,13 +61,13 @@ The following screen will appear:
 * **Params** - *(optional)* If you are using a web analytics tool and would like to track the performance of a campaign or analyze how many times this QR code is visited by your customers, add additional parameters here.
 
 
-Click **Save** or **Assign** if you want to assign it directly to a screen. Should you Assign it in this manner, it will appear as a blank screen with only your QR code. This is covered in more detail in the next section.
+Click **Save** or **Assign** if you want to assign it directly to a screen. Should you Assign it in this manner, it will appear as a blank screen with only your QR code. This is covered in more detail in the next section.
 
 
 
 
 
-| **NOTE:** The QR Scan-to-Interact feature needs to work together with a mobile website. This can be designed and hosted by you, or you can host on OptiSigns using the [Hosted Website](https://support.optisigns.com/hc/en-us/articles/7592123111699) app. The first Template in the Hosted Website app is an example of how to integrate with the QR Scan-to-Interact feature. |
+| **NOTE:** The QR Scan-to-Interact feature needs to work together with a mobile website. This can be designed and hosted by you, or you can host on OptiSigns using the [Hosted Website](https://support.optisigns.com/hc/en-us/articles/7592123111699) app. The first Template in the Hosted Website app is an example of how to integrate with the QR Scan-to-Interact feature. |
 | --- |
 
 
@@ -170,7 +170,7 @@ Once you've created the parameters for your QR code, you can assign it directly 
 * **Screens / Tags** - Select which screen or tag where you want your content to appear.
 
 
-Once these are selected, hit **Assign**. Hitting *Assign Later* will mean you'll need to assign the screen through Options 1 or 3.
+Once these are selected, hit **Assign**. Hitting *Assign Later* will mean you'll need to assign the screen through Options 1 or 3.
 
 
 
@@ -184,7 +184,7 @@ This is another way to get the QR code onscreen if you choose **"Save"** or **"A
 
 
 
- If you want to push your QR code to a screen, you'll need to find it under the **Engage** tab. Hover over it and you should see three dots. Click on this, and you'll see the **"Push to Screens"** option.
+ If you want to push your QR code to a screen, you'll need to find it under the **Engage** tab. Hover over it and you should see three dots. Click on this, and you'll see the **"Push to Screens"** option.
 ![firefox_r1Ia5G4eE9.png](https://support.optisigns.com/hc/article_attachments/31431354893075)
 Once there, you'll see these options:
 ![donSrdH5Vs.png](https://support.optisigns.com/hc/article_attachments/31431340726547)
@@ -217,7 +217,7 @@ You'll also be able to Preview your screen before you push it live.
 You've successfully created a QR Scan-to-Interact app. It can be edited at any time from the **Engage** tab. These QR codes can be added to any existing content schedules or playlists.
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

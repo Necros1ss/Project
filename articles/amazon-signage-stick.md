@@ -100,7 +100,7 @@ Here, type the Pair Code which appears on your screen. Then, hit **Pair.**
 **![add screen popup optisigns](https://support.optisigns.com/hc/article_attachments/34087061656211)**
 
 
- 
+ 
 
 
 Your screen should look like this:

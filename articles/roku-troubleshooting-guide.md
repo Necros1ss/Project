@@ -10,13 +10,13 @@ Roku platform has a lot of restrictions. **In short, if you just need to display
 For better compatibility and reliability, we recommend a dedicated player like our [Android Stick Player](https://links.optisigns.com/szzk) or Google ChromeCast, or any [Windows, Mac, Linux](https://www.optisigns.com/download) devices.
 
 
- 
+ 
 
 
 ### **Note what features contents supported & not supported:**
 
 
-**1) OptiSigns App on Roku supports:**
+**1) OptiSigns App on Roku supports:** 
 
 
 * Images, Videos, Documents

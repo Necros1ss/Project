@@ -16,7 +16,7 @@ Also delete the long string text on this ~/.config folder
 Then install the new AppImage download from <https://www.optisigns.com/download>
 
 
- 
+ 
 
 
 

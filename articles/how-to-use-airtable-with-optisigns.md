@@ -8,10 +8,10 @@ You can view an example here:
 ## **Let's jump in and get started:**
 
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 
 Go to Files/Assets, Click on "App" and add Airtable on your Account.
@@ -31,8 +31,8 @@ Enter details for your Airtable:
 * Update Interval: Default is 600 seconds (10 minutes). This mean the app will refresh the link every 10 mins for any changes in your Airtable. If you have a lot of slides, you may want to change this interval to something longer.
 
 
-Note: Here is how to get the Embed code from your Airtable.   
-Click "**Share view**" button and click "**<>Embed this viewon your site**"   
+Note: Here is how to get the Embed code from your Airtable.   
+Click "**Share view**" button and click "**<>Embed this viewon your site**"   
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/9392485841299)  
   
 
@@ -49,7 +49,7 @@ Click Save.
 
 
 You have created your Airtalbe app.  
-You can change it any time by click on it in the Files/Assets tab. 
+You can change it any time by click on it in the Files/Assets tab. 
 
 
 You can assign the newly created wall to your screen by going to Screens, click Edit screens and assign the wall to screens that you want.
@@ -58,7 +58,7 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the Airtalbe app in a Playlist, Schedule too.
 
 
- 
+ 
 
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

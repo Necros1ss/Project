@@ -12,10 +12,10 @@ If you don't have a sub domain yet, you can set up one by going to:
 
 
 Fill in subdomain field and click Activate. After that you can use this sub domain for "  
-You can also map your own domain like digitalsigns.yourcompany.com by following this [article](https://support.optisigns.com/hc/en-us/articles/1500000480302).
+You can also map your own domain like digitalsigns.yourcompany.com by following this [article](https://support.optisigns.com/hc/en-us/articles/1500000480302).
 
 
-This will be the URL that you can share with your users so they can log in to use the app, once integration has set up. In our example we will use <https://advanced.optisigns.net/>
+This will be the URL that you can share with your users so they can log in to use the app, once integration has set up. In our example we will use <https://advanced.optisigns.net/>
 
 
 ![mceclip13.png](https://support.optisigns.com/hc/article_attachments/21287201525907)
@@ -34,15 +34,15 @@ The settings are:
 
 
 * Enable Username & Password login: Allow users to also log in with username/password. It’s recommended to disable it once the integration is all done. As Admin/Owner, it's recommended that you keep at least 1 account with a password log in, in case there are issues, you can always log back in from app.optisigns.com to reconfigure.
-* Enable User Creation: If users are authenticated, but do not exist in OptiSigns, they will be created in OptiSigns. You should enable this, because you likely already assign/approve users/groups to use OptiSigns, unless for some reason you want to be very strict and want to review roles of users before they can start using OptiSigns.
-* Enable User Override: Every time a user logs in, if their group assignment have changed on SAML, OptiSigns will update, override new profile settings.
+* Enable User Creation: If users are authenticated, but do not exist in OptiSigns, they will be created in OptiSigns. You should enable this, because you likely already assign/approve users/groups to use OptiSigns, unless for some reason you want to be very strict and want to review roles of users before they can start using OptiSigns.
+* Enable User Override: Every time a user logs in, if their group assignment have changed on SAML, OptiSigns will update, override new profile settings.
 * Note the "Single Sign On URL" and "Audience URI (SP Entity ID) URL", you will need this to use in Google Workspace later.
 
 
 ![](https://support.optisigns.com/hc/article_attachments/21286640961939)
 
 
- 
+ 
 
 
 **Next, add OptiSigns as an App in your Google Workspace admin portal:**
@@ -110,7 +110,7 @@ You can get SSO URL, Entity ID, and Certificate from your Google Workspace.
 Now your login portal & integration are all setup.
 
 
- 
+ 
 
 
 #### **Assign & map users, and groups from Google Workspace to OptiSigns**
@@ -122,14 +122,14 @@ It's not required, but recommended to create groups of users to be assigned, and
 **IMPORTANT NOTE: If you don't configure this, all users will be assigned User Role & Default Team (screenshot see below)**
 
 
- 
+ 
 
 
-To configure how OptiSigns should map the user groups to OptiSigns Roles by going to: <https://app.optisigns.com/app/s/saml-settings>
+To configure how OptiSigns should map the user groups to OptiSigns Roles by going to: <https://app.optisigns.com/app/s/saml-settings>
 
 
 Scroll to Advanced Settings and create a mapping.  
-Group Name (can use department from Google Workspace), Role (role in OptiSigns) mapping.   
+Group Name (can use department from Google Workspace), Role (role in OptiSigns) mapping.   
 ![mceclip8.png](https://support.optisigns.com/hc/article_attachments/4407485832851)
 
 
@@ -156,7 +156,7 @@ This way they will receive an error when trying to log in and will have to reach
 Note that if you map a SAML group to a Team and then delete the team, it will result in new user being mapped to No Team and will have to contact you to be assigned to a team to use the app.
 
 
- 
+ 
 
 
 Next, it is time to talk about the attributes mapping. This is the last step when creating the app in Google Workspace.
@@ -171,7 +171,7 @@ These mappings will pass information to OptiSigns on what's user's Name and Grou
 ![mceclip5.png](https://support.optisigns.com/hc/article_attachments/4407485726611)
 
 
- 
+ 
 
 
 The "App attributes" are corresponding to OptiSigns
@@ -180,7 +180,7 @@ The "App attributes" are corresponding to OptiSigns
 <https://app.optisigns.com/app/s/saml-settings>
 
 
-OptiSigns accept firstName, lastName, and group by default. Instead of setting the attribute names to the default attribute name used on OptiSigns,  you can also change the attribute name on OptiSigns to match the attribute name you defined on Google Workspace as well.
+OptiSigns accept firstName, lastName, and group by default. Instead of setting the attribute names to the default attribute name used on OptiSigns, you can also change the attribute name on OptiSigns to match the attribute name you defined on Google Workspace as well.
 
 
 ![mceclip9.png](https://support.optisigns.com/hc/article_attachments/4407485875347)
@@ -238,13 +238,13 @@ Now your users can log in using the subdomain that you configured (in this case 
 You can share the URL with your users and they can log in with their SSO credentials.
 
 
- 
+ 
 
 
-If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
 

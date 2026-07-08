@@ -25,7 +25,7 @@ Below are some examples.
 * An [OptiSigns-enabled device](https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported) - if on Free plan, one of [these devices](https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan#Devices)
 * A screen, [set up and paired with OptiSigns](https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide)
 
- 
+ 
 
 
 
@@ -68,9 +68,9 @@ The actual Theme and Clock Settings will vary depending on whether your clock di
 ![](https://support.optisigns.com/hc/article_attachments/48410414214803)
 
 * **Time Format -** How you want the time to be formatted on your digital clock.
-	+ **Show Seconds -**Choose whether or not to show seconds.
-	+ **Show Date -**Choose whether or not to display the date.
-* **Date Format -**If "Show Date" is checked, you can customize the way the date is formatted here.
+	+ **Show Seconds -** Choose whether or not to show seconds.
+	+ **Show Date -** Choose whether or not to display the date.
+* **Date Format -** If "Show Date" is checked, you can customize the way the date is formatted here.
 
 
 ![](https://support.optisigns.com/hc/article_attachments/48410410853651)
@@ -128,7 +128,7 @@ You can also deploy it as part of a split screen, allowing you to show other ass
 
 ### That's all!
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
 
 
 

@@ -1,7 +1,7 @@
 Displaying KPIs and reports on the screen is a common use case for enterprise customers, however, companies are using different reporting systems, which makes this a difficult task to accomplish. OptiSigns has delivered a [Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362) for customers to access their password-protected reporting systems without coding, it also supports Multi-Factor Authentication, for details please follow this [article](https://support.optisigns.com/hc/en-us/articles/19145077187859).
 
 
-Web Scripting App executes the scripts locally on the device, it is the recommended solution for customers to access their reports. However, there are still cases in which customers need another way to execute and display the reports. Below are a few examples. A Secured Dashboard is recommended in these situations. 
+Web Scripting App executes the scripts locally on the device, it is the recommended solution for customers to access their reports. However, there are still cases in which customers need another way to execute and display the reports. Below are a few examples. A Secured Dashboard is recommended in these situations. 
 
 
 * Customers use the same account with MFA to authenticate on multiple devices. Since MFA is using a one-time passcode, it will error if multiple device authentications are started at the same time.
@@ -12,7 +12,7 @@ Web Scripting App executes the scripts locally on the device, it is the recommen
 Secured Dashboard App will take the same scripts you recorded with the Web Scripting App, put it to execute on a dedicated instance, and return a screenshot of the reports. It can help address all the situations mentioned above and more.
 
 
- 
+ 
 
 
 ## **Let's jump in and get started:**
@@ -31,7 +31,7 @@ Once the script is tested with Web Scripting App, you can copy it and create the
 ![](https://support.optisigns.com/hc/article_attachments/19593475063955)
 
 
- 
+ 
 
 
 **2. Configure the Secured Dashboard execution**  
@@ -45,10 +45,10 @@ There are a few settings that allow you to control how the scripts are executed.
 * Delay: This allows you to set when the screenshot is taken. The default is 30 seconds, meaning the screenshot will start the 30s after the scripts are executed. If your report data takes a long time to load, you can set a proper value here to pass the loading.
 
 
- 
+ 
 
 
-After completing all the settings, you can assign it to the screens, the screenshots will update at the set interval. 
+After completing all the settings, you can assign it to the screens, the screenshots will update at the set interval. 
 
 
 **Note:** If your reporting systems have firewall rules or using CAPTCHA to block bots, you can contact us to get the IP address that you can use for whitelisting

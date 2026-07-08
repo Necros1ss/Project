@@ -35,7 +35,7 @@ Next, go to the "Actions" tab and set the action to whatever it is you want to r
 ![Task_Scheduel_1.png](https://support.optisigns.com/hc/article_attachments/360091166373)
 
 
-* **Create Task** in your Task Scheduler
+* **Create Task** in your Task Scheduler
 
 
 ![Task_Scheduel_2.png](https://support.optisigns.com/hc/article_attachments/360091166393)
@@ -98,13 +98,13 @@ Next, go to the "Actions" tab and set the action to whatever it is you want to r
 * Close OptisSigns app
 
 
-Once the computer is idle, your screen will run OptiSigns app. 
+Once the computer is idle, your screen will run OptiSigns app. 
 
 
 You're ready to go.
 
 
- 
+ 
 
 
 **IMPORTANT:**
@@ -116,13 +116,13 @@ Because OptiSigns is closed on any mouse move, click or key press when Screen Sa
 If you want to control OptiSigns again, press Ctrl + Alt + A or Ctrl + Alt + S, this will turn off Screen Saver mode, and you can interact with OptiSigns.
 
 
- 
+ 
 
 
 If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
 

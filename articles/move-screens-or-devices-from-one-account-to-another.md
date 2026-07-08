@@ -37,7 +37,7 @@ Click [**here**](#Portal) if you want to use the web portal, which can let you u
 ### Using OptiSigns Player (With Device Access)
 
 
-If you have access to the device, simply open the **Hamburger menu** on the OptiSigns Player and hit **Unpair**.
+If you have access to the device, simply open the **Hamburger menu** on the OptiSigns Player and hit **Unpair**.
 
 
 ![optisigns player unpair option](https://support.optisigns.com/hc/article_attachments/38483285075347)
@@ -80,7 +80,7 @@ There, you can find the Pairing Code inside the data:
 Write this pairing code down or copy/paste it and do not lose it, or else you will not be able to perform the next step.
 
 
-Next, remove the device from the current account by backing out of this menu, clicking the **Three Dots**, then hitting **Remove**:
+Next, remove the device from the current account by backing out of this menu, clicking the **Three Dots**, then hitting **Remove**:
 
 
 ![web portal remove screen](https://support.optisigns.com/hc/article_attachments/38483257569427)
@@ -98,7 +98,7 @@ This will remove the device from your current account.
 ## Step 2: Pair the Screen to New Account
 
 
-Now, log in to your other account. Navigate to the **Screens**tab, then hit **Add Screen**.
+Now, log in to your other account. Navigate to the **Screens** tab, then hit **Add Screen**.
 
 
 ![web portal add screen](https://support.optisigns.com/hc/article_attachments/38483257575315)

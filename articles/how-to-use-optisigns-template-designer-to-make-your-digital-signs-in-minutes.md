@@ -12,10 +12,10 @@ Watch this 3min video on Designer 1.0 to learn more:
 
 
 
- 
+ 
 
 
-In this article, we will review the following for Designer 1.0 and 2.0: 
+In this article, we will review the following for Designer 1.0 and 2.0: 
 
 
 1. Access the Designer app (or tool)
@@ -49,7 +49,7 @@ You can access our Designer app in 2 ways:
 ![chrome_FwUnhtgHeX.jpg](https://support.optisigns.com/hc/article_attachments/41677809103251)
 
 
- 
+ 
 
 
 ## **Browse for templates in our Template library**
@@ -64,7 +64,7 @@ Or, you can click on 'Templates' on the Files/Assets page
 ![](https://support.optisigns.com/hc/article_attachments/20427583633811)
 
 
- 
+ 
 
 
 Here, you can search and browse to find the template that meets your needs.
@@ -93,7 +93,7 @@ You can rename the design by clicking on the name on top bar:
 |  |  |
 
 
- 
+ 
 
 
 ## **Assigning your design to your screen**
@@ -140,7 +140,7 @@ If you want to add a File or Asset you've already uploaded to OptiSigns to your 
 |  |  |
 
 
- 
+ 
 
 
 Then select your asset from the Files/Assets pop-up window:
@@ -159,7 +159,7 @@ Once selected, the asset will appear in the Designer.
 
 
 You can add icons, elements to your designs by clicking the "**Element**" button on the left hand side menu.  
-There are 1000+ well designed icons and elements to browse, search and choose from. Provided by FontAwesome. 
+There are 1000+ well designed icons and elements to browse, search and choose from. Provided by FontAwesome. 
 
 
 ***In Designer 2.0: We've also added shapes into the element category!***
@@ -172,7 +172,7 @@ There are 1000+ well designed icons and elements to browse, search and choose fr
 |  |  |
 
 
- 
+ 
 
 
 Click on any icon to add it into your design.  
@@ -186,7 +186,7 @@ You then can further edit its size, color, opacity, etc. by clicking on the icon
 | Customization options are available in the top context bar when double clicked | Customization options are available in the top context bar and selecting "**Effects**" will provide further options in the left sidemenu. |
 
 
- 
+ 
 
 
 ## **Adding QR Code to your sign**
@@ -212,7 +212,7 @@ You can create QR code for variety type of actions, here are some good examples 
 |  |  |
 
 
- 
+ 
 
 
 ## **Create your own templates to share with your team**
@@ -234,10 +234,10 @@ This will make a copy of your current design and set it as template. Now other u
 |  |  |
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

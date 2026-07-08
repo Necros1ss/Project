@@ -241,7 +241,7 @@ Selecting the **Effects** option allows you to change a number of different aspe
 
 Here, you have numerous options. We’ll go over each of them in turn.
 
-Expanding the **Color** section allows you to add color to the text. 
+Expanding the **Color** section allows you to add color to the text. 
 
 ![](https://support.optisigns.com/hc/article_attachments/42157857353619)
 
@@ -249,7 +249,7 @@ This is functionally the same as the Colors option in the Text Top Menu. Select 
 
 ![](https://support.optisigns.com/hc/article_attachments/42157857358355)
 
-Expanding the **Background** section allows you to set a specific background color for the Text to sit on. 
+Expanding the **Background** section allows you to set a specific background color for the Text to sit on. 
 
 ![](https://support.optisigns.com/hc/article_attachments/42157857363603)
 

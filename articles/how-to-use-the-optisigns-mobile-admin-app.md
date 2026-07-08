@@ -29,7 +29,7 @@
 To use the Mobile Admin App, first you'll need to acquire it.
 
 
-You can find the **OptiSigns Admin**app on the **[Google Play](https://play.google.com/store/apps/details?id=com.optisigns.controller&hl=en_US)**store or [**Apple App Store**](https://apps.apple.com/us/app/optisigns-admin/id1574826252). Download and install it on your mobile device of choice, then proceed with the rest of this guide. You can also download it by scanning the QR code on the WiFi screen of your device.
+You can find the **OptiSigns Admin** app on the **[Google Play](https://play.google.com/store/apps/details?id=com.optisigns.controller&hl=en_US)** store or [**Apple App Store**](https://apps.apple.com/us/app/optisigns-admin/id1574826252). Download and install it on your mobile device of choice, then proceed with the rest of this guide. You can also download it by scanning the QR code on the WiFi screen of your device.
 
 
 
@@ -112,7 +112,7 @@ For detailed instructions on each setting up and adding a screen, please visit *
 | The Screen section on the OptiSigns Mobile App has some limitations. It cannot preview content before displaying it, and it doesn't have the scheduling features available in the web version. |
 
 
- 
+ 
 
 
 
@@ -131,7 +131,7 @@ Manage all screens paired with your account easily from the mobile app.
 #### Steps to Manage Your Screens:
 
 
-Tap the **Screen** **icon** on the bottom left navigation bar → Tap the **3** **Dots icon** →  Select **Edit, Move,** or **Delete**
+Tap the **Screen** **icon** on the bottom left navigation bar → Tap the **3** **Dots icon** → Select **Edit, Move,** or **Delete**
 
 
 
@@ -232,7 +232,7 @@ While you can upload and view all assets, creating various apps (Social Media, W
 ### 5.3 Changing Displayed Content from Edit Screen
 
 
-Navigate to the **Screens**tab → **Edit**the desired screen → choose "**Type**" and assign your desired asset/playlist/schedule
+Navigate to the **Screens** tab → **Edit** the desired screen → choose "**Type**" and assign your desired asset/playlist/schedule
 
 
 
@@ -267,16 +267,16 @@ Please tap the **3 Dot icon**, located to the right of the home button.
 
 
 	+ **Asset**: add new assets to the Playlist.
-	+ **Playlist**: add a new playlist to the Playlist. For more information about Nested Playlists, please follow [this link](https://support.optisigns.com/hc/en-us/articles/360043621953).
+	+ **Playlist**: add a new playlist to the Playlist. For more information about Nested Playlists, please follow [this link](https://support.optisigns.com/hc/en-us/articles/360043621953).
 * **Pencil icon:** change the duration of assets within the Playlist.
 	+ **Select option**: select and change multiple assets duration at once.
 * **Delete:** Swipe left to delete an asset from the Playlist.
 * **Hold and move assets:** to arrange the order in the Playlist.
 * **Playlist color:** change the playlist color for better organization.
-* **3 Dots icon**: This will allow you to manage the Playlist. 
+* **3 Dots icon**: This will allow you to manage the Playlist. 
 
 
-	+ **Options:** for more Advanced settings. To understand the function of each setting option in the Playlist Settings, please follow [this article.](https://support.optisigns.com/hc/en-us/articles/28295074995859)
+	+ **Options:** for more Advanced settings. To understand the function of each setting option in the Playlist Settings, please follow [this article.](https://support.optisigns.com/hc/en-us/articles/28295074995859)
 	+ **Move**
 	+ **Duplicate**
 	+ **Delete**
@@ -293,7 +293,7 @@ Navigate to the **Screen** **Section** → **Edit** the desired screen → choos
 #### Limitation
 
 
-Like the Media section, the "Push to screen" feature is not available. 
+Like the Media section, the "Push to screen" feature is not available. 
 
 
 
@@ -317,7 +317,7 @@ In this section, you can view and adjust any available Schedule on your account.
 #### Limitation
 
 
-The "Push to screen" feature is not available. 
+The "Push to screen" feature is not available. 
 
 
 

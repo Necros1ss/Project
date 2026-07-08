@@ -24,7 +24,7 @@ If you buy devices from us, you need to change the password to something else to
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/1500011611442)
 
 
- 
+ 
 
 
 After that you can SSH into your device.
@@ -36,13 +36,13 @@ You can read more about SSH here:
 <https://www.raspberrypi.org/documentation/remote-access/ssh/>
 
 
- 
+ 
 
 
 If you have further questions feel free to contact our support team.
 
 
- 
+ 
 
 
 

@@ -1,6 +1,6 @@
 
 
-| **Important Note (7/3):** We have recently disabled our Content Rotation App, and we highly recommend using our similar[**Sub-playlist Control feature,**](https://support.optisigns.com/hc/en-us/articles/22474034993043) available in our Pro-Plus and above plans. |
+| **Important Note (7/3):** We have recently disabled our Content Rotation App, and we highly recommend using our similar [**Sub-playlist Control feature,**](https://support.optisigns.com/hc/en-us/articles/22474034993043) available in our Pro-Plus and above plans. |
 | --- |
 
 
@@ -11,7 +11,7 @@ A real world scenario would be: there are 2 Departments each maintain a playlist
 As Admin, you want both to have 50% of screen time each (i.e. ensure 1 department do not make long content, video and consume all the screen time).
 
 
-With Content Rotation app, you can 
+With Content Rotation app, you can 
 
 
 ## **Let's jump in and get started:**
@@ -62,7 +62,7 @@ Click Save.
 After Saving, you can Preview the Content Rotation to see how the system mix the playlist.
 
 
- 
+ 
 
 
 ## **That's all! Congratulation!**
@@ -74,10 +74,10 @@ You have added a Content Rotation app.
 You can assign the newly created Content Rotation asset to your screen by going to Screens, click Edit screens and assign the asset to screens that you want.
 
 
- 
+ 
 
 
-**If you really curious about how the system mix the playlist, you can check out these cases:**
+**If you really curious about how the system mix the playlist, you can check out these cases:**
 
 
 **Case 1**- Enforce each item duration limit = checked + Repeat (This is the default case)   
@@ -116,7 +116,7 @@ A5: 20s
 B2 20s
 
 
- 
+ 
 
 
 **Case 2**- Enforce each item duration limit = checked + Move to next
@@ -163,7 +163,7 @@ A5: 20s
 B2 20s
 
 
- 
+ 
 
 
 **Case 3**- Enforce each item duration limit = checked + Repeat
@@ -210,16 +210,16 @@ A3: 20s
 B1: 20s
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
- 
+ 
 
 
 

@@ -102,7 +102,7 @@ On the **Build** page, you will have several key features that you can customize
 * **Close Icon Location** - Location of where you would like the Close (X) icon to display on your kiosk screen; choose 'None' if you do not want the close icon to display.
 * **Theme:** The visual style applied to the kiosk interface.
 * **Font Size:** Specify the size of the text within the interface; set to Default
-* **Font  Family**: The chosen typeface for text elements.
+* **Font Family**: The chosen typeface for text elements.
 
 
 **Advanced Settings**:
@@ -116,7 +116,7 @@ On the **Build** page, you will have several key features that you can customize
 * **Background Image**: Customize the image for the kiosk background.
 
 
-Once you have set your configuration settings, click **Review** to continue to the next page. 
+Once you have set your configuration settings, click **Review** to continue to the next page. 
 
 
 * On the Review page, you can review all of your configuration settings and preview the screen before committing your changes. You can also preview in full screen by clicking on 'Preview Full Screen' at the bottom.

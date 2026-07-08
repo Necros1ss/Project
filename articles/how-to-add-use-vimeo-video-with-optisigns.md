@@ -26,7 +26,7 @@ You then can use this Vimeo video on your playlist or assign directly to screen 
 ![](https://support.optisigns.com/hc/article_attachments/360024795773)
 
 
- 
+ 
 
 
 **Note**: If you want to set your Vimeo as not public, you can set your Viemo as "**Hide from Vimeo".** Then you can add "[social-player.optisigns.com](http://social-player.optisigns.com/)" in the Specific domains of Embed.
@@ -35,7 +35,7 @@ You then can use this Vimeo video on your playlist or assign directly to screen 
 ![](https://support.optisigns.com/hc/article_attachments/15320186326547)
 
 
- 
+ 
 
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

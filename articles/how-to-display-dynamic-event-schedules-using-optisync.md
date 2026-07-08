@@ -10,7 +10,7 @@
 * [Setting up a Monthly Event Calendar with OptiSync](#Monthly)
 
 
-Automatically updating your screens with event information is useful in many situations, including providing real-time updates across a wide area. 
+Automatically updating your screens with event information is useful in many situations, including providing real-time updates across a wide area. 
 
 
 Providing updated daily, weekly, or monthly event schedules for conventions, trade shows, schools, local governments, public places, nonprofits, company internal events, and far more is OptiSync’s specialty.

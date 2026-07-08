@@ -56,7 +56,7 @@ Set up configuration for your Live TV with Ads app:
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/1500008225441)
 
 
-* Name: Name of your Asset, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
+* Name: Name of your Asset, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Ads Playlist: If you have more than 1 ads, you can make a playlist as your ads collection.
 * Ads Interval: How often the ads should be played. It's a good idea to have the Ads not to show up constantly, but pop in every few minutes.
 * Resolution: Resolution of your TV playback. Recommended to leave at 1920x1080 (even if you have 4K TV as 4K Live TV capture is complex)
@@ -84,17 +84,17 @@ You have created your Live TV with Ads app.
 You can assign it to your screens now and start promoting your business & increase your sales!
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
 
 
 
- 
+ 
 
- 
- 
+ 
+ 
 
 
- 
+ 
 
 
 

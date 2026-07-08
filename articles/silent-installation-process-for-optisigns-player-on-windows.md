@@ -1,4 +1,4 @@
-By default, when you install the OptiSigns Windows player on your Windows device, it will be installed on your default user profile.   
+By default, when you install the OptiSigns Windows player on your Windows device, it will be installed on your default user profile.   
   
 If you want to do the silent install in another folder instead of the default user profile. This will be helpful for looking for mass provisioning on Windows and deploying with a prebuilt Windows image.
 
@@ -6,7 +6,7 @@ If you want to do the silent install in another folder instead of the default us
 You can follow this article.
 
 
- 
+ 
 
 
 1. Search the **Command Prompt** and **Run as administrator**
@@ -15,7 +15,7 @@ You can follow this article.
 ![](https://support.optisigns.com/hc/article_attachments/15861776979603)
 
 
-2. Move the OptiSigns exe file to the folder. 
+2. Move the OptiSigns exe file to the folder. 
 
 
 3. Run or go to your folder
@@ -53,19 +53,19 @@ or
 ![](https://support.optisigns.com/hc/article_attachments/15912711216275)
 
 
- 
+ 
 
 
 Then it will install in that folder.
 
 
- 
+ 
 
 
-If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
 

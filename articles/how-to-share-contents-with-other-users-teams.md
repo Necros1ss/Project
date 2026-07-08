@@ -8,7 +8,7 @@
 **Use Case:** You want to share global or specific regional folders with users/teams. Set up the permission in the folder. A Shared Folder gives OptiSigns Account Admins/Owners the ability to share content with different users/teams. Shared Folder works on any feature in OptiSigns, including Screens, Files/Assets, Playlists, or Schedule Tabs.
 
 * [**Here**](https://support.optisigns.com/hc/en-us/articles/360044600474)are more details about the Folder Level Security feature.
-* [**Here**](https://support.optisigns.com/hc/en-us/articles/360034883113) are more details about the Teams feature.
+* [**Here**](https://support.optisigns.com/hc/en-us/articles/360034883113) are more details about the Teams feature.
 
 
 
@@ -28,7 +28,7 @@
 ### Here's how it works in detail:
 
 1. You will have to create a folder under Screens, Files/Assets, Playlists, or Schedules.  
-**Screens:**
+**Screens:** 
 
 ![](https://support.optisigns.com/hc/article_attachments/19209612491411)
 
@@ -52,9 +52,9 @@
 
 ![](https://support.optisigns.com/hc/article_attachments/19209716398739)
 
- 
+ 
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

@@ -24,7 +24,7 @@ Wall view screenshot is below, you can view a live example [here](https://social
 ![](https://support.optisigns.com/hc/article_attachments/360024803353)
 
 
- 
+ 
 
 
 ## **Let's jump in and get started:**
@@ -42,7 +42,7 @@ Go to Files/Assets, Click on "App" and add Instagram on your Account.
 
 
 ![](https://support.optisigns.com/hc/article_attachments/360023845094)
- 
+ 
 
 
 Click Instagram:
@@ -51,7 +51,7 @@ Click Instagram:
 
 
 ![](https://support.optisigns.com/hc/article_attachments/360023845074)
- 
+ 
 Click "Sign In with Instagram" and sign in with your credentials.
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360079331033)
 
@@ -65,7 +65,7 @@ Enter your Instagram Wall information:
 
 
 * Name: Name of your Instagram Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
-* Display Mode: Select [**Single Post View**](https://social-player.optisigns.com/instagram/?asset_id=y89t3dg76jewc7nec), **[Social Wall View](https://social-player.optisigns.com/instagram/?asset_id=ry2oyv3hqui83njer), [Social Kiosk View](https://social-player.optisigns.com/instagram/?asset_id=0csdimtv6c6p2blg8),** or **Bricks View**. Click on the links to see live example.
+* Display Mode: Select [**Single Post View**](https://social-player.optisigns.com/instagram/?asset_id=y89t3dg76jewc7nec), **[Social Wall View](https://social-player.optisigns.com/instagram/?asset_id=ry2oyv3hqui83njer), [Social Kiosk View](https://social-player.optisigns.com/instagram/?asset_id=0csdimtv6c6p2blg8),** or **Bricks View**. Click on the links to see live example.
 * Theme: Select Light or Dark Theme. You can also customize your background color if you select Custom.
 
 
@@ -97,7 +97,7 @@ You can click Advanced and set:
 
 
 
- 
+ 
 Click Save.  
 After Saving, you can Preview the wall. It may take several seconds for the app to fetch posts and prepare your wall, so please be patient.  
   
@@ -107,7 +107,7 @@ After Saving, you can Preview the wall. It may take several seconds for the app 
 
 
 You have created your Instagram Wall.  
-You can change the wall any time by click on it in the Files/Assets tab. 
+You can change the wall any time by click on it in the Files/Assets tab. 
 
 
 You can assign the newly created wall to your screen by going to Screens, click Edit screens and assign the wall to screens that you want.

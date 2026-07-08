@@ -84,14 +84,14 @@ For most token based authentication, setting up the authentication token with th
 Once you've got your basic API Gateway request set up, there are a few additional steps you'll want to perform if you have multiple locations for your screens. These different locations may have different menus, or different specials for that day, or even different pricing depending on various factors.
 
 
-POS systems normally require separate license for each location. Your POS system API may provide different store ID in the API endpoint or using different authentication token. For larger deployment with multiple stores, you can use substitution parameters to handle that with OptiSigns. 
+POS systems normally require separate license for each location. Your POS system API may provide different store ID in the API endpoint or using different authentication token. For larger deployment with multiple stores, you can use substitution parameters to handle that with OptiSigns. 
 
 
 There are two ways to handle multiple POS locations:
 
 
 1. Set up individual API requests for each of your POS locations, changing the value in the URL endpoint each time and mapping them to each of your screens individually. If you only have a few locations where your POS system is used, this will work just fine.
-2. *(Recommended)*Configuring each screen to send its storeID to the API call, allowing a single API request to provide data to multiple screens. For anything more than two or three screens, we recommend this method.
+2. *(Recommended)* Configuring each screen to send its storeID to the API call, allowing a single API request to provide data to multiple screens. For anything more than two or three screens, we recommend this method.
 
 
 Here's how to handle option 2.
@@ -173,7 +173,7 @@ This will fix the returned data, allowing it to display properly. It will also a
 | --- |
 
 
- 
+ 
 
 
 
@@ -232,7 +232,7 @@ You should see this screen:
 Hit **Save**, and the DataSource is created.
 
 
-It should appear in the left column under **"Used in this design".**It will definitely appear in the **"Other DataSources"** section. You may need to refresh the page for it to appear.
+It should appear in the left column under **"Used in this design".** It will definitely appear in the **"Other DataSources"** section. You may need to refresh the page for it to appear.
 
 
 ![](https://support.optisigns.com/hc/article_attachments/31937799814163)
@@ -303,7 +303,7 @@ If your numbers need extra formatting, click on the number, then hit **Settings.
 **![](https://support.optisigns.com/hc/article_attachments/32077278901139)**
 
 
-Click **Advanced Options →** **"Display Format"** and choose **"Number,"** then click **"Number Format"** and select the formatting you'd like. This will allow you to add dollar signs to your prices, with other options.
+Click **Advanced Options →** **"Display Format"** and choose **"Number,"** then click **"Number Format"** and select the formatting you'd like. This will allow you to add dollar signs to your prices, with other options.
 
 
 ![ShareX_q0ybaobi0E.png](https://support.optisigns.com/hc/article_attachments/32060268867859)
@@ -416,7 +416,7 @@ Under **Type**, choose asset, then select your DMB asset to play.
 You should be able to create an Digital Menu Board with dynamic data features.
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
 
 
 

@@ -46,7 +46,7 @@ Free plan is good for users with basic digital signage needs. With a Free Plan, 
 * Raspberry Pi
 * MacOS
 
-The OptiSigns Free Plan **IS NOT SUPPORTED ON:**
+The OptiSigns Free Plan **IS NOT SUPPORTED ON:**
 
 * FireTV / FireStick
 * Roku

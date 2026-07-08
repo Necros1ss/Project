@@ -7,13 +7,13 @@ Roku platform has a lot of restrictions. **In short, if you just need to display
 For better compatibility and reliability, we recommend a dedicated player like our [Android Stick Player](https://links.optisigns.com/szzk) or Google ChromeCast, or any [Windows, Mac, Linux](https://www.optisigns.com/download) devices.
 
 
- 
+ 
 
 
 Since Roku is a device designed for streaming, it's limited in processing power, storage and capability. This article describe the limitation in term of using the device for Digital Signage application.
 
 
-**1) OptiSigns App on Roku supports:**
+**1) OptiSigns App on Roku supports:** 
 
 
 * Images, Videos, Documents
@@ -46,10 +46,10 @@ There are 2 ways to install OptiSigns Player on Roku:
 In summary, currently, you can reliably use the OptiSigns app on Roku to display images slide shows, and playlists.
 
 
-Other features will not function correctly due to the limitations of the Roku platform. 
+Other features will not function correctly due to the limitations of the Roku platform. 
 
 
- 
+ 
 
 
 If you have further questions, or feedback please send us an email at [support@optisigns.com](mailto:support@optisigns.com).

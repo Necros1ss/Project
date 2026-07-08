@@ -1,10 +1,10 @@
-In some cases, you may need to setup wifi on the OptiSigns pre-configured android player. For example, you choose not to pre-configure wifi at the time of ordering, or if you are planning to move the devices from one location to another location with different wifi network. 
+In some cases, you may need to setup wifi on the OptiSigns pre-configured android player. For example, you choose not to pre-configure wifi at the time of ordering, or if you are planning to move the devices from one location to another location with different wifi network. 
 
 
 Now you have the capability to setup wifi on OptiSigns pre-configured android player using the OptiSigns admin mobile app. We will walk you through how to do it in this document.
 
 
- 
+ 
 
 
 **1. Optisigns app shows "Internet Connection is required for first time" on the screen.**
@@ -61,7 +61,7 @@ After the device is successfully connected, the screen will show it is connected
 **![mceclip6.png](https://support.optisigns.com/hc/article_attachments/4409611665555)**
 
 
- 
+ 
 
 
 Your OptiSigns Pre-Configured Android Stick should be connected to internet now.
@@ -70,16 +70,16 @@ Your OptiSigns Pre-Configured Android Stick should be connected to internet now.
 You're ready to go.
 
 
-And the screen should show you the screen pairing code. Then you can enter this pairing code on your web portal. If you want to learn more, you can click [here](https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen). Or you can simply add the screens to your account by scanning the QR code.
+And the screen should show you the screen pairing code. Then you can enter this pairing code on your web portal. If you want to learn more, you can click [here](https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen). Or you can simply add the screens to your account by scanning the QR code.
 
 
-![mceclip7.png](https://support.optisigns.com/hc/article_attachments/4409611859475) 
+![mceclip7.png](https://support.optisigns.com/hc/article_attachments/4409611859475) 
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

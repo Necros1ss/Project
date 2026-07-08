@@ -1,7 +1,7 @@
 If you have many screens in different locations, and you want to display local weather, you can just make 1 weather app, and set it to use device's location instead of having to make many weather apps.
 
 
- 
+ 
 
 
 First set your device's location.
@@ -19,7 +19,7 @@ You can also edit location of multiple screens at the same time by selecting the
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4408057893011)
 
 
- 
+ 
 
 
 Next, in your weather app select the option to "Use Device Setting's Location".
@@ -43,7 +43,7 @@ Now you can use this Weather app in your playlist, schedule, etc. and when the d
 OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
 
 
- 
+ 
 
 
 

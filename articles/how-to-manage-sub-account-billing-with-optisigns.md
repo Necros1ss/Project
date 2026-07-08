@@ -6,13 +6,13 @@ OptiSigns supports managing billing for sub-accounts. With this feature, headqua
 If you would like to manage the recourses in the "sub-account" instead, we suggest that you use the "[**Teams**](https://support.optisigns.com/hc/en-us/articles/360034883113)" feature so that you can reserve the screens per team, and then allocate the cost by the number of screens.
 
 
- 
+ 
 
 
-If you are a very large franchise or, organizations that need over 50+ sub-accounts, please reach out to us we have a team billing feature that may be more suitable for you. 
+If you are a very large franchise or, organizations that need over 50+ sub-accounts, please reach out to us we have a team billing feature that may be more suitable for you. 
 
 
- 
+ 
 
 
 ## **Let's jump in and get started:**
@@ -68,7 +68,7 @@ You can only do these for your sub-account
 **Important Note**: Sub-account is a separate account. The main account can update the billing info for the sub-account. All screens, contents, playlists, and schedules will not be able to be shared between the main account and the sub-account.
 
 
- 
+ 
 
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

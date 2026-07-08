@@ -10,7 +10,7 @@
 There are workarounds with [ADB commands](https://support.optisigns.com/hc/en-us/articles/23274673797139) or manually to start the app.
 However, those workarounds are inconvenient, and we believe without an easy way to AutoStart apps, it is not a good solution for a Digital Signage player.
 
- 
+ 
 If you have older model of TVs with Amazon FireOS 7 or lower, you can continue with this article to get it set up.
 ## **Here are the high level steps:**
 
@@ -27,7 +27,7 @@ So let's dive in!
 ### **1) Download & Set up OptiSigns Digital Signage from Amazon App Store**
 
 
-Press the **Search** icon on the **Find** section of the Fire TV,
+Press the **Search** icon on the **Find** section of the Fire TV,
 
 
 ![Fire_Stick-12.png](https://support.optisigns.com/hc/article_attachments/26399157505811)
@@ -52,7 +52,7 @@ Click **Download** on the OptiSigns app icon
 Once the app is installed, **launch** it.
 
 
-The app will ask if you want to automatically start when device start up. It recommended to select **yes**, unless you want to launch the app yourself every time manually.
+The app will ask if you want to automatically start when device start up. It recommended to select **yes**, unless you want to launch the app yourself every time manually.
 
 
 
@@ -63,7 +63,7 @@ You then will see this pairing screen:
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/26399157527059)
 
 
-Go to our website: [https://app.optisigns.com](https://app.optisigns.com/app/screenManagement)
+Go to our website: [https://app.optisigns.com](https://app.optisigns.com/app/screenManagement)
 
 
 If you don't have an account already, create one, or you can also log in with Google or Facebook account.
@@ -73,14 +73,14 @@ If you don't have an account already, create one, or you can also log in with Go
 
 
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/26399172852627)Once you logged in, click "**Add screen"** button
- 
+ 
 
 
 
 
 ![mceclip3.png](https://support.optisigns.com/hc/article_attachments/26399172854931)
 In this pop up, type in the Pair Code showing up on your Fire TV screen. Then, click **Pair**:
- 
+ 
 ![mceclip4.png](https://support.optisigns.com/hc/article_attachments/26399157541779)
 
 
@@ -107,11 +107,11 @@ Once you go to our portal at: <https://app.optisigns.com/>to pair the screen and
 * [Create and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
 
 
- 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+ 
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
 

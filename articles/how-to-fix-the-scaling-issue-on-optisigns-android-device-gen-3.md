@@ -1,7 +1,7 @@
 If you encounter any issues with displaying the correct text size or graph size using the OptiSigns Android Stick Gen 3, following these steps should help resolve the problem.
 
 
- 
+ 
 
 
 **Here is an example of Different Scaling Views:**
@@ -19,13 +19,13 @@ If you encounter any issues with displaying the correct text size or graph size 
 **![Screenshot 2024-04-01 094928.png](https://support.optisigns.com/hc/article_attachments/28026605062035)**
 
 
- 
+ 
 
 
 This article provides instructions on adjusting the scaling settings for the OptiSigns Android Device Gen 3.
 
 
- 
+ 
 
 
 1. Go to the **Settings**
@@ -61,7 +61,7 @@ This article provides instructions on adjusting the scaling settings for the Opt
 After completing these steps, you can relaunch the OptiSigns app. Adjusting the settings should allow you to achieve the desired scaling on your screen.
 
 
- 
+ 
 
 
 Please let us know if you have any questions or feedback.

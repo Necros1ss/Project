@@ -1,4 +1,4 @@
- 
+ 
 
 
 With Android, Fire TV, Windows, Linux, and Raspberry Pi players, you can set to show/hide downloads.
@@ -31,7 +31,7 @@ Or on the player, you can open Side Menu -> Advanced -> and uncheck Show Downloa
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/12946929704467)
 
 
- 
+ 
 
 
 That's it!

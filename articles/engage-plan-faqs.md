@@ -12,7 +12,7 @@ Here are a few highlighted features in Engage:
 * [Enterprise App](https://support.optisigns.com/hc/en-us/articles/13320135306515)
 * [Check-in & SMS follow up](https://support.optisigns.com/hc/en-us/articles/23566927217939)
 
- 
+ 
 
 **Can I try it out?**
 
@@ -28,7 +28,7 @@ This screen is the only one that will ever have Engage enabled, and it is a one-
 
 Engage plan is $30/mo/screen. With an annual plan, that cost is reduced to $27/mo/screen.
 
- 
+ 
 
 **Only some of my Screens need Engage features. Can I only buy Engage Subscriptions for them?**
 
@@ -43,7 +43,7 @@ Since Engage includes platform-wide features (QR Scan to Interact, Check-in & SM
 
 Additional SMS are billed at $0.025 per message
 
- 
+ 
 
 **Learn more about Engage features:**
 
@@ -51,7 +51,7 @@ Additional SMS are billed at $0.025 per message
 
 [**Designing Kiosk Apps Using Kiosk Designer Pro**](https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro)
 
- 
+ 
 
 
 

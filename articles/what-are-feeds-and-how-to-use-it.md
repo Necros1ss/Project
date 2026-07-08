@@ -8,7 +8,7 @@
 | In a bustling warehouse, digital screens featuring prebuilt videos around OSHA standards become the backbone of safety training. These videos regularly play, reinforcing critical safety protocols, best practices, and hazard awareness among employees. As workers navigate the busy environment, these engaging and informative videos serve as constant reminders, fostering a culture of safety and significantly reducing the risk of accidents. |
 
 
- 
+ 
 
 
 ## What are OptiSigns Feeds?
@@ -55,7 +55,7 @@ We provide a rich tapestry of categories to suit various environments:
 ![feeds-step3.jpg](https://support.optisigns.com/hc/article_attachments/24340116391827)
 
 
-Press **"Next"**, and you can rename the Feed if you'd like, then press **"Save".**
+Press **"Next"**, and you can rename the Feed if you'd like, then press **"Save".**
 
 
 Finally, push your Feeds to your screen! If you need help learning how to do this please visit this article: **[Push Contents to your Screens](https://support.optisigns.com/hc/en-us/articles/18988049363859).**

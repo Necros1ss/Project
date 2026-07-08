@@ -79,7 +79,7 @@ You'll see this somewhat intimidating screen:
 
 The **Name** refers to the name of the role (i.e. Admin, User, etc.). The other options control what sorts of access the Role has.
 
-In this example, we'll be creating a custom role called Designer. We want the Designer to be able to create and upload content, but have no access to screens, playlists or schedules. This role would be one we'd consider for an outside contractor or someone we view as a slight security risk.
+In this example, we'll be creating a custom role called Designer. We want the Designer to be able to create and upload content, but have no access to screens, playlists or schedules. This role would be one we'd consider for an outside contractor or someone we view as a slight security risk.
 
 ![mceclip12.jpg](https://support.optisigns.com/hc/article_attachments/38720784827923)
 
@@ -162,7 +162,7 @@ Now these members can be removed from this Team, and have their user permissions
 
 ### That's all!
 
-OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
 
 
 

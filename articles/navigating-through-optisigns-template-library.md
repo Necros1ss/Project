@@ -49,14 +49,14 @@ You can access our Template library in **four different ways**, as show below:
 
 
 
- 
+ 
 
 
 
 ## Navigating the Template Library
 
 
-Once you've accessed the template library, you should be taken to this home page: 
+Once you've accessed the template library, you should be taken to this home page: 
 
 
 ![image (17).jpg](https://support.optisigns.com/hc/article_attachments/40159929432851)
@@ -74,7 +74,7 @@ Once you've accessed the template library, you should be taken to this home page
 ## Selecting and Customizing a Template
 
 
-Once you have chosen your category or found a template you'd like to use, click on the **thumbnail** to preview the template in detail.
+Once you have chosen your category or found a template you'd like to use, click on the **thumbnail** to preview the template in detail.
 
 
 * You will see the template's size and relevant tags.
@@ -83,7 +83,7 @@ Once you have chosen your category or found a template you'd like to use, click 
 You can click on the tags to quickly search for relevant templates.
 
 
-Click **Use this template** to open the template in our **Designer app**. 
+Click **Use this template** to open the template in our **Designer app**. 
 
 
 
@@ -91,10 +91,10 @@ Click **Use this template** to open the template in our **Designer app**. 
 To learn more about how to use OptiSigns' Designer app to be able to customize your templates, please click [here](https://support.optisigns.com/hc/en-us/articles/4404151402899-How-to-use-OptiSigns-Template-Designer-app-to-make-your-Digital-Signs-in-minutes).
 
 
-Once you're done customizing your template, click the **Save**icon.
+Once you're done customizing your template, click the **Save** icon.
 
 
-You can also directly push this template to your screens or do so from the screens page. Follow [this guide](https://support.optisigns.com/hc/en-us/articles/18988049363859) to learn more about assigning content to your screens. 
+You can also directly push this template to your screens or do so from the screens page. Follow [this guide](https://support.optisigns.com/hc/en-us/articles/18988049363859) to learn more about assigning content to your screens. 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/42858434514579)
@@ -103,7 +103,7 @@ You can also directly push this template to your screens or do so from the scree
 ## That's it!
 
 
-Just push your templates to your screen or throw it in a playlist or schedule, and voila! You're ready to captivate your audiences with OptiSigns! 
+Just push your templates to your screen or throw it in a playlist or schedule, and voila! You're ready to captivate your audiences with OptiSigns! 
 
 
 

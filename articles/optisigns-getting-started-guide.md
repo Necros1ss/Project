@@ -32,7 +32,7 @@
 2. Already have a TV or Signage Player? Go to our[**Downloads**](https://www.optisigns.com/download) page to see if our app can be installed on it.
 3. Not ready for hardware purchase yet? Just download the [**Windows Player app**](https://links.optisigns.com/win) or [**MacOS Player app**](https://links.optisigns.com/mac) and use your laptop as test screen.
 
-Once OptiSigns App is installed, **launch it**. 
+Once OptiSigns App is installed, **launch it**. 
 
 The app will ask if you want to automatically start when the device starts up.
 
@@ -64,7 +64,7 @@ A pop-up screen will appear, type in the **Pair Code** showing up on your screen
 | --- | --- |
 |  |  |
 
-Your screen should now say **Paired**, instead of showing the code.
+Your screen should now say **Paired**, instead of showing the code.
 
 
 
@@ -99,7 +99,7 @@ Then **drop**, **import**, or **browse** for files to upload to your account.
 
 ## **Push Content to Your Screen**
 
-Go back to the **Screens**page, and click **Edit**on your preferred screen. You can also click the **screen's name** on the new UI.
+Go back to the **Screens** page, and click **Edit** on your preferred screen. You can also click the **screen's name** on the new UI.
 
 
 
@@ -110,7 +110,7 @@ Go back to the **Screens**page, and click **Edit**on your preferred screen. You 
 | --- | --- |
 |  |  |
 
-For **Type**, select your desired content: asset, playlist or schedule. For this example, we chose an **Asset.**
+For **Type**, select your desired content: asset, playlist or schedule. For this example, we chose an **Asset.**
 
 Then, select your desired content from the drop down menu.
 
@@ -123,7 +123,7 @@ Then, select your desired content from the drop down menu.
 | --- | --- |
 |  |  |
 
-Finally, click **Save**. Your screen should refresh and display the content you've assigned it. It's that easy!
+Finally, click **Save**. Your screen should refresh and display the content you've assigned it. It's that easy!
 
 
 

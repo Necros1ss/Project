@@ -1,7 +1,7 @@
 Sometime you have content behind a secured website that requires login, such as your project schedule in Atlassian's JIRA, Trello, dashboard behind PowerBI, Tableau, etc.
 
 
- 
+ 
 
 
 To type in username, password, you just need to connect a [Bluetooth keyboard or mouse](https://www.amazon.com/Logitech-Illuminated-Living-Room-Keyboard-Touchpad/dp/B00ZOPVSKW/) with your Fire Stick.
@@ -26,10 +26,10 @@ You're ready to go.
 You can use a keyboard or mouse to enter login information.
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
 
 
 

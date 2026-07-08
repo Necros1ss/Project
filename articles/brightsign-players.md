@@ -4,7 +4,7 @@ It is very easy to setup OptiSigns on BrightSign players. There are 2 ways you c
 
 ## Option 1: Setup with BSN.cloud
 
-**1) Download BrightAuthor**
+**1) Download BrightAuthor** 
 
 The latest BrightAuthor can be downloaded [here](https://www.brightsign.biz/digital-signage-products/software/brightauthor).
 
@@ -18,7 +18,7 @@ Fill in the value in the package and device name.
 
 Select "Partner Application" under Device Type. Click "Select a Partner Application" and find "OptiSigns".
 
-Then click "Save Setup File" to save the generated setup files. 
+Then click "Save Setup File" to save the generated setup files. 
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/5200010385299)
 
@@ -38,16 +38,16 @@ Once the setup process is complete, you will see OptiSigns player running on you
 
 Please make sure your BrightSign player is connected to the internet.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/5089996700435) **6) Pair the screen**Now you are ready to go to our portal at: <https://app.optisigns.com/>
-Pair the screen using your screen's code and start assigning content to it.For detailed steps click [here](https://support.optisigns.com/hc/en-us/articles/360016374813).
+![mceclip1.png](https://support.optisigns.com/hc/article_attachments/5089996700435) **6) Pair the screen**Now you are ready to go to our portal at: <https://app.optisigns.com/>
+Pair the screen using your screen's code and start assigning content to it.For detailed steps click [here](https://support.optisigns.com/hc/en-us/articles/360016374813).
 
- 
+ 
 
 ## Option 2: Standalone Mode
 
 **1) Download the autorun file.**
 
-The latest autorun.zip file can be downloaded [here](https://links.optisigns.com/brightsign). 
+The latest autorun.zip file can be downloaded [here](https://links.optisigns.com/brightsign). 
 
 **2) Copy the autorun file to your storage device.**
 
@@ -63,8 +63,8 @@ Once the setup process is complete, you will see OptiSigns player running on you
 
 Please make sure your BrightSign player is connected to the internet.
 
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/5089996700435) **4) Pair the screen**Now you are ready to go to our portal at: <https://app.optisigns.com/>
-Pair the screen using your screen's code and start assigning content to it.Once you pair the screen and start assigning content to it, you can follow these guides for more detailed steps:
+![mceclip1.png](https://support.optisigns.com/hc/article_attachments/5089996700435) **4) Pair the screen**Now you are ready to go to our portal at: <https://app.optisigns.com/>
+Pair the screen using your screen's code and start assigning content to it.Once you pair the screen and start assigning content to it, you can follow these guides for more detailed steps:
 
 * [Set up & add a screen](https://support.optisigns.com/hc/en-us/articles/360016374813)
 * [How to Upload & Manage Your Files/ Assets](https://support.optisigns.com/hc/en-us/articles/360016247974)
@@ -113,7 +113,7 @@ This will allow your BrightSign player to use the latest versions of Chromium.
 
 Now you are ready to use OptiSigns on your BrightSign players.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

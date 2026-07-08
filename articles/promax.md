@@ -31,8 +31,8 @@ This device is pre-configured for easy setup, allowing you to manage content rem
 ### Key Features of the OptiSigns ProMax Digital Signage Player:
 
 * **Passive cooling Design**: Passive cooling enhances device longevity.
-* **Video Wall:**4-screen video wall with 4K resolution per screen.
-* **Massive Memory:**16GB of RAM.
+* **Video Wall:** 4-screen video wall with 4K resolution per screen.
+* **Massive Memory:** 16GB of RAM.
 * **Industrial reliability:** built and suitable for mission critical use.
 * **Support of HDMI CEC and RS232**: Take control of Commercial or consumer.
 * **8K Video Support**: Delivers ultra-high-definition content.
@@ -43,7 +43,7 @@ This device is pre-configured for easy setup, allowing you to manage content rem
 
 ### How to Order the OptiSigns ProMax Digital Signage Player:
 
-* Buy directly from the OptiSigns [Website](https://shop.optisigns.com/products/optisigns-promax-signage-player) - $699.00 USD
+* Buy directly from the OptiSigns [Website](https://shop.optisigns.com/products/optisigns-promax-signage-player)  - $699.00 USD
 	+ Shipping time - 3-5 days to most locations in the US
 
 
@@ -205,7 +205,7 @@ In the "About" section, you'll be presented with detailed information about your
 Here’s a breakdown of the key information displayed:
 
 * **Used Cache:** The amount of space being used by the device's cache.
-* **Version:**The current version of the OptiSigns app being run.
+* **Version:** The current version of the OptiSigns app being run.
 * **Assigned Content**: The current content assigned to the device. This can be either an Asset or a Playlist.
 * **Device Info**
 	+ **Platform:** The platform the device is running on.
@@ -225,7 +225,7 @@ If you ever need to reboot your device, view logs, or revisit the Wi-Fi setup, y
 
 ### Troubleshooting
 
-To troubleshoot the device, head to the **Troubleshooting**page:
+To troubleshoot the device, head to the **Troubleshooting** page:
 
 ![promax side menu troubleshooting](https://support.optisigns.com/hc/article_attachments/40217688491795)
 
@@ -241,7 +241,7 @@ This displays a variety of information useful for troubleshooting.
 
 ## That’s it!
 
-You’re all set up and ready to go. Now, dive into the countless possibilities to enhance your digital displays with OptiSigns' powerful apps and integrations. 
+You’re all set up and ready to go. Now, dive into the countless possibilities to enhance your digital displays with OptiSigns' powerful apps and integrations. 
 
 
 

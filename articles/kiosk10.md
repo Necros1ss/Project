@@ -50,7 +50,7 @@ Place the OptiKiosk 10 on a flat surface and connect the power adapter to the de
 
 ### Step 2: Connect to the Internet
 
-Your kiosk must be connected to the internet to display content. 
+Your kiosk must be connected to the internet to display content. 
 
 ![](https://support.optisigns.com/hc/article_attachments/44668980784019)
 
@@ -80,8 +80,8 @@ Optional: Confirm Your Connection
 | --- |
 | In order to use the OptiKiosk, you will need an [**OptiSigns subscription**](https://www.optisigns.com/pricing). To use it as a display, you can use any plan. To use it in Kiosk mode, you’ll need our [**Engage plan**](https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs). |
 
-1. After connecting to the internet, the device will generate a pairing code like below.   
- 
+1. After connecting to the internet, the device will generate a pairing code like below.   
+ 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/44668980788627)
@@ -160,7 +160,7 @@ If your device and screen are on, but only displays a black screen:
 * Check your Operational Schedule, and verify its power settings are not set to Off. If an Operational Schedule’s power settings are set to Off, it will remain off during the designed time.
 
 If the device is still not displaying content after you’ve checked these, try a Factory Reset.  
- 
+ 
 
 #### **App Freezes, Video Assets Not Playing Full Video, or Asset Not Loaded Fully**
 

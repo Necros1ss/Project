@@ -4,7 +4,7 @@ If, for security or other reasons, you want to disable the download button on yo
 ![photo of asset and download button in account](https://support.optisigns.com/hc/article_attachments/34840578455827)
 
 
- 
+ 
 
 
 First, click on your account name in the top-right corner, then select "**Preferences**" from the drop-down menu or navigate to the **[preference settings page](https://app.optisigns.com/app/s/preference-settings)**.

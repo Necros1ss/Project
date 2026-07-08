@@ -27,7 +27,7 @@ You can also use USB thumb drives. OptiSigns detects drives plugged in and scan 
 
 
 
-| **Note:**The Local folder application only currently supports video and image files. |
+| **Note:** The Local folder application only currently supports video and image files. |
 | --- |
 
 
@@ -40,10 +40,10 @@ You can also use USB thumb drives. OptiSigns detects drives plugged in and scan 
 ## **How to Set Up the Local Folder App**
 
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 
 Go to **Files/Assets** and click on **"Apps"**:
@@ -52,13 +52,13 @@ Go to **Files/Assets** and click on **"Apps"**:
 
 
 ![optisigns portal with arrows pointing to Files/Assets tab and Apps button](https://support.optisigns.com/hc/article_attachments/21882432568595)
-Find the **Local Folder** app:
+Find the **Local Folder** app:
 ![apps screen in optisigns portal with arrow pointing at local folder app](https://support.optisigns.com/hc/article_attachments/360102953613)
- 
+ 
 Enter the path to your local folder (explained in more detail below) and other settings:
 ![local folder app menu](https://support.optisigns.com/hc/article_attachments/360100790274)
 
-* **Name** - Name of your Local Folder app. This will be displayed on your asset list, and will **not** be displayed on your screens.
+* **Name** - Name of your Local Folder app. This will be displayed on your asset list, and will **not** be displayed on your screens.
 * **Local Folder** - Path to the folder on your device. We will provide detailed instructions per platform later in this article.
 * **Transition Effect** - Transition effect between your images and videos in the folder.
 * **Transition Speed** - How fast you want your transitions to animate.
@@ -231,11 +231,11 @@ Then, use this path to fill in the Local Folder value within the Local Folder Ap
 ### **That's all!**
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
 
 
 
- 
+ 
 
 
 

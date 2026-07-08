@@ -62,7 +62,7 @@ You can go back to app.optisigns.com to use Remote Control feature now.
 ![](https://support.optisigns.com/hc/article_attachments/18614175492243)
 
 
- 
+ 
 
 
 ## **More Technical Details for optisigns-remote-agent**
@@ -103,7 +103,7 @@ Open Terminal and run:
 ~/bin/optisigns-remote-agent remove
 ```
 
- 
+ 
 
 
 ### That's all!
@@ -112,7 +112,7 @@ Open Terminal and run:
 OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
 

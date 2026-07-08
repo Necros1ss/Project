@@ -41,7 +41,7 @@ Now, we’ll need to add a Data Mapping to an element. Click the Element you wan
 
 The element will automatically be given an **Element ID.** We also recommend giving it an **Asset Element Name**, which will appear on your generated spreadsheet and can help identify what the value is.
 
- ![data mapping element id and asset element name](https://support.optisigns.com/hc/article_attachments/42915203032083)
+ ![data mapping element id and asset element name](https://support.optisigns.com/hc/article_attachments/42915203032083)
 
 There are also additional options:
 
@@ -68,7 +68,7 @@ Scroll down in the popup to the **Adv. DataSources** section and choose either *
 
 ![advanced datasources googlesheet or ms excel 365](https://support.optisigns.com/hc/article_attachments/42915203035795)
 
-Clicking one of these will bring up the option to sign in with your account of choice. 
+Clicking one of these will bring up the option to sign in with your account of choice. 
 
 ![choose between google sheet or ms excel datasource](https://support.optisigns.com/hc/article_attachments/42915203036819)
 
@@ -104,7 +104,7 @@ The elements you’ve mapped will appear in the sheet.
 
 ## Modifying the Data
 
-To change the mapping, simply edit the values in the columns, being sure to keep the Asset Element ID and Asset Element Name the same. 
+To change the mapping, simply edit the values in the columns, being sure to keep the Asset Element ID and Asset Element Name the same. 
 
 For example, say we want the word “SOCIAL” to appear on one screen in one location, but we want it to say “COMMUNAL” in another. To do this, we simply duplicate the Row, then change the “Screen Name” and “Value” cells:
 
@@ -123,7 +123,7 @@ Some best practices:
 
 ### **That’s all!**
 
-OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
 
 
 

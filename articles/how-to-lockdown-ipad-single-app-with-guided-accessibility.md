@@ -40,7 +40,7 @@ That's it! Now, the OptiSigns app will be locked on your screen.
 
 If you have any additional questions, concerns, or feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
- 
+ 
 
 
 

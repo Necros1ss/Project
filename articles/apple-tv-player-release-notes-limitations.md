@@ -9,7 +9,7 @@ There are a few notes in running Apple TV as digital signage player.
 * Transition animations will not be respected when using an Apple TV device, and we recommend avoiding them.
 
 
-**OptiSigns Player on Apple TV supports:**
+**OptiSigns Player on Apple TV supports:** 
 
 * Images, Videos, Documents, GIF Files
 * Canvas, Templates, Google Drive, Dropbox, OneDrive apps

@@ -6,14 +6,14 @@
 
 As result of Facebook's change in policies, Instagram Consumer and Instagram Business/Creator have different level of access.
 
-**Instagram (or Instagram Consumer):**
+**Instagram (or Instagram Consumer):** 
 
 * Display posts in your profiles only.
 
 **Instagram Business/Creator:**
 
 * Display post from your profiles
-* You can display posts from any public profiles (i.e. <https://www.instagram.com/arsenal>)
+* You can display posts from any public profiles (i.e. <https://www.instagram.com/arsenal>)
 * You can also follow and monitor a hashtag
 * Get follower counts (for [Instagram Counter App](https://support.optisigns.com/hc/en-us/articles/360047501233))
 

@@ -7,7 +7,7 @@ Roku platform has a lot of restrictions. **In short, if you just need to display
 For better compatibility and reliability, we recommend a dedicated player like our [Android Stick Player](https://links.optisigns.com/szzk) or Google ChromeCast, or any [Windows, Mac, Linux](https://www.optisigns.com/download) devices.
 
 
- 
+ 
 
 
 **How to install OptiSigns Player on Roku:**
@@ -32,7 +32,7 @@ First, please update these two settings on your Roku device.
 
 
 
- 
+ 
 
 
 
@@ -51,19 +51,19 @@ First, please update these two settings on your Roku device.
 ![roku-1.jpg](https://support.optisigns.com/hc/article_attachments/1500002179302)
 
 
-2. Scroll up or down and select **Settings.**
+2. Scroll up or down and select **Settings.**
 
 
 ![roku-2.jpg](https://support.optisigns.com/hc/article_attachments/360103238393)
 
 
-3. Select **Theme** to open the *Theme* menu.
+3. Select **Theme** to open the *Theme* menu.
 
 
 ![roku-3.jpg](https://support.optisigns.com/hc/article_attachments/1500002241201)
 
 
-4. Select **Screensavers**.
+4. Select **Screensavers**.
 
 
 ![roku-4.jpg](https://support.optisigns.com/hc/article_attachments/360103237233)
@@ -84,16 +84,16 @@ First, please update these two settings on your Roku device.
 You're ready to go.
 
 
-Once the Roku is idle, your screen will run Optisigns app. 
+Once the Roku is idle, your screen will run Optisigns app. 
 
 
- 
+ 
 
 
 ### How to set up Screensaver wait time.
 
 
-1. Open the ***Theme***menu using steps 1-3 above.
+1. Open the ***Theme*** menu using steps 1-3 above.
 
 
 2. Select **Screensaver wait time**.
@@ -108,19 +108,19 @@ Once the Roku is idle, your screen will run Optisigns app. 
 Then you are all set.
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
 

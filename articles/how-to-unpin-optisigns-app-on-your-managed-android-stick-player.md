@@ -10,7 +10,7 @@ However, if you want to change settings like change WiFi, you have to exit this 
 Here's how to:
 
 
- 
+ 
 
 
 How to exit the Kiosk mode on your Android device

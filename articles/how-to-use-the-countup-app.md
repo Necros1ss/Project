@@ -5,7 +5,7 @@
 	+ [Theme Settings](#ThemeSettings)
 	+ [Advanced Settings](#Advanced)
 
-The CountUp (or Count Up) app is a simple way to display a customizable count up clock for any occasion. 
+The CountUp (or Count Up) app is a simple way to display a customizable count up clock for any occasion. 
 
 ![](https://support.optisigns.com/hc/article_attachments/46720907995667)
 
@@ -111,9 +111,9 @@ After you've configured the CountUp app to your liking, hit **Save**. Your Count
 
 ### That's all!
 
-OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
 
- 
+ 
 
 
 

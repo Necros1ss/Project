@@ -55,7 +55,7 @@ We’ll go over each of these options in turn.
 ![background button graphic](https://support.optisigns.com/hc/article_attachments/42526890573203)
 
 The **Background** option lets you alter the background layer of the photo.  
- 
+ 
 
 ### Filter
 
@@ -192,7 +192,7 @@ Here, you have numerous options. We’ll go over each of them in turn.
 | --- |
 | Many of these options are best used with a **transparent background**, else you will not see much difference. |
 
-Expanding the **Color** section allows you to add color to the photo or image. 
+Expanding the **Color** section allows you to add color to the photo or image. 
 
 ![color effects](https://support.optisigns.com/hc/article_attachments/42526906984723)
 

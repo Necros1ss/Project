@@ -71,7 +71,7 @@ These are required for OptiSigns to connect with your desired API. Make sure you
 ## How to Set Up an API Request
 
 
-The API gateway is a powerful tool that allows users to centrally manage the APIs, as well as configure and test the APIs. 
+The API gateway is a powerful tool that allows users to centrally manage the APIs, as well as configure and test the APIs. 
 
 
 Now that you have everything you need, let's get started on setting up an API Request. With an API request, you can:
@@ -137,7 +137,7 @@ This will open the **API Keystore.**
 ![](https://support.optisigns.com/hc/article_attachments/32427378817171)
 
 
-Click **Add Key**.
+Click **Add Key**.
 
 
 ![firefox_Af1bBuAYxy.png](https://support.optisigns.com/hc/article_attachments/32427378823187)
@@ -183,7 +183,7 @@ The test parameters, endpoints, and authenticators can then be used in OptiSigns
 ![firefox_orSTybxxGU.png](https://support.optisigns.com/hc/article_attachments/32427362124563)
 
 
- 
+ 
 
 
 Click the **Add Request** button, it will launch the window for you to configure and test the API request.
@@ -244,7 +244,7 @@ To use pre- and post-request processing, some amount of Javascript knowledge is 
 | **Post-request:** A piece of code to apply to the data ***received from*** the API request. This code can be used to modify the received data to change how it is displayed on your screens. |
 
 
- 
+ 
 
 
 The **Pre-request** tab is where you'll input code for pre-request processing.
@@ -256,7 +256,7 @@ The **Pre-request** tab is where you'll input code for pre-request processing.
 For more on this example, see this article on [how to connect your Toast API](https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-use-Toast-API-data-with-OptiSigns).
 
 
- 
+ 
 
 
 The **Post-request** tab is where you'll input code for post-request processing.
@@ -271,7 +271,7 @@ Prices may display as whole numbers (i.e. 1299) instead of as a proper pricing (
 ![](https://support.optisigns.com/hc/article_attachments/32427362130195)
 
 
- 
+ 
 
 
 For this common example, this piece of JavaScript code should solve your issue. We can also set up the ability to map product availability at the same time.
@@ -390,13 +390,13 @@ Here, you can choose what data specifically you want to add to the Design. If yo
 **DataSource Name** is how this DataSource will appear in Designer. Name it whatever helps you identify it.
 
 
-**Synchronization** lets you choose how often to sync back to your API. *Only import once* makes sense for one-time promos and the like. If this is for a longer-term asset, choose *Periodic direct access*or *Periodic background sync* depending if you need to use the data from specific device to set the context*.*
+**Synchronization** lets you choose how often to sync back to your API. *Only import once* makes sense for one-time promos and the like. If this is for a longer-term asset, choose *Periodic direct access* or *Periodic background sync* depending if you need to use the data from specific device to set the context*.*
 
 
 Hit **Done**, and the DataSource is created.
 
 
-It should appear in the left column under **"Used in this design".**It will definitely appear in the **"Other DataSources"** section. You may need to refresh the page for it to appear.
+It should appear in the left column under **"Used in this design".** It will definitely appear in the **"Other DataSources"** section. You may need to refresh the page for it to appear.
 
 
 Now, we move to step 2.
@@ -432,7 +432,7 @@ Opening up any of these will display the data pulled from your API:
 ![](https://support.optisigns.com/hc/article_attachments/42850953617427)
 
 
-By clicking on any piece of this data and dragging it onto the screen, the data will appear. You'll have the option to use the data as a Repeater or on its own. 
+By clicking on any piece of this data and dragging it onto the screen, the data will appear. You'll have the option to use the data as a Repeater or on its own. 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/42850937928467)
@@ -441,13 +441,13 @@ By clicking on any piece of this data and dragging it onto the screen, the data 
 In this case, we want to use it on its own. For menus, a Repeater makes the most sense.
 
 
-In order to check the data binding, you can click on any mapped element, then click **Settings**. You will see the **Asset Element Name** there.
+In order to check the data binding, you can click on any mapped element, then click **Settings**. You will see the **Asset Element Name** there.
 
 
 ![](https://support.optisigns.com/hc/article_attachments/42850937932307)
 
 
-We have the item name and price from the API mapped to the design. When published on the screen, the value will be automatically replaced with the value from the API. If updates are made in the Clover POS system, the change will be reflected on the screen automatically. 
+We have the item name and price from the API mapped to the design. When published on the screen, the value will be automatically replaced with the value from the API. If updates are made in the Clover POS system, the change will be reflected on the screen automatically. 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/42850937936019)
@@ -486,7 +486,7 @@ If you'd like more detail on API integration use cases, we have several addition
 This is how you integrate API data and get it published on your screen. Most importantly, with no coding!
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

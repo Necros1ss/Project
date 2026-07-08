@@ -1,6 +1,6 @@
 Customers on the Engage or Enterprise Plans can request their data to be stored in a certain country, or region for data residency requirements.
 
- 
+ 
 
 By default, all customer's data are stored simultaneously in the:
 
@@ -9,7 +9,7 @@ By default, all customer's data are stored simultaneously in the:
 
 And distributed to your devices via CDN for the fastest speed.
 
- 
+ 
 
 Engage or Enterprise customers can request your data to be stored in:
 
@@ -28,7 +28,7 @@ Engage or Enterprise customers can request your data to be stored in:
 
 Please contact [support@optisigns.com](mailto:support@optisigns.com) or your sales rep if you are interested in pricing or would like to enable this feature on your account
 
- 
+ 
 
 
 

@@ -87,7 +87,7 @@ Here, select **Asset** under Content type. If you already have an Asset, Playlis
 
 Then, select your created Data Studio Asset:
 
-![](https://support.optisigns.com/hc/article_attachments/52550819884563)Now hit **Save**. Your Data Studio asset will now display on screen. 
+![](https://support.optisigns.com/hc/article_attachments/52550819884563)Now hit **Save**. Your Data Studio asset will now display on screen. 
 
 
 
@@ -99,7 +99,7 @@ You can also deploy it as part of a split screen, allowing you to show other ass
 
 ### That's all!
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
 
 
 

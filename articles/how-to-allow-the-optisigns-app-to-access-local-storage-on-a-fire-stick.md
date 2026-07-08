@@ -11,7 +11,7 @@ In this guide, we will walk you through end to end process to allow the OptiSign
 Go to Settings > Applications > Manage Installed Applications. Then select OptiSigns app, and select Permissions. Make it to ALLOW.
 
 
-1. From your Fire Stick homepage go to **"Settings"**.
+1. From your Fire Stick homepage go to **"Settings"**.
 
 
 ![access_local_storage-1.png](https://support.optisigns.com/hc/article_attachments/1500001291181)
@@ -41,7 +41,7 @@ Go to Settings > Applications > Manage Installed Applications. Then select OptiS
 ![access_local_storage-5.png](https://support.optisigns.com/hc/article_attachments/360100119734)
 
 
-6. Default will show DENY. Click "**Storage**". 
+6. Default will show DENY. Click "**Storage**". 
 
 
 ![access_local_storage-6.png](https://support.optisigns.com/hc/article_attachments/360102300693)
@@ -56,10 +56,10 @@ Go to Settings > Applications > Manage Installed Applications. Then select OptiS
 That's all. Then you can launch the OptiSigns app. Your screen will run your content.
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

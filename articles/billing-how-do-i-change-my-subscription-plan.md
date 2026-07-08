@@ -90,7 +90,7 @@ Congratulations! You've subscribed to OptiSigns.
 On the **Subscription Plan** screen, you'll see an itemized breakdown of every part of your bill. These can include your plan, as well as any add-ons you've purchased, multiplied by the number of screens registered on your account.
 
 
-To add or reduce the number of screens you're using, or to change your plan, hit **Update subscription**. 
+To add or reduce the number of screens you're using, or to change your plan, hit **Update subscription**. 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/36532243931667)
@@ -151,7 +151,7 @@ Congratulations! You've changed the terms of your OptiSigns subscription.
 If you have questions or issues with changing your subscription plan, please contact us at: [support@optisigns.com.](https://support@optisigns.com)
 
 
- 
+ 
 
 
 

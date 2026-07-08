@@ -1,4 +1,4 @@
-Subscriptions are a query type that allows you to be notified when any changes are made to a device, asset, or playlist. 
+Subscriptions are a query type that allows you to be notified when any changes are made to a device, asset, or playlist. 
 
 
 An example might be that you want to be notified of any changes made to your device, be that changing the asset or playlist. This can be done entirely within GraphQL by using queries to find the information about a device, setting up a subscription, then using mutations to alter the device attributes.
@@ -11,17 +11,17 @@ An example might be that you want to be notified of any changes made to your dev
 ```
 subscription subscribe($_id:String,$type:OBJECT_TYPES){  
   
-  subscribe(_id:$_id,type:$type){  
+  subscribe(_id:$_id,type:$type){  
   
-    _id,  
+    _id,  
   
-    mutation,  
+    mutation,  
   
-    teamId  
+    teamId  
   
-    type  
+    type  
   
-  }  
+  }  
   
 }
 ```
@@ -33,7 +33,7 @@ subscription subscribe($_id:String,$type:OBJECT_TYPES){
 ```
 {"_id":"",  
   
-  "type": ""  
+  "type": ""  
   
 }
 ```
@@ -62,17 +62,17 @@ Here, we have a Mutation script that is changing the name and playlist on the se
 
 ```
 mutation updateDevice($_id: String!,$payload: UpdateDeviceInput!, $teamId: String){  
-  updateDevice(_id:$_id,payload:$payload,teamId:$teamId){  
-     _id,  
-     deviceName,  
-     UUID,  
-     pairingCode,  
-     currentType,  
-     currentAssetId,  
-     currentPlaylistId,  
-     path,  
-     localAppVersion  
-  }  
+  updateDevice(_id:$_id,payload:$payload,teamId:$teamId){  
+     _id,  
+     deviceName,  
+     UUID,  
+     pairingCode,  
+     currentType,  
+     currentAssetId,  
+     currentPlaylistId,  
+     path,  
+     localAppVersion  
+  }  
 }
 ```
 
@@ -82,13 +82,13 @@ mutation updateDevice($_id: String!,$payload: UpdateDeviceInput!, $teamId: Strin
 
 ```
 {"_id": "",  
-  "payload": {"deviceName": "",  
-    "currentType": "",  
-    "currentAssetId": “”,  
-    "currentPlaylistId": "",  
-    "orientation": "LANDSCAPE"  
+  "payload": {"deviceName": "",  
+    "currentType": "",  
+    "currentAssetId": “”,  
+    "currentPlaylistId": "",  
+    "orientation": "LANDSCAPE"  
   }   
-} 
+} 
 ```
 
 ![](https://support.optisigns.com/hc/article_attachments/36558442824211)

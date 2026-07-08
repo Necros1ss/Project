@@ -12,7 +12,7 @@ For more info about how Waitwhile work watch their [2min video](https://youtu.be
 To put Waitwhile List on your Digital Signs.
 
 
-Go to [app.optisigns.com](https://app.optisigns.com/).
+Go to [app.optisigns.com](https://app.optisigns.com/).
 
 
 Click Files/Assets, then click Apps
@@ -57,7 +57,7 @@ Set up your Waitwhile App:
 ![mceclip3.png](https://support.optisigns.com/hc/article_attachments/11784139517843)
 
 
- 
+ 
 
 
 * + QR Code Position: position of QR Code.
@@ -70,7 +70,7 @@ Click Save to save your asset.
 You can preview how it look by clicking the "Preview button".
 
 
- 
+ 
 
 
 ## That's all!
@@ -82,17 +82,17 @@ Congratulation! You have created your Waitwhile App.
 You can change the wall any time by click on it in the Files/Assets tab.
 
 
- 
+ 
 You can assign the newly created app to your screen by going to Screens, click Edit screens and assign the wall to screens that you want.
 
 
 You can put the walls in a Playlist, Schedule too.
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

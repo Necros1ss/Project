@@ -21,7 +21,7 @@ Here's an example of how the Playback Report look:
 
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360097337234)
 
- 
+ 
 
 Here are the high level steps to set up and use Proof of Play report.
 
@@ -54,7 +54,7 @@ Once enabled, within a few minutes, all of your screens will start sending back 
 
 You can now go to Analytics tab to view the report.
 
- 
+ 
 
 **2. Setup: (Optional) Setting Tags to your Screens, Assets**
 
@@ -66,7 +66,7 @@ This step is optional, but it's usually useful for you to set tags for your scre
 You can changes, update your tags any time and use them right away in report, data export.  
 If you change, update tags; data, report that already exported will not have the changes, but you can re-run the report, data export to include the new tagging changes.
 
- 
+ 
 
 **3. Using Report: Slide & dice your data**
 
@@ -86,13 +86,13 @@ For example below we looking at all the assets names contained "food"
 
 ![mceclip5.png](https://support.optisigns.com/hc/article_attachments/360097340034)
 
- 
+ 
 
 Add more fields/columns to the report:
 
-![mceclip6.png](https://support.optisigns.com/hc/article_attachments/360099645633) 
+![mceclip6.png](https://support.optisigns.com/hc/article_attachments/360099645633) 
 
- 
+ 
 
 Export Report
 
@@ -114,7 +114,7 @@ You can also Save & Schedule report to be emailed out on Daily, Weekly or Monthl
 
 **5. Export Data: Schedule data export & download data**
 
-You can configure OptiSigns to regularly export your raw data for 
+You can configure OptiSigns to regularly export your raw data for 
 
 ![mceclip10.png](https://support.optisigns.com/hc/article_attachments/360099208133)
 
@@ -122,19 +122,19 @@ Here's how a data export looks like:
 
 ![mceclip11.png](https://support.optisigns.com/hc/article_attachments/360096894574)
 
- 
+ 
 
 ## **Summary:**
 
 OptiSigns' Proof of play or Playback Report give you real-time insight into playback of your assets on screens. You have the flexibility of slice & dice the data in your the Portal or schedule raw data export for your own analysis.
 
-You can also schedule report to be automatically sent to your emails.  
+You can also schedule report to be automatically sent to your emails. 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

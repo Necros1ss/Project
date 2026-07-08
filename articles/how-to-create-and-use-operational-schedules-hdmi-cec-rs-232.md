@@ -23,9 +23,9 @@ Operational Schedule allows you to schedule when your TV powers on/off and to co
 | --- |
 | * You will need the **Pro+ Plan** or above to have access to this HDMI-CEC and RS-232 feature. The HDMI-CEC or RS-232 capabilities allow you to Power On/Off your TV using the Operational Schedule, and change the volume or mute the screen. |
 | * If you have the **Free** or **Standard** plan and create an Operational Schedule, the player will display black to save power and device life. Free and Standard plan users will not have access to the "Advanced Scheduling" option: |
-| * To access Operational Schedule with an HDMI-CEC port, you will need our [**OptiSigns Android Player**](https://shop.optisigns.com/products/optisigns-android-stick-player-2), [**Pro Signage Player**](https://shop.optisigns.com/products/optisigns-digital-signage-player), [**ProMax Player**](https://support.optisigns.com/hc/en-us/articles/38680194603155-OptiSigns-ProMax-Player), Windows, or Linux devices. The player will need to be plugged in to an HDMI-CEC port to function. RS-232 functionality can be used with any device which supports it. 	+ Please ensure your Android Player device is ***powered from an outlet, not the screen's USB port.***If plugged into the USB port, the act of turning off the screen will also power off the device - meaning, it will not be able to turn the screen back on. 	+ Operational Scheduling is not supported on Roku nor Samsung Tizen devices. The option will not be visible. |
+| * To access Operational Schedule with an HDMI-CEC port, you will need our [**OptiSigns Android Player**](https://shop.optisigns.com/products/optisigns-android-stick-player-2), [**Pro Signage Player**](https://shop.optisigns.com/products/optisigns-digital-signage-player), [**ProMax Player**](https://support.optisigns.com/hc/en-us/articles/38680194603155-OptiSigns-ProMax-Player), Windows, or Linux devices. The player will need to be plugged in to an HDMI-CEC port to function. RS-232 functionality can be used with any device which supports it. 	+ Please ensure your Android Player device is ***powered from an outlet, not the screen's USB port.*** If plugged into the USB port, the act of turning off the screen will also power off the device - meaning, it will not be able to turn the screen back on. 	+ Operational Scheduling is not supported on Roku nor Samsung Tizen devices. The option will not be visible. |
 
- 
+ 
 
 **One last important note:**
 
@@ -52,16 +52,16 @@ For more on Schedules, see our article on [**Creating and Using Schedules**](htt
 
 ![](https://support.optisigns.com/hc/article_attachments/28598173050899)
 
- 
+ 
 
-**2.**Select **Operational Schedule**, then select your schedule from the dropdown menu:
+**2.** Select **Operational Schedule**, then select your schedule from the dropdown menu:
 
 1. **Default Schedule**: Screen is on, 4:00AM - 11:59PM, every day
 2. **New:** Create your own schedule
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/39032325151379)
 
-**3.**If **Default Schedule** is selected, the time and days can adjusted by clicking **Edit**.
+**3.** If **Default Schedule** is selected, the time and days can adjusted by clicking **Edit**.
 
 
 
@@ -70,11 +70,11 @@ For more on Schedules, see our article on [**Creating and Using Schedules**](htt
 
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/39032349012883)
 
-**4.**Select your **Operational Schedule**, assign your desired content, then click **Save.**
+**4.** Select your **Operational Schedule**, assign your desired content, then click **Save.**
 
 ![mceclip3.png](https://support.optisigns.com/hc/article_attachments/39032349013267)
 
-**5.** Once saved, your TV power will be on during the operational schedule and will be turned off or display black outside of the operational schedule. 
+**5.** Once saved, your TV power will be on during the operational schedule and will be turned off or display black outside of the operational schedule. 
 
 
 
@@ -87,7 +87,7 @@ For more on Schedules, see our article on [**Creating and Using Schedules**](htt
 
 ## **Create Your Own Advanced Schedule**
 
-**1.**Navigate to your [**Screens Management**](https://app.optisigns.com/app/screenManagement), select your desired screen, click **Operational Schedule**, select **+ New** from the Operational Schedule dropdown menu. 
+**1.** Navigate to your [**Screens Management**](https://app.optisigns.com/app/screenManagement), select your desired screen, click **Operational Schedule**, select **+ New** from the Operational Schedule dropdown menu. 
 
 ![mceclip4.png](https://support.optisigns.com/hc/article_attachments/39032349024531)
 
@@ -98,15 +98,15 @@ On the side menu, you can customize your schedule with the following options:
 ![](https://support.optisigns.com/hc/article_attachments/40739915922835)
 
 1. 1. **Name:** Create a name for your schedule. We ***highly recommend*** doing this so as to differentiate it from other Operational Schedules you may wish to make.
-	2. **Time:**This is the time of your event, click on it to edit the day and time.![](https://support.optisigns.com/hc/article_attachments/28598178564627)
-	3. **Repeat:**Choose whether you'd like your event to repeat from the available options, or create your own custom repeat.![](https://support.optisigns.com/hc/article_attachments/28598178568211)
+	2. **Time:** This is the time of your event, click on it to edit the day and time.![](https://support.optisigns.com/hc/article_attachments/28598178564627)
+	3. **Repeat:** Choose whether you'd like your event to repeat from the available options, or create your own custom repeat.![](https://support.optisigns.com/hc/article_attachments/28598178568211)
 	4. **Power:** Choose from On, Off, HDMI-CEC On or Off, or RS-232 On or Off.
 		* **On:** Sends a signal to turn the screen **ON** during the designated hours. This will be through RS-232 first if available, then through HDMI-CEC. This is our ***recommended option.***
-		* **Off:**Sends a signal to turn the screen **OFF**during the designated hours. This will be through RS-232 first if available then through HDMI-CEC.
-		* **HDMI-CEC - On:**Sends a command to turn the screen **ON**using HDMI-CEC during the designated hours.
-		* **HDMI-CEC - Off:**Sends a command to turn the screen **OFF**using HDMI-CECduring the designated hours.
-		* **RS-232 - On:**Sends a command to turn the screen **ON**using RS-232 during the designated hours.
-		* **RS-232 - Off:**Sends a command to turn the screen **OFF** through RS-232 during the designated hours.
+		* **Off:** Sends a signal to turn the screen **OFF** during the designated hours. This will be through RS-232 first if available then through HDMI-CEC.
+		* **HDMI-CEC - On:** Sends a command to turn the screen **ON** using HDMI-CEC during the designated hours.
+		* **HDMI-CEC - Off:** Sends a command to turn the screen **OFF** using HDMI-CECduring the designated hours.
+		* **RS-232 - On:** Sends a command to turn the screen **ON** using RS-232 during the designated hours.
+		* **RS-232 - Off:** Sends a command to turn the screen **OFF** through RS-232 during the designated hours.
 		
 		
 		
@@ -115,17 +115,17 @@ On the side menu, you can customize your schedule with the following options:
 		| --- |
 		
 		![](https://support.optisigns.com/hc/article_attachments/28598178570771)
-	5. **Mute:**Choose if you'd like your screen to be mute or not if sound is available.
-	6. **Volume:**Adjust the volume of the screen.
+	5. **Mute:** Choose if you'd like your screen to be mute or not if sound is available.
+	6. **Volume:** Adjust the volume of the screen.
 	7. **Brightness:** Adjust the brightness of the screen, with 100% being your screen's current brightness.
 	8. **RS-232 Commands:** If you have already configured [**RS-232 commands**](https://support.optisigns.com/hc/en-us/articles/9061950942995-Using-RS-232-to-Schedule-TV-Power-On-Off-or-other-commands), you can select them from this dropdown.
-	9. **HDMI Lock:**If checked, the system will periodically check which HDMI input the TV is using. If it detects that the TV has been switched away from the OptiSigns HDMI-CEC input, it will automatically switch back. This check runs approximately once every hour.
+	9. **HDMI Lock:** If checked, the system will periodically check which HDMI input the TV is using. If it detects that the TV has been switched away from the OptiSigns HDMI-CEC input, it will automatically switch back. This check runs approximately once every hour.
 
-**3.**Make sure to **Save** your event at the bottom so that it will assign the event to the schedule. Then, click "**Apply**" to assign it to your screen.
+**3.** Make sure to **Save** your event at the bottom so that it will assign the event to the schedule. Then, click "**Apply**" to assign it to your screen.
 
 ![](https://support.optisigns.com/hc/article_attachments/28598178573587)
 
-**4.**Once applied, click **Save** to apply and activate all changes to your screens.
+**4.** Once applied, click **Save** to apply and activate all changes to your screens.
 
 ![](https://support.optisigns.com/hc/article_attachments/28598173087891)
 
@@ -135,7 +135,7 @@ With that, you've created your Operational Schedule. This schedule can be ***reu
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
 
- 
+ 
 
 
 

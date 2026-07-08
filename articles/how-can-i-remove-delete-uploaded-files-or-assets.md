@@ -6,7 +6,7 @@
 ![](https://support.optisigns.com/hc/article_attachments/16343811788819)
 
 
- 
+ 
 
 
 **Can I recover my deleted files? Does the app have a trash bin or recycle bin?**

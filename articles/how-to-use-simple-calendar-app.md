@@ -9,10 +9,10 @@ Below is an example:
 ## **Let's jump in and get started:**
 
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 
 Go to Files/Assets, Click on "App".
@@ -29,16 +29,16 @@ Click Simple Calendar app:
 
 
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360054404234)
- 
+ 
 Enter your Simple Calendar wall information:
- 
- ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360054570894)
+ 
+ ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360054570894)
 
 
 
-* Name: Name of your Simple Calendar Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
+* Name: Name of your Simple Calendar Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Text: Optional, if you want to put a message under the date.
-* Start week on: Choose to start the week on Sunday or Monday
+* Start week on: Choose to start the week on Sunday or Monday
 * Theme: Choose color theme from range of pre-built theme or customize your own with your own brand color
 
 
@@ -51,7 +51,7 @@ After Saving, you can Preview the wall. It may take several seconds for the app 
 
 
 You have created your Simple Calendar Wall.  
-You can change the wall any time by click on it in the Files/Assets tab. 
+You can change the wall any time by click on it in the Files/Assets tab. 
 
 
 You can assign the newly created wall to your screen by going to Screens, click Edit screens and assign the wall to screens that you want.
@@ -60,10 +60,10 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created walls in a Playlist, Schedule too.
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
 
 
 

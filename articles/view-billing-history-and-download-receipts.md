@@ -13,7 +13,7 @@ To Download Receipt, click on View Details of any paid invoices. In the pop up w
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360092339454)
 
 
- 
+ 
 
 
 

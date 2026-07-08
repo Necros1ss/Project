@@ -114,11 +114,11 @@ Please note that these ratios apply to any app, not just images and videos.
 
 #### **My documents (PowerPoint, PDFs) go through pages too fast! How can I fix this?**
 
-When selecting a document, there is an additional setting, called **Duration**:
+When selecting a document, there is an additional setting, called **Duration**:
 
 ![](https://support.optisigns.com/hc/article_attachments/45708705963667)
 
-This shows how long on your split screen your document will display. However, please note that this duration applies to ***the entire document**.*Meaning, if you have a slideshow with 10 slides, and set this duration for 10 seconds, each slide will only display for 1 second.
+This shows how long on your split screen your document will display. However, please note that this duration applies to ***the entire document**.* Meaning, if you have a slideshow with 10 slides, and set this duration for 10 seconds, each slide will only display for 1 second.
 
 If you want to display each slide for 10 seconds, you will need to set your duration to 100 seconds: 10 slides divided by 10 seconds per slide.
 

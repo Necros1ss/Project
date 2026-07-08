@@ -33,7 +33,7 @@ Click **Add New User**.
 When you add the user successfully, you can send the email notification for the user.
 
 
- 
+ 
 
 
 **2. Invite** (Invite User)
@@ -60,16 +60,16 @@ Your teammate will receive an invitation email looking like below:
 They can click on the link to finish the registration process and then can help you with managing your account.
 
 
- 
+ 
 
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
- 
+ 
 
 
 

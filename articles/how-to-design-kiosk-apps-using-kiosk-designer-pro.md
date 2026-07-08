@@ -53,13 +53,13 @@ Harness the power of OptiSigns Designer's Drag & Drop UI to create interactive k
 Log on to the OptiSigns portal: <http://app.optisigns.com/>
 
 
-Go to **Engage** tab → Click on **'New App'**
+Go to **Engage** tab → Click on **'New App'**
 
 
 ![](https://support.optisigns.com/hc/article_attachments/31373400777747)
 
 
-Select **'Touch Screen Kiosks'** **→**  **Select App**
+Select **'Touch Screen Kiosks'** **→** **Select App**
 
 
 ![](https://support.optisigns.com/hc/article_attachments/27030302640403)
@@ -71,7 +71,7 @@ Select **'Kiosk Designer Pro'** **→ Next →** **Build**
 ![](https://support.optisigns.com/hc/article_attachments/27030302684051)
 
 
- 
+ 
 
 
 You will be re-directed to the Designer app.
@@ -83,7 +83,7 @@ You will be re-directed to the Designer app.
 | --- |
 
 
-In Designer, you will see a new function in the top menu called **Link.** This will appear when clicking on any element.
+In Designer, you will see a new function in the top menu called **Link.** This will appear when clicking on any element.
 
 
 ![](https://support.optisigns.com/hc/article_attachments/42857781024531)
@@ -131,13 +131,13 @@ A new window will populate, allowing you to either:
 ### Option 1: Selecting a Direct URL
 
 
-If you are using a **direct URL**,  you will need to input a URL and then click **Add**.
+If you are using a **direct URL**, you will need to input a URL and then click **Add**.
 
 
 ![](https://support.optisigns.com/hc/article_attachments/27030302796179)
 
 
-Once you have added your direct URL, you will be redirected back to your template or design. 
+Once you have added your direct URL, you will be redirected back to your template or design. 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/42857781027091)
@@ -148,7 +148,7 @@ For a direct URL, here are the link options to choose from:
 
 
 * **Update Link:** Allows you to update your link to another direct URL or another asset
-* **Remove Link:**Lets you remove your link
+* **Remove Link:** Lets you remove your link
 * **Duration (seconds):** Sets the maximum duration of how long your asset will display on the screen before returning to the main page.
 * **Preload:** Defaults to checked. Preload the URL or asset in the background to allow for instant display. This improves user experience. However, if you have animation or dynamic content on your page, you may want to disable this.
 * **Close Icon:** Allows you to customize where you would like the Close icon to display on your asset.
@@ -187,16 +187,16 @@ If you want to set these options as your default for future use, see our "[How t
 ### Option 2: Selecting an Asset
 
 
-If you are using an **asset**,  you can either choose an asset from within your library, upload a file, create a new app, or choose a Feeds.
+If you are using an **asset**, you can either choose an asset from within your library, upload a file, create a new app, or choose a Feeds.
 
 
 ![](https://support.optisigns.com/hc/article_attachments/31373400781331)
 
 
- 
+ 
 
 
-Once you select your asset to be linked, you will be redirected back to your template or design. 
+Once you select your asset to be linked, you will be redirected back to your template or design. 
 
 
 For **assets**, you will have all the [**same link options**](#link) as explained in direct URL section, with the addition of **Scale**.
@@ -221,19 +221,19 @@ Click **Save**.
 You have successfully created your kiosk app using Kiosk Designer Pro, and it is now ready to be used.
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
 

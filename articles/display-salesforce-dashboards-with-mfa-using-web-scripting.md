@@ -41,10 +41,10 @@ Click "**I Can't Scan the QR Code**".
 ![Salesforce setting up authenticator app. Select 'I can't scan the QR code'](https://support.optisigns.com/hc/article_attachments/35528807336979)
 
 
- 
+ 
 
 
-**Copy and paste the alphanumeric string** displayed underneath "Key". **Save this key** somewhere secure, like the Notepad app. 
+**Copy and paste the alphanumeric string** displayed underneath "Key". **Save this key** somewhere secure, like the Notepad app. 
 
 
 * This is ***necessary*** for the web scripting process later.

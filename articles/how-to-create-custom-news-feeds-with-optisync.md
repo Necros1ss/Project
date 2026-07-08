@@ -81,7 +81,7 @@ Setting up this API gateway will consist of two parts:
 
 The first step in this process is obtaining the SiteID value for your SharePoint site. This is necessary to obtain the proper URL to make the API request.
 
-To do this, download [**Postman**](https://www.postman.com/)or another API platform. Then, send a GET request to the following URL:
+To do this, download [**Postman**](https://www.postman.com/)or another API platform. Then, send a GET request to the following URL:
 
 
 ```
@@ -93,7 +93,7 @@ When configured correctly, this API request should return a string of JSON simil
 
 ![](https://support.optisigns.com/hc/article_attachments/45228746837523)
 
-As you can see, under the "id" section there are two values. You want the string after the URL. That is your **SiteID**value. This will be critical for setting up your API gateway in the next step.
+As you can see, under the "id" section there are two values. You want the string after the URL. That is your **SiteID** value. This will be critical for setting up your API gateway in the next step.
 
 #### Retrieving Proper Authentication Tokens from Microsoft
 
@@ -107,7 +107,7 @@ Once that's done, you'll need:
 
 These are required for authentication. Any further authentication can be done in the Pre-Request stage to obtain access tokens. These authentication tokens will need to be kept refreshed: see [Microsoft's article on identity platform certificate credentials](https://learn.microsoft.com/en-us/entra/identity-platform/certificate-credentials) for more information.
 
-With these pieces of information, we can get started. Create a new DataSource Request (see our article on [How to Integrate API and Publish API Data via OptiSync](https://support.optisigns.com/hc/en-us/articles/22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync) on how to do this). Set up a **GET** request with the following URL. 
+With these pieces of information, we can get started. Create a new DataSource Request (see our article on [How to Integrate API and Publish API Data via OptiSync](https://support.optisigns.com/hc/en-us/articles/22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync) on how to do this). Set up a **GET** request with the following URL. 
 
 
 ```
@@ -247,7 +247,7 @@ By creating text and dragging data points to it, we can create a news feed like 
 
 This was created by finding data points from the API and dragging them into the desired text boxes. In this case, we only wish to display the "Title,” “Banner URL Image,” and "Description" so those values were dragged into a blank or existing text box.
 
-The value of a repeater is that it will copy the format of this one cell, then replace the data points with others from your API. It will pull as many data points as you have set up on your API. In this example, we’ve featured only one news story. The repeater will rotate through the rest, displaying only one at a time. If you want to display more, the number of repeated items and their formatting can be changed using these options under **Settings:**
+The value of a repeater is that it will copy the format of this one cell, then replace the data points with others from your API. It will pull as many data points as you have set up on your API. In this example, we’ve featured only one news story. The repeater will rotate through the rest, displaying only one at a time. If you want to display more, the number of repeated items and their formatting can be changed using these options under **Settings:** 
 
 ![firefox_9ieNkZ0FYJ.jpg](https://support.optisigns.com/hc/article_attachments/43089441903379)
 
@@ -307,9 +307,9 @@ There are dozens of possibilities using the OptiSync filter to show even more pr
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
 
- 
+ 
 
- 
+ 
 
 
 

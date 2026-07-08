@@ -2,7 +2,7 @@ With Pro Plus and Enterprise plans, you can configure SAML 2.0 with OptiSigns vi
 
 Assuming you already using Okta for identity management. If you have not used Okta, it is the leading identity management platform, you can learn more [here](https://www.okta.com/intro-to-okta/).
 
- 
+ 
 
 ### **Set up OptiSigns & Okta:**
 
@@ -33,7 +33,7 @@ The settings are:
 
 ![](https://support.optisigns.com/hc/article_attachments/28207766414227)
 
- 
+ 
 
 **Next, add OptiSigns as an App to your Okta account:**
 
@@ -72,7 +72,7 @@ Click Next.
 
 ![mceclip8.png](https://support.optisigns.com/hc/article_attachments/4404615741075)
 
- 
+ 
 
 Then click "View Setup Instruction"
 
@@ -84,7 +84,7 @@ Copy these 3 fields and paste into OptiSigns' SAML config page:
 
 ![okta-config.png](https://support.optisigns.com/hc/article_attachments/4404615786259)
 
- 
+ 
 
 Lastly, set the "Sign In Button label", this is the text of the button you want your users to see in their login portal. Use something descriptive like "Log in with Okta" "Sign in with SSO" or something your user is familiar with.
 
@@ -96,7 +96,7 @@ Now your login portal & integration are all setup.
 
 Next, you need to assign users, and groups that can use OptiSigns.
 
- 
+ 
 
 #### **Assign & map users, and groups from Okta to OptiSigns**
 
@@ -104,12 +104,12 @@ It's not required, but recommended to create groups of users to be assigned, and
 
 **IMPORTANT NOTE: If you don't configure this, all users will be assigned User Role & Default Team (screenshot see below)**
 
- 
+ 
 
 To configure how OptiSigns should map the user groups to OptiSigns Roles by going to: <https://app.optisigns.com/app/s/saml-settings>
 
 Scroll to Advanced Settings and create a mapping.  
-Group Name (group names in Okta), Role (role in OptiSigns) mapping.   
+Group Name (group names in Okta), Role (role in OptiSigns) mapping.   
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4404820186003)
 
 It's best practice to create a group name prefix with Optisigns- and map to OptiSigns like below:
@@ -128,7 +128,7 @@ This way they will receive an error when trying to log in and will have to reach
 
 Note that if you map a SAML group to a Team and then delete the team, it will result in new user being mapped to No Team and will have to contact you to be assigned to a team to use the app.
 
- 
+ 
 
 Next, go to your Okta Admin portal. Click Applications -> OptiSigns.
 
@@ -196,11 +196,11 @@ Now your users can log in using the subdomain that you configured (in this case 
 
 You can share the URL with your users and they can log in with their SSO credentials.
 
- 
+ 
 
 If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
- 
+ 
 
 
 

@@ -20,7 +20,7 @@ The feature can be set in the options of the playlist item.
 **![](https://support.optisigns.com/hc/article_attachments/20923670391827)**
 
 
-**How to Use "Apply To" to set the target screens.**
+**How to Use "Apply To" to set the target screens.** 
 
 
 You can control the target screens that the playlist item can be played on by using the "Apply To" setting.
@@ -38,16 +38,16 @@ You can control the target screens that the playlist item can be played on by us
 ![](https://support.optisigns.com/hc/article_attachments/20923823865491)
 
 
- 
+ 
 
 
-**How to Use "Item Schedule"**
+**How to Use "Item Schedule"** 
 
 
 You can control the schedule of each playlist item.
 
 
-Click on the "Item Schedule", then click on "+New". It will pop up the schedule configuration dialogue, you can set the schedule and also define custom occurrences. 
+Click on the "Item Schedule", then click on "+New". It will pop up the schedule configuration dialogue, you can set the schedule and also define custom occurrences. 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/20924017059347)
@@ -56,19 +56,19 @@ Click on the "Item Schedule", then click on "+New". It will pop up the schedule 
 ![](https://support.optisigns.com/hc/article_attachments/20923949164947)
 
 
- 
+ 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/20923983648915)
 
 
- 
+ 
 
 
 **That's all!**
 
 
- 
+ 
 
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

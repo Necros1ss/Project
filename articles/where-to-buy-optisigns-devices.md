@@ -2,7 +2,7 @@
 
 | **OptiStick** | **Pro Player** | **ProMax Player** |
 | --- | --- | --- |
-| **US:*** [Login and Order](https://app.optisigns.com/app/s/order-device) * [OptiSigns Store](https://shop.optisigns.com/products/optisigns-android-stick-player-2) | **US:*** [Amazon.com](https://www.amazon.com/dp/B0DXX7YS7M?maas=maas_adg_AC5AAF2ED77206D312A3371F03F33017_afap_abs&ref_=aa_maas&tag=maas) (recommended) * [Login and Order](https://app.optisigns.com/app/s/order-device/pro-player) * [OptiSigns Store](https://shop.optisigns.com/products/optisigns-digital-signage-player) | **US:*** [Login and Order](https://app.optisigns.com/app/s/order-device/promax-player) * [OptiSigns Store](https://shop.optisigns.com/products/optisigns-promax-signage-player) |
+| **US:** * [Login and Order](https://app.optisigns.com/app/s/order-device) * [OptiSigns Store](https://shop.optisigns.com/products/optisigns-android-stick-player-2) | **US:*** [Amazon.com](https://www.amazon.com/dp/B0DXX7YS7M?maas=maas_adg_AC5AAF2ED77206D312A3371F03F33017_afap_abs&ref_=aa_maas&tag=maas) (recommended) * [Login and Order](https://app.optisigns.com/app/s/order-device/pro-player) * [OptiSigns Store](https://shop.optisigns.com/products/optisigns-digital-signage-player) | **US:*** [Login and Order](https://app.optisigns.com/app/s/order-device/promax-player) * [OptiSigns Store](https://shop.optisigns.com/products/optisigns-promax-signage-player) |
 | **International:*** Amazon (recommended) 	+ [.de](https://links.optisigns.com/optistick-amazon-de) (DE and EU) 	+ [.fr](https://www.amazon.fr/dp/B0CWHJTG69?maas=maas_adg_31C9112BA17E5D8EAF887AC3EF6CEC1C_afap_abs&ref_=aa_maas&tag=maas) (France) 	+ [.es](https://www.amazon.es/dp/B0CWHJTG69?maas=maas_adg_05B143813AB898D5CF360CE53F9DB19F_afap_abs&ref_=aa_maas&tag=maas) (Spain) 	+ [.it](https://www.amazon.it/dp/B0CWHJTG69?maas=maas_adg_27145FBBE2421C5588AD35E167DB96B0_afap_abs&ref_=aa_maas&tag=maas) (Italy) 	+ [.co.uk](https://links.optisigns.com/optistick-amazon-uk) (UK) 	+ [.ca](https://links.optisigns.com/optistick-amazon-ca) (Canada) 	+ [.mx](https://links.optisigns.com/optistick-amazon-mx) (Mexico) 	+ [.au](https://links.optisigns.com/optistick-amazon-au) (Australia) 	+ [rest of world](https://links.optisigns.com/optistick-amazon-us) * [Login and Order](https://app.optisigns.com/app/s/order-device) | **International:*** Amazon (recommended) 	+ [.uk](https://www.amazon.co.uk/dp/B0DXX7YS7M?maas=maas_adg_3BA4F357D64A6BF2706BE46E2A117183_afap_abs&tag=maas) (UK) 	+ [rest of world](https://www.amazon.com/dp/B0DXX7YS7M?maas=maas_adg_AC5AAF2ED77206D312A3371F03F33017_afap_abs&ref_=aa_maas&tag=maas) * [Login and Order](https://app.optisigns.com/app/s/order-device/pro-player) | **International:*** Amazon (recommended) 	+ [.uk](https://www.amazon.co.uk/dp/B0GC1KZQZ2?maas=maas_adg_784B6EB7DBFD8E183367343341D7F74C_afap_abs&tag=maas) (UK) * [Login and Order](https://app.optisigns.com/app/s/order-device/promax-player) |
 
 
@@ -26,7 +26,7 @@ We recommend the OptiSigns Android Player for most use cases, as it is easy and 
 	+ [Log in & order from your account.](https://app.optisigns.com/app/s/order-device)
 	+ 3-5 days shipping. Only available in the U.S.
 
-Learn more about ordering a preconfigured device [**here**](https://support.optisigns.com/hc/en-us/articles/31960461758611). 
+Learn more about ordering a preconfigured device [**here**](https://support.optisigns.com/hc/en-us/articles/31960461758611). 
 
 **Non-US Customers:**
 
@@ -44,7 +44,7 @@ For your convenience, OptiStick is also available from Amazon Stores.
 
 Here's a list of countries and recommended places to buy. Please note: Shipping cost & time is for reference only, and usually accurate if you are in major cities. During checkout you will get actual shipping cost.
 
- 
+ 
 
 
 
@@ -74,7 +74,7 @@ Here's a list of countries and recommended places to buy. Please note: Shipping 
 | Rest of World | amazon.com[order here](https://links.optisigns.com/optistick-amazon-us) | 1-3 weeks varied by locations | $11.70 - $30.00  varied by locations | Collected by Amazon | Collected by Amazon |
 
 
- 
+ 
 
 **If purchasing from Amazon, you can expect:**
 
@@ -126,7 +126,7 @@ The OptiSigns ProMax Player has all the capabilities of a Pro Player, but also a
 
 * [Log in & order from your account](https://app.optisigns.com/app/s/order-device/promax-player) - An additional $30 shipping fee will be levied, in addition to any relevant customs and tariff fees.
 
- 
+ 
 
 
 

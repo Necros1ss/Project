@@ -67,7 +67,7 @@ Updating assets is as simple as running the same Mutation while providing an \_i
 ```
 {  
   "payload": {  
-    "_id": "",  
+    "_id": "",  
     "originalFileName": "",  
     "webLink": "",  
     "webType": "",  

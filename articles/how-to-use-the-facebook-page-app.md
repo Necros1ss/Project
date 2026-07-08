@@ -34,22 +34,22 @@ Select **Facebook**:
 
 ![](https://support.optisigns.com/hc/article_attachments/48749293297299)
 
-Login to Facebook. If this is the first time registering it with OptiSigns, you will need to hit **Connect Facebook Pages** then log in. ![](https://support.optisigns.com/hc/article_attachments/48749277917715)
+Login to Facebook. If this is the first time registering it with OptiSigns, you will need to hit **Connect Facebook Pages** then log in. ![](https://support.optisigns.com/hc/article_attachments/48749277917715)
 
 
- 
+ 
 The Facebook App allows you to register numerous Facebook accounts. If you have already registered your account, you can choose it with the **Select** option.
- 
+ 
 After logging on with Facebook in the Facebook popup window, select the Pages you want OptiSigns to access data to create your Wall.
- ![mceclip5.png](https://support.optisigns.com/hc/article_attachments/48749277921427)
+ ![mceclip5.png](https://support.optisigns.com/hc/article_attachments/48749277921427)
 
 Click **Next**, then Click **Done**.
- 
+ 
 Whether you connect a new Facebook page or choose it from an existing on, you'll see the below screen:
 ![](https://support.optisigns.com/hc/article_attachments/48749277928595)
 
-After that, you can enter information for your wall.* **Name**: Name of your Facebook Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
-* **Page**: Page you want to use (if you have more than 1). 
+After that, you can enter information for your wall.* **Name**: Name of your Facebook Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
+* **Page**: Page you want to use (if you have more than 1). 
 
 
 
@@ -63,12 +63,12 @@ After that, you can enter information for your wall.* **Name**: Name of your Fac
 
 
 ![](https://support.optisigns.com/hc/article_attachments/48749277931283)
-* **Font Size**: Set the font size. Default is 20, but this can be set to **Custom** and changed to whatever you wish.
+* **Font Size**: Set the font size. Default is 20, but this can be set to **Custom** and changed to whatever you wish.
 * **Landscape / Portrait:** Choose the orientation for the Preview.
 
 ### Advanced
 
-Click the **Advanced** option to 
+Click the **Advanced** option to 
 
 ![](https://support.optisigns.com/hc/article_attachments/48749277935763)
 
@@ -88,7 +88,7 @@ This screen allows you to determine which posts will appear on your app - you ca
 
 ![](https://support.optisigns.com/hc/article_attachments/48749293325203)
 
-Click Save to the QR code and the Facebook app page. Finally, hit **Save**. You've created a Facebook asset.
+Click Save to the QR code and the Facebook app page. Finally, hit **Save**. You've created a Facebook asset.
 
 ---
 
@@ -112,13 +112,13 @@ Then, select your created Facebook Asset:
 
 Now hit **Save**. Your Facebook asset will now display on screen.
 
-You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) 
+You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) 
 
 In order to display multiple Facebook pages, you can create individual page assets, then place them in a [Playlist](https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists). The asset or playlist can also be placed in a [Schedule](https://support.optisigns.com/hc/en-us/articles/360016981853-Creating-and-Using-Schedules-with-OptiSigns).
 
 ### That's all!
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

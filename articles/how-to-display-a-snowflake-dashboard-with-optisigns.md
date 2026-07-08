@@ -77,7 +77,7 @@ Then, select your created Snowflake Asset:
 
 ![](https://support.optisigns.com/hc/article_attachments/53027988866707)
 
-Now hit **Save**. Your Snowflake asset will now display on screen. 
+Now hit **Save**. Your Snowflake asset will now display on screen. 
 
 You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) It can also be displayed in a Playlist or Schedule.
 

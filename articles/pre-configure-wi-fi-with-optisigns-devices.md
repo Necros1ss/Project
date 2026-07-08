@@ -2,7 +2,7 @@ When ordering [OptiSticks via the OptiSigns portal](https://app.optisigns.com/ap
 
 This is very useful and will save you time in deployment. You can also provide a name for the device here, which will help you figure out which device goes where.
 
-To set up Wi-Fi, click the **Want to enter Wi-Fi info?** button on the OptiSigns configuration page - step 2 of checkout: 
+To set up Wi-Fi, click the **Want to enter Wi-Fi info?** button on the OptiSigns configuration page - step 2 of checkout: 
 
 ![](https://support.optisigns.com/hc/article_attachments/52514608817555) Clicking the button will open up a menu where you can enter the information.
 

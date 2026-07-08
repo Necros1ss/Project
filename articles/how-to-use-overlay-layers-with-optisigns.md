@@ -29,19 +29,19 @@ Tips: use a transparent PNG image if you want to have transparent background.
 Note: Transparent PNG background currently only work for Windows, Linux, Mac, Raspberry Pi. On Android & FireTV it will show as black background.
 
 
- 
+ 
 
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
 

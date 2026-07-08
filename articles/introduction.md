@@ -31,7 +31,7 @@ New fields and types can be added to GraphQL API without impacting existing quer
 ### OptiSigns API endpoint
 
 
-The GraphQL API can be accessed using the endpoint. 
+The GraphQL API can be accessed using the endpoint. 
 
 
 [https://graphql-gateway.optisigns.com](https://graphql-gateway.optisigns.com/)
@@ -44,7 +44,7 @@ We also offer a web-based GraphQL IDE to access our API.
  **Next Article - [Generate and Manage API Key](https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-OptiSigns-API-Key)**
 
 
- 
+ 
 
 
 

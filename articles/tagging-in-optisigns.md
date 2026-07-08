@@ -50,7 +50,7 @@ To tag your screens, select the screens, then hit **Edit**.
 ![](https://support.optisigns.com/hc/article_attachments/38062664586387)
 
 
-This will bring up the **Edit Group of Screens** tab. 
+This will bring up the **Edit Group of Screens** tab. 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/38062664590355)
@@ -105,7 +105,7 @@ With Tag Rules, it's possible to set a network of Tags for an Asset to display o
 For example, let's say you want an advertisement to play only in customer-facing screens, but only in certain locations. You can combine these screens into a single Tag Rule, then push content to only those screens.
 
 
-To do this, select the **Target**to say **Tag Rules**on the Push to Screens tab:
+To do this, select the **Target** to say **Tag Rules** on the Push to Screens tab:
 
 
 ![firefox_Cnp46Hnyhc.jpg](https://support.optisigns.com/hc/article_attachments/39406606002195)
@@ -123,7 +123,7 @@ This will bring up the Screen Tag Rule screen:
 ![rpA5cqMfxw.jpg](https://support.optisigns.com/hc/article_attachments/39406606004371)
 
 
-Here, you have the ability to **Include**or **Exclude**certain tags using and/or logic commands. You can add **Rules**or **Rulesets**to make these as elaborate as you like:
+Here, you have the ability to **Include** or **Exclude** certain tags using and/or logic commands. You can add **Rules** or **Rulesets** to make these as elaborate as you like:
 
 
 ![firefox_XiHCAOKT8K.jpg](https://support.optisigns.com/hc/article_attachments/39406606006547)

@@ -1,4 +1,4 @@
- 
+ 
 
 
 This article will guide you through how to assign security for users to only edit certain zones of the screens.  
@@ -8,7 +8,7 @@ Use Case: a Company with 2 departments, Department A and Department B, each will
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360102952113)
 
 
- 
+ 
 
 
 To do this we will need to:
@@ -77,7 +77,7 @@ For the Department B Playlist folder in Playlist: You can edit the "Change Permi
 ![mceclip19.png](https://support.optisigns.com/hc/article_attachments/1500001932781)
 
 
-Now we have:   
+Now we have:   
 Admin can see:
 
 
@@ -100,7 +100,7 @@ DepartmentB User can see the
 * Department B Playlist Folder in the Playlist
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
 
 
 

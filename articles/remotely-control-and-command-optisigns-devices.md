@@ -39,7 +39,7 @@ OptiSigns Players ([**OptiStick**](https://shop.optisigns.com/products/optisigns
 
 | **NOTE** |
 | --- |
-| The OptiSigns Android Stick is capable of receiving **individual commands**. However, in order to send commands to **multiple devices simultaneously**, you will need an OptiSigns Pro or ProMax player. |
+| The OptiSigns Android Stick is capable of receiving **individual commands**. However, in order to send commands to **multiple devices simultaneously**, you will need an OptiSigns Pro or ProMax player. |
 
 
 
@@ -86,7 +86,7 @@ Under the **Advanced** tab, you’ll find a set of green buttons like the ones b
 
 | **NOTE** |
 | --- |
-| The MDM buttons ***will not appear***on non-OptiSigns devices or screens. |
+| The MDM buttons ***will not appear*** on non-OptiSigns devices or screens. |
 
 
 
@@ -358,7 +358,7 @@ After a command is executed, it will appear in section 3: the command history.
 
 | **NOTE** |
 | --- |
-| The **Refresh & Relaunch**command can be used on any device. The **Reboot Device**command cannot be used on certain Android devices. |
+| The **Refresh & Relaunch** command can be used on any device. The **Reboot Device** command cannot be used on certain Android devices. |
 
 
 

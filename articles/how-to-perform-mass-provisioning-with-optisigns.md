@@ -72,7 +72,7 @@ Create a new provisioning template by clicking the **Create templates** button.
 ![create templates button with arrow pointing at it in optisigns app](https://support.optisigns.com/hc/article_attachments/34385123847827)
 
 
- If you want to auto-step up WiFi at provisioning, you will need to create a stored WiFi first. These steps are covered later.
+ If you want to auto-step up WiFi at provisioning, you will need to create a stored WiFi first. These steps are covered later.
 
 
 For now, set up the template in this popup:
@@ -103,25 +103,25 @@ If you want to set up WiFi at the same time as provisioning, click the **Manage 
 
 In the popup, click "Add New WiFi", then enter the WiFi SSID and password. The WiFi will be stored and available to use in the provisioning template.
 ![manage stored wifi screen with arrow pointing at add new wifi button](https://support.optisigns.com/hc/article_attachments/4416570772627)
- 
+ 
 
 
 ### Step 2: Generate Device List (Optional)
 
 
 If you want the device name preassigned for each device, follow this step. Otherwise, proceed to the Deployment section below.
-To preassign the device name, choose **Preconfigure Devices** feature on the **Screens**tab to create a device list with a pairing code:
+To preassign the device name, choose **Preconfigure Devices** feature on the **Screens** tab to create a device list with a pairing code:
 ![screens tab with arrows showing how to get to preconfigure devices option](https://support.optisigns.com/hc/article_attachments/4416556453779)
 
 In the popup, specify how many screens you want to preconfigure.
 ![preconfigure devices options screen 1](https://support.optisigns.com/hc/article_attachments/4416556459923)
-Enter a prefix  to give to your device and assign some initial content to display onscreen. The device name will be generated based on the prefix with a sequence number added. This name can be changed later before deployment.
+Enter a prefix to give to your device and assign some initial content to display onscreen. The device name will be generated based on the prefix with a sequence number added. This name can be changed later before deployment.
 ![preconfigure devices options screen 2](https://support.optisigns.com/hc/article_attachments/4416556506003)
-Once done, the page will list all the devices preconfigured with the pairing code. Click **Done**.  This generates a CSV file named "preconfigure-devices.csv". Download it to your computer. 
+Once done, the page will list all the devices preconfigured with the pairing code. Click **Done**. This generates a CSV file named "preconfigure-devices.csv". Download it to your computer. 
 ![preconfigure devices screen with two screens added](https://support.optisigns.com/hc/article_attachments/4416556695571)
 Open the CSV file. It will contain the list of the preconfigured devices and their corresponding pairing code. To change the device name, simply update the CSV file. Then the file can be used in deployment if you want to have your screens using the exact pre-assigned name.
 ![preconfigure devices downloaded csv file](https://support.optisigns.com/hc/article_attachments/4416571675923)
- 
+ 
 
 
 
@@ -168,7 +168,7 @@ Deployment on an Apple TV or a ChromeOS device has to be done through their resp
 For more, see our articles on [configuring OptiSigns mass deployment on Apple devices](https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices) and [how to use OptiSigns Auto Provisioning Template on ChromeOS.](https://support.optisigns.com/hc/en-us/articles/17353256033811-How-to-use-OptiSigns-Auto-Provisioning-Template-on-ChromeOS)
 
 
- 
+ 
 
 ### **That's all!**
 
@@ -180,7 +180,7 @@ If you have any additional questions, concerns, or any feedback about OptiSigns,
 
 
 
- 
+ 
 
 
 

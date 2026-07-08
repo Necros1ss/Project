@@ -1,22 +1,22 @@
 This app is similar to [Microsoft Calendar app](https://support.optisigns.com/hc/en-us/articles/360036250853) or [Google Calendar app](https://support.optisigns.com/hc/en-us/articles/360019517953), but it gives you option to mix multiple calendars into 1 app, you can even mix multiple Google Calendar together with multiple Microsoft Calendar.
 
 
- 
+ 
 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4408420138515)
 
 
- 
+ 
 
 
 ## **Let's jump in and get started:**
 
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 
 Go to Files/Assets, Click on "App" and add "Calendar Mix"
@@ -57,9 +57,9 @@ Go to Files/Assets, Click on "App" and add "Calendar Mix"
 * Photo: Toggle this if you would like to display a photo with your Calendar. It will also activate a clock and current date to display as well.
 * Text Color: text color of the display
 * Font Size: font size of the display
-* Start of week: (only available if you select Week as Display Mode) Enables you to choose either Monday or Sunday as start of week.
+* Start of week: (only available if you select Week as Display Mode) Enables you to choose either Monday or Sunday as start of week.
 * 24 Hours Format: format time in 24h
-* Auto Scroll: By default, the calendar will focus the display of events on current local time or your set time zone time. This can be less helpful if you anticipate viewers to be able to see all event activities of your calendar.   
+* Auto Scroll: By default, the calendar will focus the display of events on current local time or your set time zone time. This can be less helpful if you anticipate viewers to be able to see all event activities of your calendar.   
 Toggle the auto scroll pans the schedule so that all times are viewable.
 * Time Zone: select to use Device's time zone or your specified time zone.
 * Theme: Light and Dark Themes are available as options.
@@ -75,13 +75,13 @@ The app will also auto-adjust the format to a screen in portrait orientation (ro
 ![mceclip4.png](https://support.optisigns.com/hc/article_attachments/4408424940051)
 
 
- 
+ 
 
 
 You then can assign this newly created asset to your screens to display, or you can also use it in playlists, schedules, etc. like any other assets. If you need more information on how to set up & assign content to your screens [click here](https://support.optisigns.com/hc/en-us/articles/360016174554-How-to-set-up-Digital-Signs-with-OptiSigns-and-Amazon-Fire-TV).
 
 
- If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+ If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
 
 
 ---

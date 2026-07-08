@@ -14,7 +14,7 @@ In this guide, we will walk you through that how to use the Taggbox Display app 
 ## **Let's jump in and get started:**
 
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 
 Got to [Taggbox.com](https://taggbox.com/) on your browser, open **My Walls**,  
@@ -24,7 +24,7 @@ Copy the **Display Link** from your wall.
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/1500014464321)
 
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 
 Go to Files/Assets, Click on "App", Click "Taggbox Display"
@@ -61,10 +61,10 @@ You can assign the newly created Taggbox Display asset to your screen by going t
 You can put the Taggbox Display wall to a Playlist, Schedule too.
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

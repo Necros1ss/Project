@@ -22,7 +22,7 @@ So, let's dive in!
 OptiSigns supports Windows 7, 8, 10. 32bit and 64bit.
 
 
-To install our Windows-compatible app, click **[here](https://links.optisigns.com/win).**  
+To install our Windows-compatible app, click **[here](https://links.optisigns.com/win).**   
 Once downloaded. **Right-click** and select "**Run as Administrator**"
 
 
@@ -58,7 +58,7 @@ Once logged in. click the "**Add screen**" button.
 
 
 
- ![5.png](https://support.optisigns.com/hc/article_attachments/360086179653)
+ ![5.png](https://support.optisigns.com/hc/article_attachments/360086179653)
 
 
 In the pop-up window, type in the **Pair Code** showing up on the OptiSigns App. Then, click **Pair**.
@@ -88,7 +88,7 @@ Once you go to our portal at: <https://app.optisigns.com/>to pair the screen and
 * [Create and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
 
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

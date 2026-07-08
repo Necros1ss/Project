@@ -4,7 +4,7 @@ You can set up Google Docs with OptiSigns so that whenever changes are made on G
 In this guide, we will walk you through the end-to-end process to use Google Docs in OptiSigns.
 
 
- 
+ 
 
 
 
@@ -35,7 +35,7 @@ There are two options to enter your Google Docs.
 * Sign in with Google, and select your Google Docs.
 
 
- 
+ 
 
 
 
@@ -73,7 +73,7 @@ Click **Publish** -> **OK** and you will get a link. Copy that published link.
 * URL: This is the Google Docs link that you got from Publish to the Web in your Google Docs.
 
 
- 
+ 
 
 
 
@@ -103,7 +103,7 @@ Click **Publish** -> **OK** and you will get a link. Copy that published link.
 
 
 Click Save.  
-After Saving, you can Preview it. 
+After Saving, you can Preview it. 
 
 ### **That's all! Congratulations!**
 
@@ -124,7 +124,7 @@ You can put the created Google Docs in a Playlist, Schedule too.
 | Make sure your asset file size **does not exceed 10MB**. If it does, it will only display a black screen. |
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

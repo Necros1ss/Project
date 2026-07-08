@@ -16,17 +16,17 @@ In this guide, we will walk you through that how to use the MustHaveMenus app wi
 ## **Let's jump in and get started:**
 
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 
 Got to [musthavemenus.com](https://www.musthavemenus.com/) on your browser, open your design, and click the **Share** button,  
-Click the **Share Link**, and **Copy**from your menu design.
+Click the **Share Link**, and **Copy** from your menu design.
 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/12454063939987)
 
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 
 Go to Files/Assets, Click on "App", Click "MustHaveMenus"
@@ -65,7 +65,7 @@ You can assign the newly created MustHaveMenus asset to your screen by going to 
 You can put the MustHaveMenus wall to a Playlist, Schedule too.
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

@@ -6,7 +6,7 @@
 
 It's possible to customize the OptiSigns Portal experience to match your brand. It's also possible to hide OptiSigns branding apps and features.
 
-The Branding feature is available to OptiSigns **Pro Plus**plan subscribers or higher.
+The Branding feature is available to OptiSigns **Pro Plus** plan subscribers or higher.
 
 To use it, navigate to the [**Branding Page**](https://app.optisigns.com/app/s/branding-settings) in your Account Settings:
 
@@ -154,7 +154,7 @@ Allows you to customize the color of the portal. Just hit the Color Theme button
 
 ![](https://support.optisigns.com/hc/article_attachments/38892952115091)
 
- 
+ 
 
 **Show/Hide Apps**
 

@@ -21,7 +21,7 @@ The item duration is the duration for the document (i.e. 200s and the doc has 10
 ![](https://support.optisigns.com/attachments/token/NElNaFXL3qBlZyWjNkmmmRdd2/?name=inline-1360819140.png)​
 
 
- 
+ 
 
 
 ### If you are using it in a schedule and assign the PDF as a scheduled asset:

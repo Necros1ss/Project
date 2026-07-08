@@ -1,7 +1,7 @@
- 
+ 
 
 
-When there are a lot of assets and playlists to manage, especially the assets are included in many playlists and you need to replace the asset, it may be difficult to find all the playlists and get the asset replaced.  Knowing in which playlist the asset is used is very helpful in this situation. And this is possible with OptiSigns.
+When there are a lot of assets and playlists to manage, especially the assets are included in many playlists and you need to replace the asset, it may be difficult to find all the playlists and get the asset replaced. Knowing in which playlist the asset is used is very helpful in this situation. And this is possible with OptiSigns.
 
 
 **To get the list of playlists where the asset is used.**
@@ -16,7 +16,7 @@ When there are a lot of assets and playlists to manage, especially the assets ar
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4472010859923)
 
 
- 
+ 
 
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4471903549971)
@@ -25,7 +25,7 @@ When there are a lot of assets and playlists to manage, especially the assets ar
 You can see all the playlists in the popup window, and the playlist name is clickable, it will redirect you to the playlist editor of the chosen playlist. You can manage the playlist content there.
 
 
- 
+ 
 
 
 ### **That's all!**
@@ -34,7 +34,7 @@ You can see all the playlists in the popup window, and the playlist name is clic
 This is how you can get the list of playlists where the asset is used.
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

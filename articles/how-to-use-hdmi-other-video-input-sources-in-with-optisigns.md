@@ -8,14 +8,14 @@ It can be useful to split up your screens with part of Live TV, HDMI in, and par
 
 
 * An OptiSigns **[Standard plan or higher](https://www.optisigns.com/pricing).**
-	+ **NOTE:** Running the Live TV app only requires a Standard plan, but running the Live TV with Ads app requires an **Engage** **plan or higher**.
+	+ **NOTE:** Running the Live TV app only requires a Standard plan, but running the Live TV with Ads app requires an **Engage** **plan or higher**.
 * **Video source**. This is most commonly a TV set-top box, but could be anything from a video game console to a streaming device.
 * **USB video capture card**. This transforms the video into a usable format for the OptiSigns Live TV app.
-* Device running OptiSigns. Currently, we only support **Windows PCs** (with an Intel i5 CPU at minimum) and **[OptiSigns Pro](https://shop.optisigns.com/products/optisigns-digital-signage-player) or [ProMax players](https://shop.optisigns.com/products/optisigns-promax-signage-player)**. Ensure you are running the latest version of the OptiSigns app.
+* Device running OptiSigns. Currently, we only support **Windows PCs** (with an Intel i5 CPU at minimum) and **[OptiSigns Pro](https://shop.optisigns.com/products/optisigns-digital-signage-player) or [ProMax players](https://shop.optisigns.com/products/optisigns-promax-signage-player)**. Ensure you are running the latest version of the OptiSigns app.
 * A **screen** to display it on.
 
 
-You'll connect it up in this fashion: **Video Source → USB Capture Card → Player / PC → Screen**.
+You'll connect it up in this fashion: **Video Source → USB Capture Card → Player / PC → Screen**.
 
 
 ### **Let's jump in and get started:**
@@ -67,10 +67,10 @@ And select the correct input source.
 ![mceclip6.png](https://support.optisigns.com/hc/article_attachments/1500001962902)
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
 
 
- 
+ 
 
 
 

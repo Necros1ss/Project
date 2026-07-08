@@ -4,10 +4,10 @@ You can order the OptiSigns Android Sticks with pre-configuration. When ordering
 Your device's name will be printed on the shipping package for each device. This can be useful for the person who receives it to know where to put the player. i.e. Lobby or Conf. Room 123
 
 
- 
+ 
 
 
- 
+ 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/33539620577171)

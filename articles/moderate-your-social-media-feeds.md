@@ -31,7 +31,7 @@ And click ![mceclip3.png](https://support.optisigns.com/hc/article_attachments/4
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/4403015839379)
 
 
- 
+ 
 
 
 That's it, you have learned how to moderate your social media feed on your digital signage screens.
@@ -40,10 +40,10 @@ That's it, you have learned how to moderate your social media feed on your digit
 If you have any questions or suggestions, please feel free to contact us at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
- 
+ 
 
 
 

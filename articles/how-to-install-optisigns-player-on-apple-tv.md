@@ -8,7 +8,7 @@ Before we get going, a few limitations you should take note.
 * More than 3-4 zones with heavy websites (like PowerBI dashboard) may result in crashing or freezing.
 
 
-If you need more features, please consider our **[Pre-Configured Android Stick](https://shop.optisigns.com/products/optisigns-android-stick-player-2)**[.](https://support.optisigns.com/hc/en-us/articles/360016174554)
+If you need more features, please consider our **[Pre-Configured Android Stick](https://shop.optisigns.com/products/optisigns-android-stick-player-2)**[.](https://support.optisigns.com/hc/en-us/articles/360016174554)
 
 
 
@@ -52,7 +52,7 @@ It will show the pairing code on your screen.
 ![mceclip5.png](https://support.optisigns.com/hc/article_attachments/6673945834003)
 
 
-You now can go to our portal at: <https://app.optisigns.com/> to pair the screen.
+You now can go to our portal at: <https://app.optisigns.com/> to pair the screen.
 
 
 ![4.png](https://support.optisigns.com/hc/article_attachments/24124146067731)
@@ -90,7 +90,7 @@ Once you go to our portal at: <https://app.optisigns.com/>to pair the screen and
 * [Create and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
 
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

@@ -1,13 +1,13 @@
-With OptiSigns you can enable track of the data communication between the digital signage player and external devices through external communication (RS232). The feature is available for customers on Enterprise plan. 
+With OptiSigns you can enable track of the data communication between the digital signage player and external devices through external communication (RS232). The feature is available for customers on Enterprise plan. 
 
 
-Once it is enabled, it will keep tracking of the inbound/outbound event data that was sent between the digital signage player and external devices. For example, if you are using IoT sensors, the feature can track the serial command that was sent from your sensors, and you can analyze the data to monitor and further optimize your IoT sensors usage. Or you can track the RS232 commands(power on/off, mute/unmute etc) that was sent to your TVs and use it as a proof of your compliance. 
+Once it is enabled, it will keep tracking of the inbound/outbound event data that was sent between the digital signage player and external devices. For example, if you are using IoT sensors, the feature can track the serial command that was sent from your sensors, and you can analyze the data to monitor and further optimize your IoT sensors usage. Or you can track the RS232 commands(power on/off, mute/unmute etc) that was sent to your TVs and use it as a proof of your compliance. 
 
 
 ### **Prerequisite:**
 
 
-To use this feature, you will need to confirm in advance that the connection between your digital signage player and external devices are working properly. 
+To use this feature, you will need to confirm in advance that the connection between your digital signage player and external devices are working properly. 
 
 
 The external communication(RS-232) should be configured and tested. Depending on your use case, you can follow below listed documents.
@@ -58,10 +58,10 @@ If for some reason, you don't want real-time data (i.e. to reduce network usage 
 **2. Enable data collection on IoT sensors add-on**
 
 
-If you are using IoT sensors, you can set it up to collect the event data within the IoT Sensor Add-on. Simply tick the "Send Data" checkbox, it will start to track the event data.  **![](https://support.optisigns.com/hc/article_attachments/17351908243987)**
+If you are using IoT sensors, you can set it up to collect the event data within the IoT Sensor Add-on. Simply tick the "Send Data" checkbox, it will start to track the event data.  **![](https://support.optisigns.com/hc/article_attachments/17351908243987)**
 
 
- 
+ 
 
 
 **3. Data collection with advanced scheduling**
@@ -70,7 +70,7 @@ If you are using IoT sensors, you can set it up to collect the event data within
 If you are using advanced scheduling to control you TV or other devices supporting RS232, the event data collection is enabled by default if you choose the "RS232 Commands" type. You can configure and send multiple commands together, the commands will be sent to the target device one after anther with small latency. If the target devices are responding with confirmation, the response will be logged as well.
 
 
-Please note, if you are sending multiple commands together, please check the target device specification, the target device may take longer time to execute the commands, in the case, please send the command separately on its own, otherwise the following commands may not be executed and you will not see response from the logging. 
+Please note, if you are sending multiple commands together, please check the target device specification, the target device may take longer time to execute the commands, in the case, please send the command separately on its own, otherwise the following commands may not be executed and you will not see response from the logging. 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/17352284082323)
@@ -100,31 +100,31 @@ You can also go to the report history tab and download the historical data expor
 ![](https://support.optisigns.com/hc/article_attachments/17345817445779)
 
 
- 
+ 
 
 
 ## **Summary:**
 
 
-The RS-232 logging and analytics will collect the event data and make it available to customers. The data is available in JSON format, you can automate the data export and build your own data pipeline to process the data for further analysis. 
+The RS-232 logging and analytics will collect the event data and make it available to customers. The data is available in JSON format, you can automate the data export and build your own data pipeline to process the data for further analysis. 
 
 
- 
+ 
 
 
 **That's all!**
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
- 
+ 
 
 
 

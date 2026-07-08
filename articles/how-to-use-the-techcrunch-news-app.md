@@ -11,7 +11,7 @@ The OptiSigns TechCrunch app allows you to display TechCrunch News on your digit
 QR Codes are displayed, which a viewer can scan with their phone to read the relevant article. TechCrunch News can also be displayed as [Scrolling Strip.](https://support.optisigns.com/hc/en-us/articles/360026559613)
 
 
-Below is an example screenshot of how it look on your screens, you can view a live example [here](https://social-player.optisigns.com/techcrunch/?asset_id=md9JJe4Abuidwem2x):
+Below is an example screenshot of how it look on your screens, you can view a live example [here](https://social-player.optisigns.com/techcrunch/?asset_id=md9JJe4Abuidwem2x):
 
 
 ![](https://support.optisigns.com/hc/article_attachments/45516216033171)
@@ -49,7 +49,7 @@ First, you will need to have your screens set up and paired. For more informatio
 Then log on to our portal: <http://app.optisigns.com/>
 
 
-Go to **Files/Assets**, Click on "App" and add **TechCrunch** on your Account.
+Go to **Files/Assets**, Click on "App" and add **TechCrunch** on your Account.
 
 
 
@@ -57,7 +57,7 @@ Go to **Files/Assets**, Click on "App" and add **TechCrunch** on your Account.
 ![](https://support.optisigns.com/hc/article_attachments/45516237886867)
 
 
- 
+ 
 
 
 Click **TechCrunch**:
@@ -93,14 +93,14 @@ Enter your TechCrunch Wall App information:
 * Font Size: Set the font size for the TechCrunch Wall app.
 
 
-Clicking **Advanced**opens up additional options:
+Clicking **Advanced** opens up additional options:
 
 
 ![](https://support.optisigns.com/hc/article_attachments/45516237900179)
 
 
 * Date Format: Choose from a set of pre-formatted dates, or select a custom date format:  
- 
+ 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/45516216052627)
@@ -114,7 +114,7 @@ Clicking **Advanced**opens up additional options:
   
 After you've configured the TechCrunch News app to your liking, hit **Save**. Your TechCrunch app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.  
   
- 
+ 
 ## **That's all!**
 
 

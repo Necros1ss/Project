@@ -14,7 +14,7 @@
 
 
 
-| **NOTE:** This feature is available to **Pro Plus**, **Engage**, and **Enterprise** plan users. |
+| **NOTE:**  This feature is available to **Pro Plus**, **Engage**, and **Enterprise** plan users. |
 | --- |
 
 SAML (Security Assertion Markup Language) 2.0 allows a single authorization to access multiple systems. This can be configured to allow easy access to OptiSigns digital signage through your Microsoft Entra ID. Entra ID will act as the IDP (Identity Provider), with OptiSigns will work as the SP (Service Provider).
@@ -245,7 +245,7 @@ Finally, go to the **Users and groups** section within Azure and assign your gro
 
 It’s often convenient to have the OptiSigns app appear as a clickable option on your company’s Office.com portal.
 
-To set this up, you'll first need to find your OptiSigns Account ID. To do this, simply find a paired screen, and hit **Edit** **→** **Advanced** **→** **More**.
+To set this up, you'll first need to find your OptiSigns Account ID. To do this, simply find a paired screen, and hit **Edit** **→** **Advanced** **→** **More**.
 
 ![edit screen advanced more](https://support.optisigns.com/hc/article_attachments/38825933298579)
 

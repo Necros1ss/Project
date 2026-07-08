@@ -45,12 +45,12 @@ Find and select the **Google Calendar** app within the apps list:
 The following window pop-up should show.  
 Sign-in and authenticate the account you wish to use for Calendar sharing.
 
-![](https://support.optisigns.com/hc/article_attachments/46695218708115) Once authenticated, hit **Next.**
+![](https://support.optisigns.com/hc/article_attachments/46695218708115) Once authenticated, hit **Next.**
 
 Now, input the Calendar details:
 
 ![](https://support.optisigns.com/hc/article_attachments/46695246726803)* **Name:** Name of your calendar that you wish to see it labeled as within the OptiSigns platform. This name is internal to you only.
-* **Calendars:**  The dropdown will show all the calendars that are within the account. These can be calendars you created or are subscribed to.
+* **Calendars:** The dropdown will show all the calendars that are within the account. These can be calendars you created or are subscribed to.
 * **Title:** Title of the calendar. This will be displayed on your screen.
 * **Display Mode:** Select the calendar view
 	+ **Schedule** - Linear listing of every event in succession by time and date.
@@ -82,7 +82,7 @@ Now, input the Calendar details:
 ![](https://support.optisigns.com/hc/article_attachments/46695218712723)* **Time Range:** Change the range of times displayed. Choose between **Full day, 8 AM - 5 PM, 9 AM - 5 PM,** or set a **Custom** time range.
 * **Slot Spacing:** Change the spacing between slots in the Google Calendar.
 * **Show Location:** Show the location of your calendar's event.
-* **Auto Scroll:** By default, the calendar will focus the display of events on current local time or your set time zone time. This can be less helpful if you anticipate viewers to be able to see all event activities of your calendar.   
+* **Auto Scroll:** By default, the calendar will focus the display of events on current local time or your set time zone time. This can be less helpful if you anticipate viewers to be able to see all event activities of your calendar.   
 Toggle the auto scroll pans the schedule so that all times are viewable.
 * **Time Format:** Change between a 24-hour time format and 12-hour time format.
 
@@ -95,7 +95,7 @@ The app will also auto-adjust the format to a screen in portrait orientation (ro
 
 ![](https://support.optisigns.com/hc/article_attachments/46695218706835)You then can assign this newly created asset to your screens to display, or you can also use it in playlists, schedules, etc. like any other assets. If you need more information on how to set up & assign content to your screens, check out our article on [**Assigning Content to Your Screens**](https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens).
 
- If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+ If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
 
 
 ---

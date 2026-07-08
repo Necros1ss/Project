@@ -38,7 +38,7 @@ Depending on how you download your PowerPoint, this option can be useful if you 
 6. Click **Upload**  
 **![chrome_g1LHNs2Iy9.png](https://support.optisigns.com/hc/article_attachments/32753273873683)**
 7. Either: **Assign** to a screen on the Screens Management page or **push** the asset to your screen.
-	* If downloaded as a **PDF** or **PPT,** select the **Duration (seconds)**of the entire document. *(Min. 4/page)*  
+	* If downloaded as a **PDF** or **PPT,** select the **Duration (seconds)** of the entire document. *(Min. 4/page)*  
 	![](https://support.optisigns.com/hc/article_attachments/32753266813587)
 
 ### Limitations
@@ -51,7 +51,7 @@ Depending on how you download your PowerPoint, this option can be useful if you 
 
 ## Option 2: Sign in with Your Microsoft Account
 
-This option allows you to access private PowerPoint files directly from your Microsoft account. With this option, your PowerPoint will update in our portal with any changes you make to it. 
+This option allows you to access private PowerPoint files directly from your Microsoft account. With this option, your PowerPoint will update in our portal with any changes you make to it. 
 
 
 
@@ -104,7 +104,7 @@ This option allows you to access private PowerPoint files directly from your Mic
 ![chrome_fwwQKVRzVI.png](https://support.optisigns.com/hc/article_attachments/32753260348563)
 9. Paste the **modified embed code.**  
 **![chrome_QYIejECtvB.png](https://support.optisigns.com/hc/article_attachments/32753260352659)**
-10. Optionally, **customize the Update** **Interval** (default: 600 seconds).
+10. Optionally, **customize the Update** **Interval** (default: 600 seconds).
 11. Click **Save.**
 12. [**Push to Screens**](https://support.optisigns.com/hc/en-us/articles/18988049363859)
 
@@ -139,7 +139,7 @@ This administrator access is only needed for first time access. Once the OptiSig
 
 ### I want to log in to PowerPoint directly through my Microsoft account, but I don't see the option! What's going on?
 
-If you're setting up the app and it looks like the image below, you're likely logged on through a **Branded Portal.**
+If you're setting up the app and it looks like the image below, you're likely logged on through a **Branded Portal.** 
 
 ![](https://support.optisigns.com/hc/article_attachments/40597826081939)
 

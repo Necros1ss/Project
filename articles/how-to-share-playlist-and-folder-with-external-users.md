@@ -1,4 +1,4 @@
-Making it effortless to share playlists and folders with external users has become a must. Exclusive to our Pro Plus and higher plans, this feature opens the door to a wide array of content contributions, encompassing images, videos, and documents—essential for enhancing collaboration.
+Making it effortless to share playlists and folders with external users has become a must. Exclusive to our Pro Plus and higher plans, this feature opens the door to a wide array of content contributions, encompassing images, videos, and documents—essential for enhancing collaboration.
 
 
 Furthermore, there are several compelling use cases for this feature:
@@ -12,7 +12,7 @@ Furthermore, there are several compelling use cases for this feature:
 In this article, we'll guide you on how to seamlessly share your playlist and/or folder with external users, making collaboration a breeze.
 
 
- 
+ 
 
 
 # **Ready to get started? Then, let's jump in:**
@@ -104,7 +104,7 @@ If you no longer wish to share the playlist, you can click on 'Unshare Link' to 
 You have the flexibility to manage the shared playlist effortlessly, allowing you to seamlessly add new collaborators, adjust their permissions, or remove access whenever needed.
 
 
- 
+ 
 
 
 ## **How to Share Your Folder**
@@ -113,7 +113,7 @@ You have the flexibility to manage the shared playlist effortlessly, allowing yo
 Sharing your folder is a very similar process to sharing your playlist, making it an intuitive and straightforward experience.
 
 
- 
+ 
 
 
 Go to Files/Assets
@@ -146,7 +146,7 @@ Enter the email addresses of the external users you'd like to share it with and 
 **NOTE:** The features, functionality, and settings for sharing, general access, and advanced options remain consistent with those of sharing a playlist.
 
 
- 
+ 
 
 
 ## **That's all!**

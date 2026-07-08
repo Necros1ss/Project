@@ -12,8 +12,8 @@ Then select if you want to use:
 
 ![](https://support.optisigns.com/hc/article_attachments/51444826883859)
 
-* **None:**just a black screen when nothing is scheduled
-* **Use Account Default:** using what set at account level (see #2 below for how).
+* **None:** just a black screen when nothing is scheduled
+* **Use Account Default:** using what set at account level (see #2 below for how).
 * **Asset:** select and asset to be displayed when nothing is scheduled
 * **Playlist:** select a playlist to be played when nothing is scheduled
 
@@ -25,7 +25,7 @@ Then select if you want to use:
 
 ![](https://support.optisigns.com/hc/article_attachments/51444826887315)
 
-* **None:**just a black screen when nothing is scheduled
+* **None:** just a black screen when nothing is scheduled
 * **Asset:** select and asset to be displayed when nothing is scheduled
 * **Playlist:** select a playlist to be played when nothing is scheduled
 
@@ -33,9 +33,9 @@ Then select if you want to use:
 
 Sometime, you would want to set a default content so that when nothing is scheduled the default content will be displayed. There are 2 ways to set default content, one is at each schedule level, and one is at whole account level and will be applied to all newly created schedule.
 
- 
+ 
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

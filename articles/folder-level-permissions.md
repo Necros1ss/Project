@@ -31,7 +31,7 @@ Let's get started.
 
 ## Change Folder Permissions
 
-To apply Folder Security settings, you'll need to create a folder. Folder permissions can be set during folder creation, or after a Folder is made. 
+To apply Folder Security settings, you'll need to create a folder. Folder permissions can be set during folder creation, or after a Folder is made. 
 
 
 
@@ -77,7 +77,7 @@ As you can see, as the account owner or Super Admin, we have a lot of options. W
 | --- |
 | Users which appear here are ***only users registered on the current team**.* Other users on other teams will not appear. |
 
-In this case, we'll grant access to our samurai friend Sanjuro here. 
+In this case, we'll grant access to our samurai friend Sanjuro here. 
 
 ![new folder added user](https://support.optisigns.com/hc/article_attachments/44602796072595)
 
@@ -92,7 +92,7 @@ In terms of permissions, this means:
 
 ### Folder Security by Team
 
-As a Super Admin, we can change what Team view we are using at any time. This is also the process Team Admins will use to create Folder Security. 
+As a Super Admin, we can change what Team view we are using at any time. This is also the process Team Admins will use to create Folder Security. 
 
 As a Super Admin, your current Team view can be seen next to your username, in the upper right corner of the screen. To change Team views, open up your User tab. Navigate to **Team**, then select another team from the list.
 
@@ -160,9 +160,9 @@ When dealing with Playlists and Schedules, there are some specific nuances.
 
 ### That's all!
 
-OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).  
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
 
- 
+ 
 
 
 

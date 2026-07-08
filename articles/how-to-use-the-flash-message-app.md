@@ -45,7 +45,7 @@ Set up your Flash Message:
 
 ![](https://support.optisigns.com/hc/article_attachments/47648969919251)
 
-* **Name**: Name of your Flash Message App, this is the name in your asset list and will **not** be displayed on your screens.
+* **Name**: Name of your Flash Message App, this is the name in your asset list and will **not** be displayed on your screens.
 * **Target:** Select the screens you want to target, or screens that has certain tags. Learn more about screens tagging [here](https://support.optisigns.com/hc/en-us/articles/360051746974).
 
 
@@ -128,7 +128,7 @@ You have created your Flash Message App, and know how to activate it.
 
 ## **That's all!**
 
-OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
 
 
 

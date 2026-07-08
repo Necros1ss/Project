@@ -91,7 +91,7 @@ Short press ⏻ to put the screen in standby mode (press again to wake).
 
 ### Step 2: Connect to the Internet
 
-Your kiosk must be connected to the internet to display content. 
+Your kiosk must be connected to the internet to display content. 
 
 ![](https://support.optisigns.com/hc/article_attachments/44669013127699)
 
@@ -121,7 +121,7 @@ Connect using either of the following methods:
 | --- |
 | In order to use the OptiKiosk, you will need an [**OptiSigns subscription**](https://www.optisigns.com/pricing). To use it as a display, you can use any plan. To use it in Kiosk mode, you’ll need our [**Engage plan**](https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs). |
 
-1. After connecting to the internet, the device will generate a pairing code like below.   
+1. After connecting to the internet, the device will generate a pairing code like below.   
 ![](https://support.optisigns.com/hc/article_attachments/44668998122387)  
 Either scan the QR code, or log in to the [**OptiSigns Portal**](https://app.optisigns.com/) and click on **Add Screen** to pair the device. For more details, refer to our article on [**Setting Up and Adding Screens**](https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen). An OptiKiosk 32 functions as a single screen under your OptiSigns subscription.
 2. Assign Content - To assign content, click **ASSIGNED.** If no content is assigned, it will say "Stop Playing".  
@@ -199,7 +199,7 @@ If your device and screen are on, but only displays a black screen:
 * Check your Operational Schedule, and verify its power settings are not set to Off. If an Operational Schedule’s power settings are set to Off, it will remain off during the designed time.
 
 If the device is still not displaying content after you’ve checked these, try a Factory Reset.  
- 
+ 
 
 #### **App Freezes, Video Assets Not Playing Full Video, or Asset Not Loaded Fully**
 

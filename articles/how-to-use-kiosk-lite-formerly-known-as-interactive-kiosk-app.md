@@ -7,16 +7,16 @@ This is useful for the kiosk use case, where a standard advertising, or promotio
 This feature is supported on iOS, Androids, Windows, Linux, MacOS, Raspberry Pi, ChromeOS, and BrightSigns devices. In addition, the Kiosk Lite app is only available through our Engage and Enterprise plans.
 
 
- 
+ 
 
 
 ## **Let's jump in and get started:**
 
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 
 Go to Engage page
@@ -28,7 +28,7 @@ Click on "New App"
 
 
 ![](https://support.optisigns.com/hc/article_attachments/24980788231571)
- 
+ 
 
 
 Select Touch Screen Kiosks → Select App
@@ -37,7 +37,7 @@ Select Touch Screen Kiosks → Select App
 
 
 ![](https://support.optisigns.com/hc/article_attachments/24981016303635)
- 
+ 
 
 Select Kiosk Lite → Build
 
@@ -56,7 +56,7 @@ Enter your kiosk information:
 ![](https://support.optisigns.com/hc/article_attachments/27028402258707)
 
 
-* Name: Name of your Kiosk Lite App, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
+* Name: Name of your Kiosk Lite App, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Default Content Type: Choose between Asset or Playlist as your content type.
 * Select Asset/Playlist: Pick the asset or playlist you want to play as your standard content.
 * Kiosk URL: The URL of the web page you want to load when the customer touches the screen.
@@ -65,7 +65,7 @@ Enter your kiosk information:
 * Show Touch Here Icon: Show the Touch Here icon blinking on the screen. This is useful to grab customer's attention and invite them to interact with the kiosk.
 
 
- 
+ 
 
 
 * Customize Touch Here Icon:  
@@ -76,7 +76,7 @@ Enter your kiosk information:
 	+ Touch Here Icon Blinking Rate: Set how fast you want the icon to blink on the screen
 
 
- 
+ 
 
 
 * Close & Nav Bar Styler:
@@ -92,7 +92,7 @@ Enter your kiosk information:
 If you want to set these options as your default for future use, you can learn how to do that on our "[How to Change Close & Nav Bar Styler Preferences](https://support.optisigns.com/hc/en-us/articles/28115946505107-How-to-Change-Close-Nav-Bar-Styler-Preferences)" page.
 
 
- 
+ 
 
 
 ![chrome_wUCoFrbwyJ.png](https://support.optisigns.com/hc/article_attachments/28111518265619)
@@ -108,7 +108,7 @@ Here's an example of the Close & Nav Bar Styler:
 
 
 Click **Save**.
- 
+ 
 ## **That's all! Congratulation!**
 
 
@@ -118,7 +118,7 @@ You have created your Kiosk Lite app.
 **Note**: Integrating the Kiosk Lite app into a Playlist may not offer an optimal user experience, as the content may inadvertently advance to the next item on the Playlist before completing their interaction with the touch screen. For a more seamless user experience, we recommend placing your playlist within the dedicated Kiosk Lite app.
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

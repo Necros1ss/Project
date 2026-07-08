@@ -79,7 +79,7 @@ Now, open your OptiSigns player menu. Go to **About → Advanced Settings**.
 **![](https://support.optisigns.com/hc/article_attachments/35184705322515)**
 
 
-Here, you’ll see a field called **Certificate File**. 
+Here, you’ll see a field called **Certificate File**. 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/35184705339539)
@@ -316,7 +316,7 @@ To begin, open **Keychain Access**. This is normally located in the “Other” 
 ![](https://support.optisigns.com/hc/article_attachments/35184720101907)
 
 
-Select the System tab within the menu on the left. If you see a padlock icon next to the System folder, right click to unlock and enter the system password. 
+Select the System tab within the menu on the left. If you see a padlock icon next to the System folder, right click to unlock and enter the system password. 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/35184720103571)
@@ -352,7 +352,7 @@ Select “Always Trust”. This means your computer will always trust this certi
 Exit and you will be prompted with entering password. Enter the system password.
 
 
-Your certificate is now installed. You will now be able to access the local website. 
+Your certificate is now installed. You will now be able to access the local website. 
 
 
 

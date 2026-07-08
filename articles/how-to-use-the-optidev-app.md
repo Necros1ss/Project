@@ -39,7 +39,7 @@ Find **OptiDev** on the list of apps:
 
 ![](https://support.optisigns.com/hc/article_attachments/47616485596947)
 
-This will open up the **OptiDev Configuration** window. 
+This will open up the **OptiDev Configuration** window. 
 
 ![](https://support.optisigns.com/hc/article_attachments/47616485600019)
 
@@ -52,7 +52,7 @@ There are essentially four elements to this screen:
 
 First, give your asset a name. Then you’ll need to get the Published URL.
 
-To do this, go to your OptiDev project, then hit **Publish to OptiSigns:**
+To do this, go to your OptiDev project, then hit **Publish to OptiSigns:** 
 
 ![](https://support.optisigns.com/hc/article_attachments/49048940620819)
 
@@ -98,7 +98,7 @@ To use this feature, you will need a Standard subscription on the OptiDev platfo
 
 ### That’s all!
 
-OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
 
 
 

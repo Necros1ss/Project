@@ -29,7 +29,7 @@ There are two ways you can set up your Google Sheets:
 1. [Using a private Sheet](#1)
 2. [Using a public Sheet](#2)
 
-Depending on how you have your document set up, please pick the option that best suits your use case. 
+Depending on how you have your document set up, please pick the option that best suits your use case. 
 
 
 
@@ -37,19 +37,19 @@ Depending on how you have your document set up, please pick the option that best
 
 ## Option 1: Setting Up a Private Sheet
 
-***This option is useful if you have private information on your Sheet or want more access and customization of your Sheet in OptiSigns.***
+***This option is useful if you have private information on your Sheet or want more access and customization of your Sheet in OptiSigns.*** 
 
 In Google Sheets, **open the Google Sheet** you'd like to import **→ Copy the URL**
 
 ![](https://support.optisigns.com/hc/article_attachments/33979909649171)
 
-Return to your Google Sheets app in the OptiSigns portal. 
+Return to your Google Sheets app in the OptiSigns portal. 
 
 **Name** your asset → **Paste the Sheet's URL** into the URL box → Click **Next**
 
 ![](https://support.optisigns.com/hc/article_attachments/33979909650835)
 
-A **"Sign** **In With Google"** box will appear beneath the URL box, click on it.
+A **"Sign** **In With Google"** box will appear beneath the URL box, click on it.
 
 ![chrome_QH2y6SgYtm.jpg](https://support.optisigns.com/hc/article_attachments/33979969425299)
 
@@ -88,7 +88,7 @@ After creating your asset, your URL box will now have a **"Refresh Data"** butto
 
 ![](https://support.optisigns.com/hc/article_attachments/33979909670931)
 
-When you update your Sheet, Google will also send a notification to our system, which will either update the new data automatically after 5 minutes, during the set Force Sync Interval, or when you click the Refresh Data button above. 
+When you update your Sheet, Google will also send a notification to our system, which will either update the new data automatically after 5 minutes, during the set Force Sync Interval, or when you click the Refresh Data button above. 
 
 
 
@@ -117,7 +117,7 @@ In your Sheet, go to **Files** → **Share** → **Publish to Web** → Click **
 
 Click **Next**.
 
- 
+ 
 
 ![](https://support.optisigns.com/hc/article_attachments/33979969448083)
 
@@ -135,10 +135,10 @@ Once done, click **Save**.
 ## Limitations
 
 * **Update Intervals:**
-	+ **Private Sheet:**Google will notify our system when you update your Sheet, and we will reload the information in as little as 5 minutes, up to one hour (or whenever you set your Force Sync Interval).
+	+ **Private Sheet:** Google will notify our system when you update your Sheet, and we will reload the information in as little as 5 minutes, up to one hour (or whenever you set your Force Sync Interval).
 	+ **Published Sheet:** Google updates the webpage automatically every 5 minutes. Your screens should then update in around 5-10 minutes, up to the Force Sync interval (minimum 1 hour).
 * **Hidden Sheet:** If you try to import a hidden Sheet, we will not be able to access the content. This will cause the Preview window or Screens to display as black.
-* **Custom Display Region:**
+* **Custom Display Region:** 
 	+ Currently, it is only supported for Private Sheet.
 	+ This must be set up during the creation of the asset. Once this is selected for an asset, it cannot be unselected. Or, if you do not select it upon creating the asset, you cannot select it later.
 	+ If you set up Custom Display Region, you can always adjust the inputted cells and scaling.

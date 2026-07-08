@@ -1,6 +1,6 @@
 
 This method still works, but we have implemented [new method to connect to your Google Slides](https://support.optisigns.com/hc/en-us/articles/360050642833).
- 
+ 
 
 [Google Slides](https://www.google.com/slides/about/) is a very popular ways to create and share your presentation. You can also use it on your Digital Signage screen. For more 5 creatives ideas on how to use Google Slides on Digital Signs, [click here](https://www.optisigns.com/).
 
@@ -50,7 +50,7 @@ Click File->Publish to web
 
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360054657814)
- 
+ 
 
 
 
@@ -70,7 +70,7 @@ Then Click "Publish"
 
 
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360054657854)
- 
+ 
 
 
 
@@ -110,7 +110,7 @@ Click File/Asset
 
 
 ![mceclip5.png](https://support.optisigns.com/hc/article_attachments/360055531173)
- 
+ 
 
 
 
@@ -121,7 +121,7 @@ Click App:
 
 
 ![mceclip6.png](https://support.optisigns.com/hc/article_attachments/360054658054)
- 
+ 
 
 
 
@@ -132,7 +132,7 @@ Click Google Slides:
 
 
 ![mceclip7.png](https://support.optisigns.com/hc/article_attachments/360054658094)
- 
+ 
 
 
 
@@ -168,8 +168,8 @@ You will see your Google Slides Presentation is added.
 
 
 ![mceclip9.png](https://support.optisigns.com/hc/article_attachments/360055531293)
- 
- 
+ 
+ 
 
 
 
@@ -203,7 +203,7 @@ In the Type drop-down click "Assets":
 
 
 ![mceclip12.png](https://support.optisigns.com/hc/article_attachments/360055531333)
- 
+ 
 
 
 
@@ -224,8 +224,8 @@ Click Save
 
 
 ![mceclip14.png](https://support.optisigns.com/hc/article_attachments/360054658394)
- 
- 
+ 
+ 
 
 
 
@@ -235,7 +235,7 @@ Click Save
 If you make changes to the slides, and save them, the screen will updated every "Update Interval".
 
 
- 
+ 
 
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

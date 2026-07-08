@@ -8,10 +8,10 @@ This article will guide you through how to create and use a YouTube Channel App.
 ## **Let's jump in and get started:**
 
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 
 Go to Files/Assets, Click on "App".
@@ -43,13 +43,13 @@ Click Save.
 After Saving, you can Preview videos to verify.
 
 
-**NOTE:** YouTube has made some changes to the way they format their channel URLs. There are a couple of extra steps we may need to follow to obtain the correct URL. OptiSigns YouTube applications will not work with the new URLs formatted with the channel name. (YouTube.com/channel/@[ChannelName]) We need the URL with the channel ID. 
+**NOTE:** YouTube has made some changes to the way they format their channel URLs. There are a couple of extra steps we may need to follow to obtain the correct URL. OptiSigns YouTube applications will not work with the new URLs formatted with the channel name. (YouTube.com/channel/@[ChannelName]) We need the URL with the channel ID. 
 
 
- 
+ 
 
 
-Here is how to obtain it. 
+Here is how to obtain it. 
 
 
 * Navigate to the YouTube channel that you would like to display.
@@ -73,7 +73,7 @@ You can assign the newly created YouTube Channel asset to your screen by going t
 You can put the YouTube Channel to a Playlist, Schedule too.
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

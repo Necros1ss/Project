@@ -46,10 +46,10 @@ Go to Settings > Apps > Special app access > Display over other apps, make sure 
 Your Auto Start feature will be worked.
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
 
 
- 
+ 
 
 
 

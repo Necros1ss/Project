@@ -34,7 +34,7 @@ And, critically, we never rent or sell your data.
 
 ## Why our Team Might Access Your Account
 
-Most issues are far faster to fix when we can see what you see. 
+Most issues are far faster to fix when we can see what you see. 
 
 When you open a support request, or when a device goes offline, our team uses controlled, logged access to diagnose and fix the problem. This saves everyone time by reducing back-and-forth.
 

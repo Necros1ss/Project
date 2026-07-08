@@ -46,7 +46,7 @@ First, you will need to have your screens set up and paired. For more informatio
 Then log on to our portal: <http://app.optisigns.com/>
 
 
-Go to **Files/Assets**, Click on "App" and add **The Wall Street Journal** on your Account.
+Go to **Files/Assets**, Click on "App" and add **The Wall Street Journal** on your Account.
 
 
 
@@ -54,7 +54,7 @@ Go to **Files/Assets**, Click on "App" and add **The Wall Street Journal** on 
 ![](https://support.optisigns.com/hc/article_attachments/45517575898387)
 
 
- 
+ 
 
 
 Click **The Wall Street Journal**:
@@ -90,14 +90,14 @@ Enter your Wall Street Journal App information:
 * Font Size: Set the font size for the Wall Street Journal app.
 
 
-Clicking **Advanced**opens up additional options:
+Clicking **Advanced** opens up additional options:
 
 
 ![](https://support.optisigns.com/hc/article_attachments/45517575903763)
 
 
 * Date Format: Choose from a set of pre-formatted dates, or select a custom date format:  
- 
+ 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/45517575905171)
@@ -111,7 +111,7 @@ Clicking **Advanced**opens up additional options:
   
 After you've configured the Wall Street Journal app to your liking, hit **Save**. Your Wall Street Journal app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.  
   
- 
+ 
 ## **That's all!**
 
 

@@ -138,7 +138,7 @@ If you’re having problems connecting your OptiStick to your HDMI port or TV, h
 * Try to connect the OptiStick directly to your TV without the HDMI extended
 * Try a different TV or monitor to see if it will work at all
 
-If none of these work, contact our support team at [support@optisigns.com](mailto:support@optisigns.com). 
+If none of these work, contact our support team at [support@optisigns.com](mailto:support@optisigns.com). 
 
 ### Remote Control Troubleshooting
 
@@ -152,7 +152,7 @@ The OptiStick Player ships with a Remote Control. Which remote control you have 
 
 | **NOTE** |
 | --- |
-| To pair or re-pair this remote, hold the **Back**and **Home**buttons. |
+| To pair or re-pair this remote, hold the **Back** and **Home** buttons. |
 
 **Gen 2 Remote:**
 
@@ -162,7 +162,7 @@ The OptiStick Player ships with a Remote Control. Which remote control you have 
 
 | **NOTE** |
 | --- |
-| To pair or re-pair this remote, hold the **Return**and **OK**buttons. |
+| To pair or re-pair this remote, hold the **Return** and **OK** buttons. |
 
 OptiSigns Players also support the [**Mobile Admin App**](https://support.optisigns.com/hc/en-us/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App) as a Remote Control. This is our ***top recommendation,*** as not only does it function as a true remote control (allowing you to control your players from anywhere), but it has numerous other features as well.
 
@@ -189,7 +189,7 @@ If the device is still not displaying content after you’ve checked these, chec
 
 When [**setting a schedule**](https://support.optisigns.com/hc/en-us/articles/360016981853-Create-and-Using-Schedules-with-OptiSigns), it's critical that the portal and device share the same time zone. If the time zones are not identical, it can cause your schedule to start at a different time than you'd like. The issue is usually the device's time zone.
 
-To do this, you'll need to change it. Start by pressing the **Home button**on your remote (or hit **Exit App** from the Side Menu), and navigate to the **Settings** menu.
+To do this, you'll need to change it. Start by pressing the **Home button** on your remote (or hit **Exit App** from the Side Menu), and navigate to the **Settings** menu.
 
 ![settings menu](https://support.optisigns.com/hc/article_attachments/41497198237971)
 
@@ -215,7 +215,7 @@ Now your device and schedule should sync properly.
 
 | **NOTE** |
 | --- |
-| These steps can be performed remotely using the **Mobile Admin App**or through **MDM Commands**. The OptiStick needs to be connected and online for these commands to go through. |
+| These steps can be performed remotely using the **Mobile Admin App** or through **MDM Commands**. The OptiStick needs to be connected and online for these commands to go through. |
 
 ### How to Factory Reset the OptiStick
 
@@ -227,7 +227,7 @@ There are two ways to do a factory reset.
 
 A soft reset can be performed if the system is still accessible and operational. This will erase all the data on the device, and may help improve performance and fix some issues.
 
-On the Home screen, go to **Settings**. Hit **Device Preferences,** then choose **About**. Finally, choose **Factory Reset.** 
+On the Home screen, go to **Settings**. Hit **Device Preferences,** then choose **About**. Finally, choose **Factory Reset.** 
 
 ![factory reset settings](https://support.optisigns.com/hc/article_attachments/40147900617363)
 

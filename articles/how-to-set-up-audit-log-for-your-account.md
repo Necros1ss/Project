@@ -2,7 +2,7 @@ With Pro Plus or Enterprise Plan, you can enable Audit Log feature, which will l
 
 Here's the feature highlights:
 
-* Audit Log data is kept for **2 years or 200K records which ever reached first** (if you need longer data retention, please contact [support@optisigns.com](mailto:support@optisigns.com), this will incur additional cost)
+* Audit Log data is kept for **2 years or 200K records which ever reached first** (if you need longer data retention, please contact [support@optisigns.com](mailto:support@optisigns.com), this will incur additional cost)
 * User login (how user logged in via Google SSO, MS SSO or email, password)
 * New, Update, Delete Screens
 * New, Update. Delete Assets/Files
@@ -25,7 +25,7 @@ Click Enable Audit Log.
 
 **To view, search, export Audit Log data:**
 
-Go to account settings & click Audit Log, or go directly here: <https://app.optisigns.com/app/security-audit-logging> 
+Go to account settings & click Audit Log, or go directly here: <https://app.optisigns.com/app/security-audit-logging> 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4403335839507)
 
@@ -49,19 +49,19 @@ You can also export the data out to CSV, Excel or PDF:
 
 ![mceclip4.png](https://support.optisigns.com/hc/article_attachments/4403335855123)
 
- 
+ 
 
 #### **That's it!**
 
 You have activated and learned how to use the Audit Log feature.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

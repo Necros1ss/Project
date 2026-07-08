@@ -1,7 +1,7 @@
 If you encounter any issues with displaying the correct text size or graph size using the OptiSigns Android Stick, following these steps should help resolve your problem.
 
 
- 
+ 
 
 
 Here is an example of Different Scaling Views:
@@ -22,7 +22,7 @@ Here is an example of Different Scaling Views:
 This article guides you on how to change the OptiSigns Android Device Scaling Settings.
 
 
- 
+ 
 
 
 1. Go to the **Settings**
@@ -64,25 +64,25 @@ This article guides you on how to change the OptiSigns Android Device Scaling Se
 After completing these steps, you can relaunch the OptiSigns app. Adjusting the settings should allow you to achieve the desired scaling on your screen.
 
 
- 
+ 
 
 
-Please let us know if you have any questions or feedback. 
+Please let us know if you have any questions or feedback. 
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
 

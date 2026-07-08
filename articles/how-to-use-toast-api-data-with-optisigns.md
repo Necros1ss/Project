@@ -53,7 +53,7 @@ Refer to Toast's Documentation [here](https://doc.toasttab.com/doc/devguide/port
 
 | **NOTE** |
 | --- |
-| In order to use Toast's API to read data, this requires **[Toast Standard API access](https://doc.toasttab.com/doc/devguide/devApiAccessUserGuide.html).**This usually comes with an additional charge (to Toast) of $25/month per location. |
+| In order to use Toast's API to read data, this requires **[Toast Standard API access](https://doc.toasttab.com/doc/devguide/devApiAccessUserGuide.html).** This usually comes with an additional charge (to Toast) of $25/month per location. |
 
 
 
@@ -65,7 +65,7 @@ Refer to Toast's Documentation [here](https://doc.toasttab.com/doc/devguide/port
 ## Step 2: Authentication for Toast API
 
 
-For Toast API authentication, we will first need to pass the POST request to get the authentication token. The authentication token is then used to pass in the API request to get the data from Toast menus, orders etc. 
+For Toast API authentication, we will first need to pass the POST request to get the authentication token. The authentication token is then used to pass in the API request to get the data from Toast menus, orders etc. 
 
 
 This authentication process will be handled using Pre-request processing with OptiSigns' API request. For more information about Pre-request processing and API requests in general, please check [here](https://support.optisigns.com/hc/en-us/articles/22875592994195).
@@ -104,7 +104,7 @@ os.context.set("authorization", os.getValue(token));
 ## Step 3: Call the API to get the required data from Toast
 
 
-Now we'll use the authorization token we received in Pre-request processing and pass it to the actual API call header. 
+Now we'll use the authorization token we received in Pre-request processing and pass it to the actual API call header. 
 
 
 In the Header tab, create two parameters with the following values:
@@ -113,7 +113,7 @@ In the Header tab, create two parameters with the following values:
 **authorization** Bearer {{authorization}}
 
 
-**Toast-Restaurant-External-ID** 
+**Toast-Restaurant-External-ID** 
 
 
 You can get the **Toast-Restaurant-External-ID value** from Toast Portal. This is the specific restaurant Id you want to get data for.
@@ -137,7 +137,7 @@ The final request will look something like this:
 You can enable this request and save the API. Click **Run Test**.
 
 
-You should receive a *(200 OK)* response, with data returning from the API. This means the API request has successfully contacted Toast and is transferring data.
+You should receive a *(200 OK)* response, with data returning from the API. This means the API request has successfully contacted Toast and is transferring data.
 
 
 ![](https://support.optisigns.com/hc/article_attachments/31870683910291)
@@ -158,16 +158,16 @@ Now that your API request data source is ready for use, you can build your DMB u
 For a step-by-step guide and more examples, please see our article on [Building Digital Menu Boards Using OptiSync](https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync).
 
 
- 
+ 
 
 
 ## That's all!
 
 
-You have successfully retrieved data from Toast and displayed it on the screens using OptiSigns. 
+You have successfully retrieved data from Toast and displayed it on the screens using OptiSigns. 
 
 
- 
+ 
 
 
 

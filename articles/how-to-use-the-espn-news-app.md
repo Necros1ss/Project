@@ -49,7 +49,7 @@ First, you will need to have your screens set up and paired. For more informatio
 Then log on to our portal: <http://app.optisigns.com/>
 
 
-Go to **Files/Assets**, Click on "App" and add **ESPN** on your Account.
+Go to **Files/Assets**, Click on "App" and add **ESPN** on your Account.
 
 
 
@@ -57,7 +57,7 @@ Go to **Files/Assets**, Click on "App" and add **ESPN** on your Account.
 ![](https://support.optisigns.com/hc/article_attachments/45515362330003)
 
 
- 
+ 
 
 
 Click **ESPN**:
@@ -93,14 +93,14 @@ Enter your ESPN Wall App information:
 * Font Size: Set the font size for the ESPN Wall app.
 
 
-Clicking **Advanced**opens up additional options:
+Clicking **Advanced** opens up additional options:
 
 
 ![](https://support.optisigns.com/hc/article_attachments/45515356937235)
 
 
 * Date Format: Choose from a set of pre-formatted dates, or select a custom date format:  
- 
+ 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/45515362344851)
@@ -114,7 +114,7 @@ Clicking **Advanced**opens up additional options:
   
 After you've configured the ESPN News app to your liking, hit **Save**. Your ESPN app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.  
   
- 
+ 
 ## **That's all!**
 
 

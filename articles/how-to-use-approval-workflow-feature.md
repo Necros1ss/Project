@@ -10,7 +10,7 @@ With OptiSigns Pro or Enterprise Plan, you can set up Approval Workflow so that 
 3) Once approved, the changes will be applied to your screens immediately
 
 
- 
+ 
 
 
 **To demonstrate an example,** we will create 2 users:
@@ -48,7 +48,7 @@ Once added you will have 2 users like below.
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360102331574)
 
 
- 
+ 
 
 
 ### **Log in as John the Proposer and make some changes to a playlist**
@@ -75,7 +75,7 @@ After proposal submitted, John can still continue to change the playlist till Ja
 ![mceclip6.png](https://support.optisigns.com/hc/article_attachments/1500003504101)
 
 
- 
+ 
 
 
 ### **Proposal Notification and Approval Process:**
@@ -147,13 +147,13 @@ The idea is for the Content Proposer, contributor to be able to upload files, cr
 Content Proposer cannot Edit Screens, Change Assets, Schedule.
 
 
-We would like to keep the process simple for both the Proposers and Approvers. Imagine if an approver needs to look at a change in an asset that belong to a Playlist that's in a Schedule 2 weeks from now. It would not be easy for the approver to figure out what's the actual impact of the change. 
+We would like to keep the process simple for both the Proposers and Approvers. Imagine if an approver needs to look at a change in an asset that belong to a Playlist that's in a Schedule 2 weeks from now. It would not be easy for the approver to figure out what's the actual impact of the change. 
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
 
 
 

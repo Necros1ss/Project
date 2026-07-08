@@ -169,7 +169,7 @@ You’ll see a screen similar to this:
 ![virtual screen app config optisigns](https://support.optisigns.com/hc/article_attachments/36911639366931)
 
 
-You’ll need to fill in the information on the side. 
+You’ll need to fill in the information on the side. 
 
 
 ![virtual screen app information filled in](https://support.optisigns.com/hc/article_attachments/36911646826515)
@@ -184,7 +184,7 @@ First, the **Screen** you select will be what displays on your Microsoft Teams R
 Second, the **Share Type** should be set to **URL Link**. It is this URL you will input into the Teams Rooms Professional Portal in the next step.
 
 
-Now, hit **Save**. Your asset/playlist will show on the right side of the screen, and you’ll receive the URL you need. 
+Now, hit **Save**. Your asset/playlist will show on the right side of the screen, and you’ll receive the URL you need. 
 
 
 ![virtual screen app completely configured](https://support.optisigns.com/hc/article_attachments/36911639367955)

@@ -44,7 +44,7 @@ OptiSigns boasts integration with Microsoft Power BI, allowing secure sharing of
 
 ## Prepare Dashboard or Report for Sharing
 
-We'll assume you already have a Power BI dashboard or report built out and ready to showcase to your team members or audience on a large screen. 
+We'll assume you already have a Power BI dashboard or report built out and ready to showcase to your team members or audience on a large screen. 
 
 ### Dashboard Hosted on Microsoft 365
 
@@ -94,7 +94,7 @@ This URL is what you'll need to set up the Power BI app [in the next step.](#Add
 
 Now, it's time to add an instance of the Power BI app to your OptiSigns account.
 
-Navigate to the [**OptiSigns Portal**](https://app.optisigns.com/)**,**then click **Files/Assets** → **Apps**.
+Navigate to the [**OptiSigns Portal**](https://app.optisigns.com/)**,** then click **Files/Assets** → **Apps**.
 
 
 ![optisigns files assets apps](https://support.optisigns.com/hc/article_attachments/37495309686163)
@@ -104,14 +104,14 @@ Enter your Power BI app details.
 
 ![](https://support.optisigns.com/hc/article_attachments/44002355209107)
 
-* **Name -** Name of your Power BI app instance. This is the name of the app in your asset list. It will **not** be displayed on your screens.
-* **URL -**  Paste in the Dashboard URL you copied in Step 1 here.
+* **Name -** Name of your Power BI app instance. This is the name of the app in your asset list. It will **not** be displayed on your screens.
+* **URL -** Paste in the Dashboard URL you copied in Step 1 here.
 * **Update Interval -** Select how often you want the app to check for an update to the Dashboard. The Default is 600 seconds (10 minutes).
 * **Use Service Principal -** When selected, uses a Microsoft Entra ID Service Principal to log in to Power BI. This requires additional setup. For more information, see [How to Set Up a Power BI Service Principal for Use with OptiSigns](https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-PowerBI-Service-Principal-for-Use-in-OptiSigns).
 	+ **Select the "User Service Principal" Integration** - Where you choose the service principal integration for your Power BI reports.
 * **Direct Login -** In order to view your dashboard on any screen, OptiSigns requires you to authenticate via the pass-through to Microsoft's Power BI service. Simply input your Microsoft ID and password.
 
-Once you've integrated a Service Principal or directly logged in, you're ready to display. On the right is the **Preview** pane. If you've set up your report correctly, you should see it display here. You can change its orientation by switching between **Landscape** and **Portrait**.
+Once you've integrated a Service Principal or directly logged in, you're ready to display. On the right is the **Preview** pane. If you've set up your report correctly, you should see it display here. You can change its orientation by switching between **Landscape** and **Portrait**.
 
 
 
@@ -205,7 +205,7 @@ Now that we’ve set this up, we can return to our Power BI report. Now, we’ll
 
 ![](https://support.optisigns.com/hc/article_attachments/44002377569939)
 
-By inputting this and assigning this to a screen, it will find the Device Additional Attribute and substitute the Value here. In this case, that value is Central, so it will filter out all data that does not fall under the Account Table, Region Column, and Central Value. 
+By inputting this and assigning this to a screen, it will find the Device Additional Attribute and substitute the Value here. In this case, that value is Central, so it will filter out all data that does not fall under the Account Table, Region Column, and Central Value. 
 
 For a different screen, you might set the Device Additional Attribute value to East. By pairing this same report to that screen, it will filter out all data that does not fall under the Account Table, Region Column, and East value.
 

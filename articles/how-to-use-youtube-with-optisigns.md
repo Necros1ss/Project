@@ -5,10 +5,10 @@ You just need to copy the YouTube Link and paste in the YouTube app in OptiSigns
 ## **Let's jump in and get started:**
 
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 
 Go to Files/Assets, Click on "App".
@@ -17,7 +17,7 @@ Go to Files/Assets, Click on "App".
 
 
 ![](https://support.optisigns.com/hc/article_attachments/26482420798611)
- 
+ 
 
 
 Click YouTube (or YouTube Live):
@@ -47,10 +47,10 @@ Enter your YouTube video information:
 
 | **NOTE** |
 | --- |
-| For Youtube Shorts, change the part of the URL that reads **/shorts****/**to instead read **/embed/**.Example:  <https://youtube.com/shorts/BUXczOFByAU?si=TO8RGfmokQMdsI6R>  becomes [https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R](https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R "https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R")This will allow Youtube Shorts to display in OptiSigns. |
+| For Youtube Shorts, change the part of the URL that reads **/shorts****/** to instead read **/embed/**.Example:  <https://youtube.com/shorts/BUXczOFByAU?si=TO8RGfmokQMdsI6R>  becomes [https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R](https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R "https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R")This will allow Youtube Shorts to display in OptiSigns. |
 
 
-* **Caption**: If the YouTube video has closed caption, the app will show it. Note: closed caption must be created by the YouTube video author, auto generated caption may not work.
+* **Caption**: If the YouTube video has closed caption, the app will show it. Note: closed caption must be created by the YouTube video author, auto generated caption may not work.
 
 
 Click Save.  
@@ -70,10 +70,10 @@ You can assign the newly created YouTube asset to your screen by going to Screen
 You can put the YouTube Video to a Playlist, Schedule too.
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

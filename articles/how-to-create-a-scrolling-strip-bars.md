@@ -11,7 +11,7 @@ Then create Scrolling Strip to assign to the bottom or top part of the split scr
 To create a Scrolling Strip, first click Files/Assets -> Apps -> Scrolling Strip
 
 
- ![2020-01-13_14-15-27.png](https://support.optisigns.com/hc/article_attachments/360055907553)
+ ![2020-01-13_14-15-27.png](https://support.optisigns.com/hc/article_attachments/360055907553)
 
 
 Enter a name, this name will be use in your Asset list.  
@@ -61,10 +61,10 @@ For your convenient, if you use one of our Split Screen Templates, we already la
 ![mceclip4.png](https://support.optisigns.com/hc/article_attachments/360041172274)
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

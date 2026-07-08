@@ -5,7 +5,7 @@ The steps below are for you to assign a playlist, but you can follow the same pr
 ### 1) Assign content to your screen
 
 
-To assign the playlist to your screen: Go to the **Screen** tab.
+To assign the playlist to your screen: Go to the **Screen** tab.
 
 
 
@@ -27,7 +27,7 @@ Click the Type drop-down list and select Playlist.
 
 
 ![](https://support.optisigns.com/hc/article_attachments/19315265234067)
- 
+ 
 
 
 Click the Selected Playlist drop-down and select the playlist you've created. In this case, we select "Lobby TV Playlist"
@@ -44,7 +44,7 @@ Click **Save**
 
 
 ![](https://support.optisigns.com/hc/article_attachments/19315343621395)
- 
+ 
 
 
 That's all, the Screen will be updated.
@@ -71,7 +71,7 @@ Then you can set up the schedule to go-live
 That's all, the Screen will be scheduled.
 
 
- 
+ 
 
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

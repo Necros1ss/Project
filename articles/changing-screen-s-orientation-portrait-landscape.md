@@ -22,16 +22,16 @@ Or on the device's side menu:
 ![](https://support.optisigns.com/hc/article_attachments/360025424053)
 
 
-![](https://support.optisigns.com/hc/article_attachments/360025424473) 
+![](https://support.optisigns.com/hc/article_attachments/360025424473) 
 
 
- 
+ 
 
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
 

@@ -1,4 +1,4 @@
-With OptiSigns, you can quickly put images, videos from your Google Drive on your Digital Signs screens  by using Google Drive App. The app will create a playlist for files in your Google Drive, any changes, updates, add, remove will automatically be synced. This allow you to quickly update, share contents within your team without needing to login to OptiSigns portal. 
+With OptiSigns, you can quickly put images, videos from your Google Drive on your Digital Signs screens by using Google Drive App. The app will create a playlist for files in your Google Drive, any changes, updates, add, remove will automatically be synced. This allow you to quickly update, share contents within your team without needing to login to OptiSigns portal. 
 
 
 With the OptiSigns Google Drive app you can:
@@ -12,10 +12,10 @@ With the OptiSigns Google Drive app you can:
 ## **Let's jump in and get started:**
 
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 
 Go to Files/Assets, and Click on "App".
@@ -24,7 +24,7 @@ Go to Files/Assets, and Click on "App".
 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360073809433)
- 
+ 
 
 
 Click Google Drive app:
@@ -33,7 +33,7 @@ Click Google Drive app:
 
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360073809453)
- 
+ 
 
 
 Sign in with Google.
@@ -42,7 +42,7 @@ Sign in with Google.
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360072635634)
 
 
- 
+ 
 
 
 And allow OptiSigns to access your Google Drive.
@@ -51,7 +51,7 @@ And allow OptiSigns to access your Google Drive.
 ![mceclip4.png](https://support.optisigns.com/hc/article_attachments/360072635854)
 
 
- 
+ 
 
 
 Select the folder you want to use:
@@ -60,20 +60,20 @@ Select the folder you want to use:
 ![mceclip5.png](https://support.optisigns.com/hc/article_attachments/360073809813)
 
 
- Enter information for your Google Drive app
+ Enter information for your Google Drive app
 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/11413360638995)
 
 
-* Name: Name of your Google Drive App, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
+* Name: Name of your Google Drive App, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Transition Effect: Transition effect between your images, videos in the folder.
-* Transition Speed: How fast you want your transitions to animate.
+* Transition Speed: How fast you want your transitions to animate.
 * Duration for Image: How long each images should show on your screen, default is 10 seconds.
-* Max Video Duration: Default is 0, which means the app will play each video till the end. You can set it to some other values to prevent too long videos. For example if you set this value to 60 seconds. If a video is longer than 60s, it will get cut off at 60s to play next item. If a video is less than 60s, it will play the duration of the video.
+* Max Video Duration: Default is 0, which means the app will play each video till the end. You can set it to some other values to prevent too long videos. For example if you set this value to 60 seconds. If a video is longer than 60s, it will get cut off at 60s to play next item. If a video is less than 60s, it will play the duration of the video.
 
 
- 
+ 
 
 
 **Advanced option:**
@@ -99,7 +99,7 @@ Files will be sorted and played by name. You can control the order of playback b
 
 
 You have created your Google Drive app.  
-You can change the wall any time by click on it in the Files/Assets tab. 
+You can change the wall any time by click on it in the Files/Assets tab. 
 
 
 You can assign the newly created wall to your screen by going to Screens, click Edit screens and assign the wall to screens that you want.
@@ -120,7 +120,7 @@ You can also force refresh, sync by clicking the Refresh Data button.
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/11413365726739)
 
 
- 
+ 
 
 
 **Limitations:**
@@ -132,16 +132,16 @@ You can also force refresh, sync by clicking the Refresh Data button.
 * To ensure good performance of the app, max file size is limit at 100MB, and max number of files supported in folder is 200. If you have big video files, it's better to upload directly to OptiSigns; and if you have more than 200 files, you can split them up in multiple Google Drive folders.
 
 
- 
+ 
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
 

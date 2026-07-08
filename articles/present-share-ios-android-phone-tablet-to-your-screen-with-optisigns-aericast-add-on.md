@@ -1,7 +1,7 @@
 In this article, we will guide you on how to present/ share from iOS/ Android phone/ tablet to your screen.
 
 
-You can download the AeriCast Presenter app from the app store. 
+You can download the AeriCast Presenter app from the app store. 
 
 
 * iOS App Store: <https://apps.apple.com/us/app/aericast-presenter/id1629924738>
@@ -23,7 +23,7 @@ Or at the bottom strip:
 ![](https://support.optisigns.com/hc/article_attachments/14558020377363)
 
 
-You can click [here](https://support.optisigns.com/hc/en-us/articles/14502723487379) to know how to create the AeriCast Wireless Presentation app 
+You can click [here](https://support.optisigns.com/hc/en-us/articles/14502723487379) to know how to create the AeriCast Wireless Presentation app 
 
 
 ## **Let's jump in and get started:**
@@ -63,13 +63,13 @@ When you are done presenting, you can click the red button on the top right of t
 
 
 You can also present your laptop on your screen. Click [here](https://support.optisigns.com/hc/en-us/articles/14502378549907) for more info.
- 
+ 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
- 
+ 
 
 
- 
+ 
 
 
 

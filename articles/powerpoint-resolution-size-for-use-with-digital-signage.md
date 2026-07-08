@@ -36,7 +36,7 @@ In case you need to change yours. Click Design -> Screen Size and select wide sc
 
 
 ![](https://static.wixstatic.com/media/e48f7f_bc69ddf78d6d458bb34a5d3f485162a6~mv2.png/v1/fill/w_925,h_437,al_c,usm_0.66_1.00_0.01/e48f7f_bc69ddf78d6d458bb34a5d3f485162a6~mv2.png)
- 
+ 
 
 
 
@@ -53,8 +53,8 @@ PowerPoint will flip the orientation and keep your aspect ratio.
 
 
 ![](https://static.wixstatic.com/media/e48f7f_44d4f3f353684f3780b1cdf0aca69ebd~mv2.png/v1/fill/w_925,h_360,al_c,usm_0.66_1.00_0.01/e48f7f_44d4f3f353684f3780b1cdf0aca69ebd~mv2.png)
- 
- 
+ 
+ 
 
 
 
@@ -70,8 +70,8 @@ PowerPoint will flip the orientation and keep your aspect ratio.
 
 
 ![](https://static.wixstatic.com/media/e48f7f_e3f2b2064fea44959df8606ad5cb39ee~mv2.png/v1/fill/w_830,h_474,al_c,lg_1/e48f7f_e3f2b2064fea44959df8606ad5cb39ee~mv2.png)
- 
- 
+ 
+ 
 
 
 
@@ -84,13 +84,13 @@ You may ask: "But wait, my 4K TV is 65', why set resolution to 40in x 22.5in?"
 Yes in theory, you can calculate 65' diagonal = 56.65' × 31.87', but your resolution is still 4K, it will not display higher resolution better, and making bigger media files will make it slower to load and have to scale back to 4K resolution.
 
 
- 
+ 
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

@@ -62,10 +62,10 @@ Pair the screen using your screen's code and start assigning content to it.
 For detailed steps check [here](https://support.optisigns.com/hc/en-us/articles/360016374813).
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

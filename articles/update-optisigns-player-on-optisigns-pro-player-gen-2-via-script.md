@@ -21,7 +21,7 @@ This script will download latest version of OptiSigns AppImage and run it.
 You can use our Remote Access feature to access the OptiSigns Pro Player, go to this article & copy the command line and run on the Pi to update. It will save time vs. manually clicking & downloading methods.
 
 
- 
+ 
 
 
 Other command line scripts:
@@ -31,7 +31,7 @@ Other command line scripts:
 
 
 ```
-wget -O- <https://download.optisignsapp.com/pro-player/change-color-profile.sh> | bash 
+wget -O- <https://download.optisignsapp.com/pro-player/change-color-profile.sh> | bash 
 ```
 * Overwrite the automatic security updates timing
 
@@ -50,7 +50,7 @@ bash~/bin/override_upgrade_schedule.sh 23:30
 ```
 
 
-If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

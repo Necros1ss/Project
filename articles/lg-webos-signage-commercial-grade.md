@@ -156,7 +156,7 @@ From now on, OptiSigns app will be automatically started with the TV, and it wil
 ![mceclip12.png](https://support.optisigns.com/hc/article_attachments/4414487042195)
 
 
- 
+ 
 
 
 #### **Batch installation from the server URL with settings from a USB drive:**
@@ -215,7 +215,7 @@ On the first device push ‘Export Setting Data’
 On the other devices push ‘Import Setting Data’
 
 
- 
+ 
 
 
 If you have questions or need additional help, please contact us at [support@optisigns.com.](mailto:support@optisigns.com)

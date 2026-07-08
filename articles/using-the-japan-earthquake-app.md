@@ -30,7 +30,7 @@ To set up a Japan Earthquake app, go to the **Files/Assets** tab, then click **A
 | --- | --- |
 |  |  |
 
- 
+ 
 
 Find and click on **地震情報 / Japan Earthquake**.
 
@@ -75,13 +75,13 @@ This brings us to the **Edit Screen** tab:
 | --- | --- |
 |  |  |
 
- 
+ 
 
 Here, select **Asset** under Content type. If you already have an Asset, Playlist, or Schedule selected, you can hit **Change**.
 
 Then, select your created Japan Earthquake Asset:
 
-![](https://support.optisigns.com/hc/article_attachments/53095698141203)Now hit **Save**. Your Japan Earthquake asset will now display on screen. 
+![](https://support.optisigns.com/hc/article_attachments/53095698141203)Now hit **Save**. Your Japan Earthquake asset will now display on screen. 
 
 You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) It can also be displayed in a Playlist or Schedule.
 

@@ -155,7 +155,7 @@ Then, click **Go.**
 ![download latest version of optisigns app via web browser](https://support.optisigns.com/hc/article_attachments/1500019255902)
 
 
-Click **The APK** button in the Android Operation System on [our site.](https://www.optisigns.com/download)
+Click **The APK** button in the Android Operation System on [our site.](https://www.optisigns.com/download) 
 
 
 ![download optisigns apk web browser](https://support.optisigns.com/hc/article_attachments/29651805277459)
@@ -208,7 +208,7 @@ Either route you've taken, you'll need to [pair your screen to your account](htt
 ---
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

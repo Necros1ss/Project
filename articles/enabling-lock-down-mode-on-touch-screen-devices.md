@@ -46,9 +46,9 @@
 
 ![mceclip0 (1).png](https://support.optisigns.com/hc/article_attachments/32404360390803)
 
-1. Open the OptiSigns portal and go to the [**Screens**](https://app.optisigns.com/app/screenManagement)page
-2. Click **Edit Screen**on the preferred screen.
-3. Open the **Advanced** section, expand the **More** settings**.**
+1. Open the OptiSigns portal and go to the [**Screens**](https://app.optisigns.com/app/screenManagement)page
+2. Click **Edit Screen** on the preferred screen.
+3. Open the **Advanced** section, expand the **More** settings**.**
 4. Next to **Lock Down**, click the **Activate** button.
 5. Confirm you'd like to Activate.
 6. **Set an unlock password** when prompted.
@@ -70,9 +70,9 @@ The device is now in lock down mode.
 
 ### mceclip1 (1) (3).png
 
-1. Open the OptiSigns portal and go to the [**Screens**](https://app.optisigns.com/app/screenManagement)page
-2. Click **Edit Screen**on the preferred screen.
-3. Open the **Advanced** section, expand the **More** settings**.**
+1. Open the OptiSigns portal and go to the [**Screens**](https://app.optisigns.com/app/screenManagement)page
+2. Click **Edit Screen** on the preferred screen.
+3. Open the **Advanced** section, expand the **More** settings**.**
 4. Click "**Deactivate**" on the right side of the Edit Screen pop-up.
 
 ### On the Device Level
@@ -105,7 +105,7 @@ When using an OptiStick, Pro Player, or ProMax Player, the OptiSigns app is:
 * **Completely Locked Down:** Users can only interact with the content being displayed on the screen.
 * **Side Menu Inaccessible:** Users cannot open the OptiSigns side menu, exit the app, unpair the screen, or mess with the device
 
-Due to OS-level control with OptiSigns devices, this method provides the most cohesive lock down. 
+Due to OS-level control with OptiSigns devices, this method provides the most cohesive lock down. 
 
 #### **Limitations**
 
@@ -199,7 +199,7 @@ If you have many devices and would like to easier manage them, you can use the A
 
 ## That's it!
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
 
 
 

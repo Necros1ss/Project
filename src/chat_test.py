@@ -6,25 +6,20 @@ from google.genai import types
 load_dotenv()
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+GEMINI_FILE_SEARCH_STORE_ID = os.environ.get("GEMINI_FILE_SEARCH_STORE_ID")
+
+if not GEMINI_API_KEY:
+    raise ValueError("GEMINI_API_KEY is not set.")
+if not GEMINI_FILE_SEARCH_STORE_ID:
+    raise ValueError("GEMINI_FILE_SEARCH_STORE_ID is not set in env.")
 
 client = genai.Client(api_key=GEMINI_API_KEY)
 
+store_name = f"fileSearchStores/{GEMINI_FILE_SEARCH_STORE_ID}"
+
 print("How do I add a YouTube video?")
-
 print("Loading...")
-files = []
-youtube_file = None
-try:
-    for f in client.files.list():
-        if f.display_name and f.display_name.startswith("optibot_doc_") and getattr(f, "state", None) == "ACTIVE":
-            files.append(f)
-
-
-except Exception as e:
-    print(f"Lỗi khi lấy danh sách file: {e}")
-
-print(f"Searched articles")
-print("Read article")
+print(f"Searching articles from Gemini Store: {store_name}...")
 
 system_instruction = (
     "You are OptiBot, the customer-support bot for OptiSigns.com.\n"
@@ -36,16 +31,19 @@ system_instruction = (
 
 model = "gemini-2.5-flash"
 
-contents = [
-    types.Part.from_uri(file_uri=f.uri, mime_type=f.mime_type) for f in files
-] + ["How do I add a YouTube video?"]
-
 try:
     response = client.models.generate_content(
         model=model,
-        contents=contents,
+        contents="How do I add a YouTube video?",
         config=types.GenerateContentConfig(
-            system_instruction=system_instruction
+            system_instruction=system_instruction,
+            tools=[
+                types.Tool(
+                    file_search=types.FileSearch(
+                        file_search_store_names=[store_name]
+                    )
+                )
+            ]
         )
     )
 

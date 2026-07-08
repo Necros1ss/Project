@@ -46,7 +46,7 @@ The app can also be placed at the bottom strip of a [Split Screen](https://suppo
 First, you will need to have your [screens set up and paired](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 
 Go to **Files/Assets →** **"App"** and search for the **"AeriCast Wireless Presentation"** app.
@@ -61,7 +61,7 @@ Enter your AeriCast Wireless Presentation app information:
 ![](https://support.optisigns.com/hc/article_attachments/14502481770131)
 
 
-* **Name:** Name of your AeriCast Wireless Presentation app, this is the name of the app in your asset list. It will not be displayed on your screens.
+* **Name:** Name of your AeriCast Wireless Presentation app, this is the name of the app in your asset list. It will not be displayed on your screens.
 * **Title:** Enter a title to be displayed on your screen. For example: "Welcome to Conf. Room N123"
 * **Message:** Enter a message to be displayed on your screen. This could be anything: a fun workplace meme, a reminder message, or instructions on how to use the room.
 * **Expires in:** The 4 digit presenter codes are set to expire every 10 minutes by default. This is to prevent someone saving the code and using it days or weeks later.
@@ -83,7 +83,7 @@ Click **"Advanced"** to set:
 ![firefox_rThQm0OTta.png](https://support.optisigns.com/hc/article_attachments/31248390996243)
 
 
-* **Instruction 1:**The default message is "To present," this can be changed to whatever you like.
+* **Instruction 1:** The default message is "To present," this can be changed to whatever you like.
 * **Instruction 2****:** The default message is "present.optisigns.com," this can be changed to whatever you like.
 * **Instruction 3:** The default message is "and enter the code below to start presenting," this can be changed to whatever you like.
 * **Scrolling strip:** By default is "To present, go to present.optisigns.com and enter", this can be changed to whatever you like.
@@ -118,16 +118,16 @@ You have configured the Aericast Wireless Presentation add-on.
 You can change these settings by clicking on it in the **Files/Assets** tab.
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
 

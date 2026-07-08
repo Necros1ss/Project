@@ -14,10 +14,10 @@ Click **Edit** -> **Advanced** -> check **Show Offline Indicator**
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/12498826962835)
 
 
- 
+ 
 
 
- 
+ 
 
 
 

@@ -1,16 +1,16 @@
 You can replace/change an existing asset (image, video or document) by hovering your mouse over the asset in your library, and click ... then click "Replace asset".
 
 
- 
+ 
 
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/1500019968561)
 
 
- 
+ 
 
 
-A window will pop up.  You can drag in the new file that you want to use.
+A window will pop up. You can drag in the new file that you want to use.
 
 
 Click Upload
@@ -28,7 +28,7 @@ Every where this image is used (playlist, schedule, ScreenZones, etc.) it will b
 ![mceclip3.png](https://support.optisigns.com/hc/article_attachments/1500014828281)
 
 
- 
+ 
 
 
 

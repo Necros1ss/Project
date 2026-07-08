@@ -40,7 +40,7 @@ OptiSigns has three options when it comes to interactive kiosk design, each tail
 You can be reach this section by:
 
 
-1. Navigating to the **[Engage](https://app.optisigns.com/app/engageManagement)**tab
+1. Navigating to the **[Engage](https://app.optisigns.com/app/engageManagement)** tab
 2. Clicking **Touch Screen Kiosks** or by clicking on New App
 3. Click **Select App**
 
@@ -76,7 +76,7 @@ Kiosk Lite is a quick and easy interactive solution for your kiosk. You can show
 | If you have a pre-built asset, such as a playlist, image, or video, that you want to use as an attract screen and then direct users to your website upon interaction, Kiosk Lite is the easiest method to get your kiosk up and running quickly. It's designed for easy use and quick setup, allowing you to get your kiosk running in minutes with engaging content that captures attention and drives user interaction. |
 
 
- 
+ 
 
 
 To get started with **Kiosk Lite**, select and then click **Build**:
@@ -85,7 +85,7 @@ To get started with **Kiosk Lite**, select and then click **Build**:
 ![firefox_S3x7RBwQWC.png](https://support.optisigns.com/hc/article_attachments/31449641333139)
 
 
- 
+ 
 
 
 For a complete guide on how to create your kiosk using the Kiosk Designer Lite, please click on the link below:
@@ -119,7 +119,7 @@ Check out and mess around with this live example to see how the Designer Pro can
 | If you want to build out your kiosk’s design elements in OptiSigns, or direct people to multiple links, Kiosk Designer Pro is the best option for you. |
 
 
- 
+ 
 
 
 To get started with **Kiosk Designer Pro,** select it from the menu, then click **Build**:
@@ -128,7 +128,7 @@ To get started with **Kiosk Designer Pro,** select it from the menu, then click 
 ![RNPHd6J7GA.png](https://support.optisigns.com/hc/article_attachments/31449641334547)
 
 
- 
+ 
 
 
 For a full tutorial on using Kiosk Designer Pro, see our [Kiosk Designer Pro guide](https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro).
@@ -156,7 +156,7 @@ Content Library Kiosk is your personalized hub. Create an organized content libr
 | If you have a large library of content you'd like your users to be able to browse, the Content Library option is for you. Think samples, book titles, movie titles, music, etc. |
 
 
- 
+ 
 
 
 Here are a few live examples of a Content Library Kiosk:
@@ -186,7 +186,7 @@ There are three ways of getting your Kiosk design onto a Touchscreen:
 3. Manually Pushing it to a Screen
 
 
-Note that you'll almost certainly want to enable **[Lock Down mode](https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices#windows)**to prevent users from interfering with any OptiSigns settings on your device.
+Note that you'll almost certainly want to enable **[Lock Down mode](https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices#windows)** to prevent users from interfering with any OptiSigns settings on your device.
 
 
 
@@ -334,7 +334,7 @@ Windows itself offers a built-in [Kiosk Mode (Assigned Access)](https://learn.mi
 
 
 
-This approach works well for locking down the device. 
+This approach works well for locking down the device. 
 
 
 
@@ -358,7 +358,7 @@ Consider using Windows Group Policy or third-party tools to further restrict key
 You've successfully created a Kiosk design in OptiSigns. It can be edited at any time from the **Engage** tab. These Kiosk designs can be added to any existing content schedules or playlists.
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com.](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com.](mailto:support@optisigns.com)
 
 
 

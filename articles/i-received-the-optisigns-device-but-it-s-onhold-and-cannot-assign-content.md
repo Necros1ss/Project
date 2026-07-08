@@ -36,7 +36,7 @@ You can remove them, and reuse the license.
 Or you can [increase more licenses](https://app.optisigns.com/app/s/subscription-plan) if that's what you need.
 
 
- 
+ 
 
 
 Open the OnHold Device folder and see if there are any devices listed
@@ -51,10 +51,10 @@ Open the OnHold Device folder and see if there are any devices listed
 Now to move the screen that you want to move outside the Onhold Device folder. Go to the onhold device folder, click on edit on the screen and select Move. This will move the device out of the onhold Device folder.
 
 
- 
+ 
 
 
-![](https://support.optisigns.com/hc/article_attachments/27676133573139) Congratulations!! your screen should now be ready to use. 
+![](https://support.optisigns.com/hc/article_attachments/27676133573139) Congratulations!! your screen should now be ready to use. 
 
 
 

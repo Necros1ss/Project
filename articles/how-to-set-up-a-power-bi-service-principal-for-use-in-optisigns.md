@@ -6,7 +6,7 @@
 * [Authenticating OptiSigns via Service Principal](#Auth)
 * [Getting Power BI onto a Screen](#Get)
 
-Using a Power BI service principal with app registration is a preferred option for companies with strict information security rules that don't want to use individual user accounts for Power BI integration. 
+Using a Power BI service principal with app registration is a preferred option for companies with strict information security rules that don't want to use individual user accounts for Power BI integration. 
 
 This reduces headaches in situations when:
 
@@ -60,7 +60,7 @@ Enable the **Embed Content in Apps Settings**, as below:
 
 In this example, we’ve set this embed to apply permissions to the entire organization. However, you can restrict access to specific security groups based on your needs. These security settings can be changed as per your requirements.
 
-Next, **Enable Service principals can create workspaces, connections, and deployment pipelines** and **Enable Service Principals can call Fabric public APIs**, as below:
+Next, **Enable Service principals can create workspaces, connections, and deployment pipelines** and **Enable Service Principals can call Fabric public APIs**, as below:
 
 ![image (28)(1).png](https://support.optisigns.com/hc/article_attachments/42225175622675)
 
@@ -133,7 +133,7 @@ In the OptiSigns portal, go to **Files/Assets → Apps → Power BI**
 
 **![how to find powerbi app in optisigns](https://support.optisigns.com/hc/article_attachments/32860569116691)**
 
-Check **Use Service Principal** and select the service principal you set up in the last step, or whichever service principal you want to use. 
+Check **Use Service Principal** and select the service principal you set up in the last step, or whichever service principal you want to use. 
 
 
 

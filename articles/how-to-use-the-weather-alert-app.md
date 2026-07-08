@@ -7,7 +7,7 @@ With the OptiSigns Weather Alert App, you can select a region to receive weather
 This app can be placed in the main screen zone or as a ticker, and it will adjust automatically and fit your screen. Default content can also be set so that when there is no weather alert, this will not be displayed.
 
 
-The Weather Alert App is available to **Standard**plan subscribers and above.
+The Weather Alert App is available to **Standard** plan subscribers and above.
 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/6758166799123)
@@ -16,13 +16,13 @@ The Weather Alert App is available to **Standard**plan subscribers and above.
 ## **Let's jump in and get started:**
 
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 
-Go to **Files/Assets →****App:**
+Go to **Files/Assets →** **App:**
 
 
 ![firefox_kPfbAwbaLY.jpg](https://support.optisigns.com/hc/article_attachments/39068976500115)
@@ -63,8 +63,8 @@ If you have any additional questions, concerns, or feedback about OptiSigns, fee
 
 
 
- 
- 
+ 
+ 
 
 
 

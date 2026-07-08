@@ -4,7 +4,7 @@ By default, uploaded PowerPoint presentation will be played without transition o
 To use the transition, animation effects you can export your PowerPoint to MP4 video.
 
 
-You can do so by Click **File** > **Export** > **Create a Video**. 
+You can do so by Click **File** > **Export** > **Create a Video**. 
 
 
 Select the video quality you want, which pertains to the resolution of the finished video.
@@ -13,16 +13,16 @@ Select the video quality you want, which pertains to the resolution of the finis
 Then Upload to OptiSigns.
 
 
- 
+ 
 
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4407409437715)
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
 

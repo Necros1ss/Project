@@ -1,7 +1,7 @@
 Sometimes you may experience issues with the OptiSigns app. If that happens, you can navigate to the **Troubleshooting page** from the side menu in the OptiSigns app to check the connection status and other details.
 
 
- 
+ 
 
 
 ### **How to Access the Troubleshooting Page**
@@ -52,10 +52,10 @@ From there, you can view detailed information about the app’s status and conne
 
 
 
- 
+ 
 
 
-For **OptiSigns Pro Player** devices 
+For **OptiSigns Pro Player** devices 
 
 
 1. Press the **three-bar button** on the top right of the OptiSigns app.
@@ -86,10 +86,10 @@ From there, you can view detailed information about the app’s status with Abou
 
 
 
- 
+ 
 
 
-For **Windows OS** devices 
+For **Windows OS** devices 
 
 
 1. Press the **three-bar button** on the top right of the OptiSigns app.

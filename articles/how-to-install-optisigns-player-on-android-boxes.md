@@ -18,13 +18,13 @@ There are many Android boxes on the market and their quality varies, software, s
 2) Using OptiSigns's web portal to assign content and manage your screens
 
 
- 
+ 
 
 
 ### **1) Download & Set up OptiSigns Digital Signage from Play Store**
 
 
-Press the Play Store button on the Android Stick,
+Press the Play Store button on the Android Stick,
 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/5539383668243)
@@ -58,7 +58,7 @@ You then will see this pairing screen:
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/26398783267091)
 
 
-Go to our website: [https://app.optisigns.com](https://app.optisigns.com/app/screenManagement)
+Go to our website: [https://app.optisigns.com](https://app.optisigns.com/app/screenManagement)
 
 
 If you don't have an account already, create one, or you can also log in with Google or Facebook account.
@@ -101,7 +101,7 @@ Once you go to our portal at: <https://app.optisigns.com/>to pair the screen and
 * [Create and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
 
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
 
 
 
@@ -111,10 +111,10 @@ If you have feedback on how to make the how-to guides better, please let us know
 
 
 
- 
+ 
 
 
- 
+ 
 
 
 

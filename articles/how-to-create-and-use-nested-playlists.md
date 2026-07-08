@@ -8,7 +8,7 @@ Sometimes, you need to re-use a playlist inside another playlist. This feature i
 
 | **NOTE** |
 | --- |
-| Nested Playlists are available to **[Standard plan](https://www.optisigns.com/pricing)**users and above. |
+| Nested Playlists are available to **[Standard plan](https://www.optisigns.com/pricing)** users and above. |
 
 
 For example, there may be a need for a common or global playlist that you want for all of your screens but require there to be some exceptions for regional-specific content to also be shown. Nested Playlists allow you to be able to manage that in an organized manner.
@@ -59,19 +59,19 @@ If the child playlist duration is longer than this duration, it will get cut off
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360065122574)
 
 
-**Note:**About playlist transition.
+**Note:** About playlist transition.
 
 
 If you set specific transition for playlist items in Global, this transition setting will remain.
 
 
- 
+ 
 
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
 

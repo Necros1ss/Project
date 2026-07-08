@@ -4,16 +4,16 @@ When you delete your account, all your data, images, videos, assets, playlists, 
 After your account is deleted, you can sign up again with the same username.
 
 
- 
+ 
 
 
 ### To request the permanent deletion of your account:
 
 
-Before deleting your account, you may want to log in and download a copy of your information (like your images and Designer assets) from OptiSigns. After your account has been deleted, you will not have access to your account.
+Before deleting your account, you may want to log in and download a copy of your information (like your images and Designer assets) from OptiSigns. After your account has been deleted, you will not have access to your account.
 
 
-* Go to the [Company Setting](https://app.optisigns.com/app/s/company-profile) page from a browser.
+* Go to the [Company Setting](https://app.optisigns.com/app/s/company-profile) page from a browser.
 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4404608920211)

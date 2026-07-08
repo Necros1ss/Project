@@ -7,13 +7,13 @@ Or at the bottom strip:
 ![](https://support.optisigns.com/hc/en-us/article_attachments/14558304494483/57587dcb74a671880199ecea65c2e566f11ddffdd56714dde673d8b07a3d973e.png)
 
 
-You can click [here](https://support.optisigns.com/hc/en-us/articles/14502723487379) to know how to create the AeriCast Wireless Presentation app 
+You can click [here](https://support.optisigns.com/hc/en-us/articles/14502723487379) to know how to create the AeriCast Wireless Presentation app 
 
 ## **Let's jump in and get started:**
 
 
 
-Go to [present.aericast.com](https://present.aericast.com/)(we recommend Chrome or FireFox for best experience).
+Go to [present.aericast.com](https://present.aericast.com/) (we recommend Chrome or FireFox for best experience).
 Enter the 4 digit codes
 Click Continue
 ![](https://support.optisigns.com/hc/article_attachments/14502304608531)
@@ -28,8 +28,8 @@ You can select sharing:
 
 
 ![](https://support.optisigns.com/hc/article_attachments/14502351030035)
- 
-You can stop presenting by click either the "Stop" button or "Stop Sharing" button. 
+ 
+You can stop presenting by click either the "Stop" button or "Stop Sharing" button. 
 ![](https://support.optisigns.com/hc/article_attachments/14502387545875)
 If there are more than 1 presenters, you can share the Presenter Code with your colleague so they can join the room as presenters.
 ![](https://support.optisigns.com/hc/article_attachments/14502381725075)
@@ -43,7 +43,7 @@ You can also present from iOS, Android phone, or tablet to your screen. Click [h
 ![AeriCast_Presenter_QR.png](https://support.optisigns.com/hc/article_attachments/23736190630547)  
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
 
- 
+ 
 
 ---
 Article URL: https://support.optisigns.com/hc/en-us/articles/14502378549907-Present-share-your-screen-with-OptiSigns-AeriCast-Add-on

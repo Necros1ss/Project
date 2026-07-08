@@ -25,9 +25,9 @@ Operational Schedule allows you to schedule when your TV powers on/off and to co
 | --- |
 | * You will need the **Pro+ Plan** or above to have access to this HDMI-CEC and RS-232 feature. The HDMI-CEC or RS-232 capabilities allow you to Power On/Off your TV using the Operational Schedule, and change the volume or mute the screen. |
 | * If you have the **Free** or **Standard** plan and create an Operational Schedule, the player will display black to save power and device life. Free and Standard plan users will not have access to the "Advanced Scheduling" option: |
-| * To access Operational Schedule with an HDMI-CEC port, you will need our [**OptiSigns OptiStick**](https://shop.optisigns.com/products/optisigns-android-stick-player-2), [**Pro Signage Player**](https://shop.optisigns.com/products/optisigns-digital-signage-player), or [**ProMax Player**](https://support.optisigns.com/hc/en-us/articles/38680194603155-OptiSigns-ProMax-Player). The player will need to be plugged in to an HDMI-CEC port to function. RS-232 functionality can be used with any device which supports it. 	+ Please ensure your OptiStick device is ***powered from an outlet, not the screen's USB port.***If plugged into the USB port, the act of turning off the screen will also power off the device - meaning, it will not be able to turn the screen back on. 	+ Operational Scheduling is not supported on Roku nor Samsung Tizen devices. The option will not be visible. |
+| * To access Operational Schedule with an HDMI-CEC port, you will need our [**OptiSigns OptiStick**](https://shop.optisigns.com/products/optisigns-android-stick-player-2), [**Pro Signage Player**](https://shop.optisigns.com/products/optisigns-digital-signage-player), or [**ProMax Player**](https://support.optisigns.com/hc/en-us/articles/38680194603155-OptiSigns-ProMax-Player). The player will need to be plugged in to an HDMI-CEC port to function. RS-232 functionality can be used with any device which supports it. 	+ Please ensure your OptiStick device is ***powered from an outlet, not the screen's USB port.*** If plugged into the USB port, the act of turning off the screen will also power off the device - meaning, it will not be able to turn the screen back on. 	+ Operational Scheduling is not supported on Roku nor Samsung Tizen devices. The option will not be visible. |
 
- 
+ 
 
 **One last important note:**
 
@@ -35,7 +35,7 @@ HDMI-CEC is referred to by numerous names. Depending on the brand of your TV or 
 
 Here is a complete list of [**TV Manufacturer CEC Names**](https://support.klipsch.com/hc/en-us/articles/360045728971-TV-Manufacturer-CEC-Names). Simply find your device on the list and enable HDMI-CEC, if necessary. This will solve a lot of issues by itself.
 
- 
+ 
 
 
 
@@ -77,7 +77,7 @@ On most displays, HDMI-CEC or RS-232 will need to be enabled before Operational 
 
 Here is how to test your HDMI-CEC or RS-232 connection to make sure it works as it should.
 
-Go to **Edit Screen → Advanced → More**: 
+Go to **Edit Screen → Advanced → More**: 
 
 Click the **Arrow** in the right hand corner of the popup, next to the **Save** option. This will bring up several options. Hit **Send HDMI CEC** or **Send RS232**:
 

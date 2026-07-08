@@ -74,7 +74,7 @@ Additional options will appear once your URL is placed in the field and hit **Ne
 ### Public Slides
 
 
-A Public slide is one that reads **Anyone with the link**. 
+A Public slide is one that reads **Anyone with the link**. 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/48704526167443)
@@ -84,7 +84,7 @@ When a URL to a Public slide is placed in the **URL** field in the Google Slides
 
 ![](https://support.optisigns.com/hc/article_attachments/48704526169875)
 
-**Update Interval -** Choose how often OptiSigns will check your Google Sheet for updates. Measured in seconds. Default is 600 seconds (10 minutes). If 0 is input, it will only refresh each time it loads - useful for using this asset in a Playlist. 
+**Update Interval -** Choose how often OptiSigns will check your Google Sheet for updates. Measured in seconds. Default is 600 seconds (10 minutes). If 0 is input, it will only refresh each time it loads - useful for using this asset in a Playlist. 
 
 **Auto-advance slides -** Choose how quickly your slides will advance. Measured in seconds. If your Google Slide asset is the only asset assigned to your screen, once it reaches the end of the slideshow it will loop from the beginning.
 
@@ -140,7 +140,7 @@ Click **Advanced** to expand the field and provide an additional option:
 
 | **IMPORTANT** |
 | --- |
-| The way our app works with Private slideshows is that it uses a webhook to automatically fetch new instances of it when updates are made. Depending on how many updates are made, it will be either near real-time or lag a couple hours.  Force Sync Interval is more of a fallback system. The absolute minimum we are able to Force Sync is **1 hour**. Only do this if you really, really need constantly updated data from your slideshow. Otherwise, the 12 hour default Force Sync Interval will work for most use cases. |
+| The way our app works with Private slideshows is that it uses a webhook to automatically fetch new instances of it when updates are made. Depending on how many updates are made, it will be either near real-time or lag a couple hours.  Force Sync Interval is more of a fallback system. The absolute minimum we are able to Force Sync is **1 hour**. Only do this if you really, really need constantly updated data from your slideshow. Otherwise, the 12 hour default Force Sync Interval will work for most use cases. |
 
 
 
@@ -160,7 +160,7 @@ Here, select **Asset** under Content type, then hit **Change** next to Selected 
 
 ![](https://support.optisigns.com/hc/article_attachments/48704528605203)
 
-Now hit **Save**. Your Google Slides asset will play on 
+Now hit **Save**. Your Google Slides asset will play on 
 
 ### Using a Google Slides Asset in a Playlist
 

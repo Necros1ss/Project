@@ -64,7 +64,7 @@ On the left side menu, you can set Orientation, etc. The app has AutoStart and F
 ![3.png](https://support.optisigns.com/hc/article_attachments/360085364994)
 
 
-You now can go to our portal at: <https://app.optisigns.com/> to pair the screen.
+You now can go to our portal at: <https://app.optisigns.com/> to pair the screen.
 
 
 ![4.png](https://support.optisigns.com/hc/article_attachments/360086554593)
@@ -108,10 +108,10 @@ Once you go to our portal at: <https://app.optisigns.com/>to pair the screen and
 * [Create and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
 
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
 

@@ -17,7 +17,7 @@ Let's get started!
 ## Method 1: Edit screen and assign the content
 
 
-This method is more suitable if you are assigning content on specific screens and you want it to go live immediately. You can also select a list of screens and do a group edit. 
+This method is more suitable if you are assigning content on specific screens and you want it to go live immediately. You can also select a list of screens and do a group edit. 
 
 
 ### To Edit One Screen:
@@ -86,7 +86,7 @@ This method allows the user to apply more conditions when pushing content to scr
 
 
 * **Screens:** Select the screen(s) you want to target
-* **Tags:**If your screens have assigned tags, select those tags and any screen with those tags will be targeted.
+* **Tags:** If your screens have assigned tags, select those tags and any screen with those tags will be targeted.
 * **Tag Rules:** Allows you to define more complex conditions when selecting target screens, which you can learn more [here.](https://support.optisigns.com/hc/en-us/articles/20879903340947)
 
 
@@ -98,7 +98,7 @@ This method allows the user to apply more conditions when pushing content to scr
 ### What Happens if Your Screen Already has an Assigned Playlist?
 
 
-When the target screens are currently running a playlist, when you push the contents to the screen, you will be given the option to either include the asset in the currently running playlist or override the playlist with the asset. It will show "**Screens(s) using playlist**". 
+When the target screens are currently running a playlist, when you push the contents to the screen, you will be given the option to either include the asset in the currently running playlist or override the playlist with the asset. It will show "**Screens(s) using playlist**". 
 
 
 ![](https://support.optisigns.com/hc/article_attachments/19209188203283)

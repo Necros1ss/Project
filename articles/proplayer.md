@@ -34,7 +34,7 @@ This device is preconfigured for easy setup, allowing you to manage content remo
 
 ### How to Order the OptiSigns Pro Digital Signage Player:
 
-* Buy directly from the OptiSigns [Website](https://shop.optisigns.com/products/optisigns-digital-signage-player)
+* Buy directly from the OptiSigns [Website](https://shop.optisigns.com/products/optisigns-digital-signage-player) 
 	+ Shipping time - 3-5 days to most locations in the US
 
 ## Hardware Specifications
@@ -192,7 +192,7 @@ If you ever need to reboot your device, view logs, or revisit the Wi-Fi setup, y
 
 ## That’s it!
 
-You’re all set up and ready to go. Now, dive into the countless possibilities to enhance your digital displays with OptiSigns' powerful apps and integrations. 
+You’re all set up and ready to go. Now, dive into the countless possibilities to enhance your digital displays with OptiSigns' powerful apps and integrations. 
 
 
 

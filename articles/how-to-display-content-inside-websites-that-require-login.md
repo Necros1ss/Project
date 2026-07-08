@@ -14,19 +14,19 @@ The solution is simple, you just need to:
 * Put it in the Website app in OptiSigns
 * Then put the asset on your screen or in the playlist as an asset
 * When it shows up on your device, just use your mouse & keyboard to enter in username and password (remember to save credentials, for Fire TV, you may need a [Bluetooth mouse & keyboard](https://www.amazon.com/Logitech-Illuminated-Living-Room-Keyboard-Touchpad/dp/B00ZOPVSKW/) to pair and type this information in).
-* If you don't have a Bluetooth mouse & keyboard, you can use a [USB HUB adaptor](https://support.optisigns.com/hc/en-us/articles/360055080914) to connect with your mouse & keyboard.
+* If you don't have a Bluetooth mouse & keyboard, you can use a [USB HUB adaptor](https://support.optisigns.com/hc/en-us/articles/360055080914) to connect with your mouse & keyboard.
 
 
 That's it, the credential will be saved, and every time OptiSigns plays the link, it will show the secured information inside the website.
 
 
- 
+ 
 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360049022994)
 
 
- 
+ 
 
 
 Enter the Website URL:
@@ -44,7 +44,7 @@ Note: Browser Popup kind of password is not supported for Android, FireStick pla
 You can also prefill a password in your URL for the Browser Popup case such as: <https://guest:guest@jigsaw.w3.org/HTTP/Basic/>
 
 
- 
+ 
 
 
 

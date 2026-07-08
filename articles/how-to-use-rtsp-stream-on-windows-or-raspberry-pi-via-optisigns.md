@@ -62,7 +62,7 @@ Step 6. Type "**9999**" in the "**Port**" and "**/stream.ogv**" in "**Path**". T
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/8099130145555)
 
 
-Step 7. Select "**Video-Theora+Vorbis (OGG)**". Then click "**Next**"
+Step 7. Select "**Video-Theora+Vorbis (OGG)**". Then click "**Next**"
 
 
 ![mceclip11.png](https://support.optisigns.com/hc/article_attachments/8066996433683)
@@ -98,7 +98,7 @@ Enter your RTSP Stream App information:
 ## mceclip3.png
 
 
-* Name: Name of your RTSP Stream app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
+* Name: Name of your RTSP Stream app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 * URL: the URL link will be your local IP address with your setup. (http://[Your IP address]:[Port]/[path])
 
 
@@ -117,7 +117,7 @@ You can change the wall at any time by clicking on it in the Files/Assets tab.
 You can put the walls in a Playlist, Schedule too.
 
 
- 
+ 
 
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

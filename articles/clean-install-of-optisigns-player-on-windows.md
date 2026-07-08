@@ -31,7 +31,7 @@ To perform a clean install first follow these steps to completely remove OptiSig
 ![](https://support.optisigns.com/hc/article_attachments/19771754440723)
 
 
- 
+ 
 
 
 Then you can download the latest OptiSigns Windows version here:
@@ -43,7 +43,7 @@ Then you can download the latest OptiSigns Windows version here:
 And install it again.
 
 
- 
+ 
 
 
 That's all you have performed a clean uninstall and reinstall of OptiSigns player.
@@ -52,13 +52,13 @@ That's all you have performed a clean uninstall and reinstall of OptiSigns playe
 If you still experiencing issues, please contact us at support@optisigns.com
 
 
- 
+ 
 
 
- 
+ 
 
 
- 
+ 
 
 
 

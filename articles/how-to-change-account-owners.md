@@ -12,7 +12,7 @@ You can change owner to another user/admin in OptiSigns by:
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4404609100051)
 
-* It will pop out a warning message. If you confirm it, please type "**CONTINUE**" and click OK to continue.
+* It will pop out a warning message. If you confirm it, please type "**CONTINUE** " and click OK to continue.
 
 ### **mceclip2.png**
 
@@ -30,9 +30,9 @@ To do this, an authorized representative will need to fill out [this form](https
 
 You have changed the owner to another account successfully.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
- 
+ 
 
 
 

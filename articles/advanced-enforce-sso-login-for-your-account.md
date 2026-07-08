@@ -65,7 +65,7 @@ For more information, see our guide on **[User Management](https://support.optis
 
 
 
-| **NOTE:**  This feature is available to **Pro Plus**, **Engage**, and **Enterprise** plan users. |
+| **NOTE:**  This feature is available to **Pro Plus**, **Engage**, and **Enterprise** plan users. |
 | --- |
 
 

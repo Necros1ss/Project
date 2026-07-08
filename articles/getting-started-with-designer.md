@@ -87,7 +87,7 @@ By default, each new design will be titled “Your new untitled design,” as sh
 
 We recommend changing this name as soon as possible, as, while it is possible to save a design with the default name, it will be hard to identify in your Assets folder.
 
-![](https://support.optisigns.com/hc/article_attachments/42282228321299)Once the design has been given a name, it will appear there throughout the design process. 
+![](https://support.optisigns.com/hc/article_attachments/42282228321299)Once the design has been given a name, it will appear there throughout the design process. 
 
 ### Move, Save, New Design, and Download Functions
 
@@ -187,7 +187,7 @@ Clicking a Shape or Element will add it to the design:
 
 ![shape added to design](https://support.optisigns.com/hc/article_attachments/42088011940115)Shapes are reactive and can be resized or rotated at will:
 
-![firefox_9GYjGYVRec.gif](https://support.optisigns.com/hc/article_attachments/42278925006227) 
+![firefox_9GYjGYVRec.gif](https://support.optisigns.com/hc/article_attachments/42278925006227) 
 
 
 
@@ -307,7 +307,7 @@ These options allow you to **Preview** what the design will look like when displ
 The **Preview** button will show what your design will look like if pushed to a screen.
 
   
-![designer preview](https://support.optisigns.com/hc/article_attachments/42095571715859)Please note that this **Preview** may be slightly different than what will actually appear depending on the hardware you are using to run OptiSigns and various other factors. 
+![designer preview](https://support.optisigns.com/hc/article_attachments/42095571715859)Please note that this **Preview** may be slightly different than what will actually appear depending on the hardware you are using to run OptiSigns and various other factors. 
 
 #### Push to Screens
 
@@ -391,7 +391,7 @@ When selected, the hand tool icon will turn green and your cursor will change to
 
 ## Side Menu - Additional Functions
 
-The **Side Menu** is where most of the Additional Functions for the OptiSigns Designer app live. 
+The **Side Menu** is where most of the Additional Functions for the OptiSigns Designer app live. 
 
 ![left navbar designer](https://support.optisigns.com/hc/article_attachments/42095580131219)These functions are what allow you to transform your design from a simple, static image into dynamic signage with:
 
@@ -422,14 +422,14 @@ To go back to the old 1.0 version of Designer, simply click the **Use Designer 1
 | --- |
 | Designer 1.0 is planned to be obsoleted by end-of-year 2025, and all designs created going forward will use Designer 2.0. |
 
- 
+ 
 
 ### **That’s all!**
 
-OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
 
   
- 
+ 
 
 
 

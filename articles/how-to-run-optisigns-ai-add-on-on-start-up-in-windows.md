@@ -47,7 +47,7 @@ Then click **Finish**
 ![mceclip5.png](https://support.optisigns.com/hc/article_attachments/360098752154)
 
 
- 
+ 
 
 
 That's all!
@@ -56,7 +56,7 @@ That's all!
 Next time your PC start up, it will start OptiSigns AI Detection app, doing it this way will also ensure that it will get started before the OptiSigns Digital Signage Player app start.
 
 
- 
+ 
 
 
 

@@ -6,7 +6,7 @@ Click Share and Copy Share to web URL.
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/5174799770003)
 
 
-Go to [app.optisigns.com](https://app.optisigns.com/).
+Go to [app.optisigns.com](https://app.optisigns.com/).
 
 
 Click Files/Assets, then click Apps
@@ -50,7 +50,7 @@ You can assign the newly created app to your screen by going to Screens, click E
 You can put the apps in a Playlist, Schedule too.
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
 
 
 

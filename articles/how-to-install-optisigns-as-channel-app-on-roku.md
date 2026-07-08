@@ -7,10 +7,10 @@
 Roku platform has a lot of restrictions. **In short, if you just need to display static menus or simple slideshows, and don't mind spending some time setting it up, then it's OK.**
 
 
-For better compatibility and reliability, we recommend a dedicated player like our [Android Stick Player,](https://links.optisigns.com/szzk) Google ChromeCast, or any [Windows, Mac, Linux](https://www.optisigns.com/download) devices.
+For better compatibility and reliability, we recommend a dedicated player like our [Android Stick Player,](https://links.optisigns.com/szzk) Google ChromeCast, or any [Windows, Mac, Linux](https://www.optisigns.com/download) devices.
 
 
- 
+ 
 
 
 ### **How to Install OptiSigns Player on Roku:**
@@ -54,7 +54,7 @@ First, please update these two settings on your Roku device.
 
 
 1. Install OptiSigns channel/app on your Roku
-2. Pair your screen with [OptiSign portal](https://app.optisigns.com/) and start assigning content to it
+2. Pair your screen with [OptiSign portal](https://app.optisigns.com/) and start assigning content to it
 
 
 
@@ -64,10 +64,10 @@ First, please update these two settings on your Roku device.
 There are 2 ways to install OptiSigns.
 
 
-1. Add the Optisigns channel to your account: <https://my.roku.com/add/optisigns>  
+1. Add the Optisigns channel to your account: <https://my.roku.com/add/optisigns>  
 And add it to your devices.
 2. Search for Optisigns on your Roku device  
- On your Roku TV, Search for OptiSigns Channel.
+ On your Roku TV, Search for OptiSigns Channel.
 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360058620454)
@@ -89,10 +89,10 @@ First time when launched, you will see this screen:
 Now you are ready to go to our portal at: <https://app.optisigns.com/>
 
 Pair the screen using your screen's code and start assigning content to it.
-For detailed steps click [here](https://support.optisigns.com/hc/en-us/articles/360016374813).
+For detailed steps click [here](https://support.optisigns.com/hc/en-us/articles/360016374813).
 
 
- 
+ 
 
 
 #### Optional:
@@ -107,13 +107,13 @@ You can remove the click sound in the Roku settings.
 Go to Settings > Audio > Menu Volume. Set this to **Off**.
 
 
- 
+ 
 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
 
 
- 
+ 
 
 
 

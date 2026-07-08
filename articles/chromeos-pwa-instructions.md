@@ -145,7 +145,7 @@ This file contains a JSON object. This is what you will need to set up auto-prov
 
 Now, go back to [**Google Admin**](http://admin.google.com) and navigate back to the **Apps & Extensions** menu.
 
-Click the **OptiSigns extension** then 
+Click the **OptiSigns extension** then 
 
 ![optisigns provisioning id](https://support.optisigns.com/hc/article_attachments/49039295555347)
 
@@ -181,7 +181,7 @@ This will allow OptiSigns to run!
 
 ### That's all!
 
-OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).  
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
 
 
 

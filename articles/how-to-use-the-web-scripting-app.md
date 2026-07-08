@@ -31,7 +31,7 @@ If your dashboard requires login with the 2FA, OptiSigns supports the 2FA in the
 
 | **NOTE** |
 | --- |
-| Web Scripting is not supported on: * Samsung SSSP smart TVs * LG WebOS smart TVs * Apple TV devices |
+| Web Scripting is not supported on: * Samsung SSSP smart TVs * LG WebOS smart TVs * Apple TV devices |
 
 
 
@@ -93,19 +93,19 @@ Then fill out the forms. (such as, entering your username, password and click Lo
 | **Always click the Login button,** instead of Enter. |
 | **Correctly enter your fields in 1 attempt!** Type slow and carefully. Don't use backspaces or arrows keys to modify. If you mess up, please restart this step from the beginning. |
 
- 
+ 
 
 ![mceclip6.png](https://support.optisigns.com/hc/article_attachments/1500019660182)
 
 You can click around, navigate to certain page, position on page etc.
 
-Once you are done,  click on the **Navigation Recorder Extension icon** and click **Stop Recording.**
+Once you are done, click on the **Navigation Recorder Extension icon** and click **Stop Recording.**
 
 This will close the Incognito window that you are working on.
 
 ![mceclip7.png](https://support.optisigns.com/hc/article_attachments/1500019933181)
 
- 
+ 
 
 Go back to Chrome, click **Navigation Recorder icon.**  
 Click "**Copy to Clipboard**". This will copy your script to clipboard.  
@@ -215,7 +215,7 @@ It then sends securely to devices, and decrypted at device level right before ex
 
 Congratulations, you have created Web Scripting assets! Now you can automatically log in to gated websites and navigate to pages as needed.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) 
 
 
 

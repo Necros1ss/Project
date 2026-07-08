@@ -32,13 +32,13 @@ Download the latest SD Card image for [Raspberry Pi 4](https://links.optisigns.c
 
 Unzip and Flash the SD Card image to your SD Card (minimum 16GB card is required).
 
-Note: If using [Raspberry Pi Imager](https://www.raspberrypi.com/software/)  instead of Etcher below, WIFI settings can be configured.
+Note: If using [Raspberry Pi Imager](https://www.raspberrypi.com/software/) instead of Etcher below, WIFI settings can be configured.
 
 
-**Download and Install Etcher.** Please click [**here to download Etcher**](https://www.balena.io/etcher/)**.**
+**Download and Install Etcher.** Please click [**here to download Etcher**](https://www.balena.io/etcher/)**.**
 ![](https://support.optisigns.com/hc/article_attachments/34728529852307)Open **Etcher software** and select the **OptiSigns .img file** that you just unzipped.![](https://support.optisigns.com/hc/article_attachments/34728545802259)Select the **SD card drive.**
 **![](https://support.optisigns.com/hc/article_attachments/34728529863699)**Click **"Flash".**
-**![](https://support.optisigns.com/hc/article_attachments/34728545814547)** After flashing the SD card and booting up, **connect to your network.**
+**![](https://support.optisigns.com/hc/article_attachments/34728545814547)** After flashing the SD card and booting up, **connect to your network.**
 OptiSigns is preinstalled and will auto-start on start-up.Next you can skip to **step 2) iv)** to pair the screens and start assigning content.![optisigns app with arrow pointing to hamburger menu](https://support.optisigns.com/hc/article_attachments/360087500074)
 
 ---
@@ -70,12 +70,12 @@ Download a fresh image of Raspberry Pi OS. We recommend:* [Raspberry Pi 64-bit f
 | --- |
 | For Raspberry Pi 5, we recommend a 64-bit OS for best performance. For Raspberry Pi 4 or below, we recommend 32-bit. However, 64-bit systems will work in any case. |
 
- 
+ 
 
 
 Next, use a tool like [Etcher](https://www.balena.io/etcher/) to flash the image to your SD Card.
 
-**![](https://support.optisigns.com/hc/article_attachments/34728545820691)** After flashing the SD card and booting up, you can connect to your network by exiting OptiSigns, mousing up to the top of the Desktop, then clicking the **Network** button.![raspberry pi os with arrow pointing at network option](https://support.optisigns.com/hc/article_attachments/34726239980563)
+**![](https://support.optisigns.com/hc/article_attachments/34728545820691)** After flashing the SD card and booting up, you can connect to your network by exiting OptiSigns, mousing up to the top of the Desktop, then clicking the **Network** button.![raspberry pi os with arrow pointing at network option](https://support.optisigns.com/hc/article_attachments/34726239980563)
 ### **Step 2: Run/update FUSE**
 
 
@@ -108,7 +108,7 @@ sudo apt install -y fuse
 
 ```
 
-As long as you have a valid internet connection, this will install the latest version of FUSE. 
+As long as you have a valid internet connection, this will install the latest version of FUSE. 
 
 
 ### **Step 3: Download OptiSigns AppImage to your Raspberry Pi OS an run it**
@@ -123,17 +123,17 @@ After that, double-click on the AppImage file to execute it. In the pop-up, sele
 
   
 Raspberry Pi is not very fast, so it may take a few seconds to load. The app will run in full-screen mode, and generate a pairing code for you to pair with the [app.optisigns.com](http://app.optisigns.com/) portal. You can also move the mouse around, and you will see the top 3 buttons to resize, open side bar menu, or close the app.
- ![optisigns app with arrow pointing to hamburger menu](https://support.optisigns.com/hc/article_attachments/360087500074)
+ ![optisigns app with arrow pointing to hamburger menu](https://support.optisigns.com/hc/article_attachments/360087500074)
 
 On the side menu, you can set Orientation, etc. The app has Autostart and Fullscreen on Startup checked as default. So now, the next time the Raspberry Pi starts up, it will run OptiSigns app automatically.  
   
- 
+ 
 
 ![optisigns app menu open](https://support.optisigns.com/hc/article_attachments/360087500094)
- 
+ 
 ### **Step 4: Pair your screen with the OptiSigns portal.**
 
-You can now go to our portal at: <https://app.optisigns.com/> to pair the screen.  If you don't have an account already, create one, or you can also log in with Google or Facebook account.
+You can now go to our portal at: <https://app.optisigns.com/> to pair the screen.  If you don't have an account already, create one, or you can also log in with Google or Facebook account.
 
 ![optisigns URL being entered in browser](https://support.optisigns.com/hc/article_attachments/360086552573)
 

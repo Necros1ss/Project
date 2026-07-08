@@ -18,7 +18,7 @@
 5. [Common Issues](https://support.optisigns.com/hc/en-us/articles/1500005888781#Common)
 
 
- 
+ 
 
 
 
@@ -34,7 +34,7 @@ Canva's extensive customization options allow users to tailor designs to their s
 Additionally, Canva's accessibility and user-friendly interface make it a valuable resource for users of all skill levels, ensuring that anyone can create impressive digital signage with ease. Whether for businesses, educational institutions, or personal projects, Canva's versatile platform supports a wide range of digital signage applications.
 
 
- 
+ 
 
 
 ## Option 1: Export and Upload Canva Images and Videos (Recommended)
@@ -73,10 +73,10 @@ After downloading your chosen file type, you can upload it to OptiSigns.
 **2.** Go to your **[Files/Assets Page.](https://app.optisigns.com/app/assetManagement)**
 
 
-**3.** Click **Apps** → Search for **Canva.**
+**3.** Click **Apps** → Search for **Canva.**
 
 
-**4. Drag and drop** or **Upload** your file into **Option 1 →**Click **Upload File.**
+**4. Drag and drop** or **Upload** your file into **Option 1 →** Click **Upload File.**
 
 
 ![QHs1KK6IJL.gif](https://support.optisigns.com/hc/article_attachments/29418667320211)
@@ -85,7 +85,7 @@ After downloading your chosen file type, you can upload it to OptiSigns.
 Now, you've successfully uploaded your Canva image to OptiSigns!
 
 
- 
+ 
 
 
 
@@ -128,7 +128,7 @@ To use the Canva Embedded link, start by navigating to your selected design on C
 **5.** Paste the **HTML** **embed code** inside the **Embed Code** text box to enable automatic updates.
 
 
-**6.** Click **Save,** then your asset will be successfully added to your asset library!
+**6.** Click **Save,** then your asset will be successfully added to your asset library!
 
 
 ![chrome_Et7orRVj6K.gif](https://support.optisigns.com/hc/article_attachments/29418667369619)
@@ -177,7 +177,7 @@ When incorporating a Live Embed from Canva into OptiSigns, Canva does not automa
 This setup guarantees that any changes made in Canva will automatically update and advance in the live display through OptiSigns' Playlist functionality. This eliminates the need to manually replace entire slides, streamlining the content management process.
 
 
- 
+ 
 
 
 

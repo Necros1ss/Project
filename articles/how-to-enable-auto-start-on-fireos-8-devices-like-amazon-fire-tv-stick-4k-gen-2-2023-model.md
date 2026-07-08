@@ -34,7 +34,7 @@ On your Fire Stick, navigate to the settings then select “My Fire TV” then c
 ![](https://support.optisigns.com/hc/article_attachments/23274690253587)
 
 
- 
+ 
 
 
 #### **Step 2:**

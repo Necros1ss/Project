@@ -59,7 +59,7 @@ One Amazon account can be used for as many Fire Stick as you'd like. So you only
 **3. Use a different/guest WiFi network for your Fire Stick**
 
 
-If you concern about your main WiFi network, or if your organization has some very restrictive Firewall set up and make using Fire Stick on the organization network not possible. You can set up a guest WiFi network for your Fire Stick. It's common for organization to have guest network with less restriction, and most of the modern WiFi routers, systems support it now. Speed is not a major concern for Digital Signage application, and OptiSigns only need a simple access to internet to work. 
+If you concern about your main WiFi network, or if your organization has some very restrictive Firewall set up and make using Fire Stick on the organization network not possible. You can set up a guest WiFi network for your Fire Stick. It's common for organization to have guest network with less restriction, and most of the modern WiFi routers, systems support it now. Speed is not a major concern for Digital Signage application, and OptiSigns only need a simple access to internet to work. 
 
 
 **4. Using Ethernet Cable for your network**
@@ -75,9 +75,9 @@ Amazon regularly release security fixes, patches for Fire OS.
 It's automatically pushed to your devices. But you can manually check by:
 
 
-* Select **Settings > My Fire TV > Device**from the Fire OS setting menu.
-* Go to Software Version section to view the software version currently installed on your Fire TV.
-* Select **Check for System Update**to see if a software update is available for your device.
+* Select **Settings > My Fire TV > Device** from the Fire OS setting menu.
+* Go to Software Version section to view the software version currently installed on your Fire TV.
+* Select **Check for System Update** to see if a software update is available for your device.
 
 
 **6. Don't download other apps to the Fire Stick**
@@ -89,7 +89,7 @@ If the Fire Stick is used for Digital Signage, you don't need to download other 
 If you need to download other app, it's best to stick with official apps on the Amazon App Store only.
 
 
- 
+ 
 
 
 That's it, these are the common security considerations if you want to more securely deploy your Fire Stick as digital signage player.
@@ -112,7 +112,7 @@ Or ChromeOS devices, ChromeOS is known for its enterprise support, from hardened
 Feel free to reach out to us at [support@optisigns.com](mailto:support@optisigns.com) for a free consultation call regard this topic.
 
 
- 
+ 
 
 
 

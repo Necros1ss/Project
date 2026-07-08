@@ -33,7 +33,7 @@ Go to Files/Assets, Click on "App" and add LinkedIn on your Account.
 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4406206658963)
- 
+ 
 
 
 Click LinkedIn:
@@ -42,7 +42,7 @@ Click LinkedIn:
 
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4406206698899)
- 
+ 
 Click "SIGN IN WITH LINKEDIN" and sign in with your credentials.  
   
 
@@ -60,7 +60,7 @@ Enter your LinkedIn Wall information:
 
 * Name: Name of your LinkedIn Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 * Company: Company page you want to use (if you have more than 1). **Important**: you can only set this one time during the creation of the asset, if you want to change this later, you should delete the old asset and create a new one.
-* Display Mode: Select [**Single Post View**](https://social-player.optisigns.com/instagram/?asset_id=y89t3dg76jewc7nec), **[Social Wall View](https://social-player.optisigns.com/instagram/?asset_id=ry2oyv3hqui83njer)**, **[Social Kiosk View](https://social-player.optisigns.com/instagram/?asset_id=0csdimtv6c6p2blg8)** or **[Brick View](https://social-player.optisigns.com/instagram/?asset_id=0csdimtv6c6p2blg8)**. Click on the links to see live example.
+* Display Mode: Select [**Single Post View**](https://social-player.optisigns.com/instagram/?asset_id=y89t3dg76jewc7nec), **[Social Wall View](https://social-player.optisigns.com/instagram/?asset_id=ry2oyv3hqui83njer)**, **[Social Kiosk View](https://social-player.optisigns.com/instagram/?asset_id=0csdimtv6c6p2blg8)** or **[Brick View](https://social-player.optisigns.com/instagram/?asset_id=0csdimtv6c6p2blg8)**. Click on the links to see live example.
 * Theme: Select Light or Dark Theme. You can also customize your background color if you select Custom.
 
 
@@ -81,18 +81,18 @@ You can click Advanced and set:
 
 
 * Moderation: This is option for you to moderate your content (show, hide certain posts), default is "Always show new posts" meaning all new posts are automatically show up, no review, approval needed. You can read more about [content moderation feature here](https://support.optisigns.com/hc/en-us/articles/4403015887763).
-* Filter Posts: By Time (i.e last 30 days) or by last XX number of posts
+* Filter Posts: By Time (i.e last 30 days) or by last XX number of posts
 * Scrolling Strip Font Size: If you put the LinkedIn app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be
 * Continue Playing Content in Playlist: In the playlist, the LinkedIn app plays 10 items in the 1st round, and it will start with #11 item in the 2nd round.
 
 
- 
+ 
 
 
 ![mceclip9.png](https://support.optisigns.com/hc/article_attachments/4406206997267)
 
 
- 
+ 
 
 
 
@@ -107,12 +107,12 @@ After Saving, you can Preview the wall. It may take several seconds for the app 
 
 
 
- 
+ 
 ## **That's all! Congratulations!**
 
 
 You have created your LinkedIn Wall.  
-You can change the wall any time by click on it in the Files/Assets tab. 
+You can change the wall any time by click on it in the Files/Assets tab. 
 
 
 You can assign the newly created wall to your screen by going to Screens, click Edit screens and assign the wall to screens that you want.
@@ -121,7 +121,7 @@ You can assign the newly created wall to your screen by going to Screens, click 
 You can put the created social walls in a Playlist, Schedule too.
 
 
- 
+ 
 
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

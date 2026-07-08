@@ -77,37 +77,37 @@ Now, we’ll want to add an item to the schedule. For that, we’ll need another
 ```
 mutation addScheduleItem($force:Boolean,$payload: AddScheduleItemInput!, $teamId: String!){  
   
-  addScheduleItem(force:$force,payload:$payload,teamId:$teamId){  
+  addScheduleItem(force:$force,payload:$payload,teamId:$teamId){  
   
-         _id,  
+         _id,  
   
-       name,  
+       name,  
   
-       assetId,        
+       assetId,        
   
-       teamId,  
+       teamId,  
   
-       playlistId,  
+       playlistId,  
   
-       repeatObject{  
+       repeatObject{  
   
-         id,  
+         id,  
   
-         repeat,  
+         repeat,  
   
-         text,  
+         text,  
   
-         type,  
+         type,  
   
-         rrule  
+         rrule  
   
-       },  
+       },  
   
-       range{startDate,endDate},  
+       range{startDate,endDate},  
   
-       documentDuration  
+       documentDuration  
   
-  }  
+  }  
   
 }
 ```
@@ -122,17 +122,17 @@ mutation addScheduleItem($force:Boolean,$payload: AddScheduleItemInput!, $teamId
 ```
 {"force": false,  
  "payload": {"scheduleId": "",  
-            "assetId": "",  
-            "playlistId":"",  
-            "type": "",  
-            "repeatObject": {  
-              "rrule": ""  
-            },  
-             "range": {  
-               "startDate": "",  
-               "endDate": ""  
-            }  
-     },  
+            "assetId": "",  
+            "playlistId":"",  
+            "type": "",  
+            "repeatObject": {  
+              "rrule": ""  
+            },  
+             "range": {  
+               "startDate": "",  
+               "endDate": ""  
+            }  
+     },  
  "teamId": ""  
 }
 ```
@@ -156,22 +156,22 @@ Once you’ve created a schedule and set an item on it, it’s possible to edit 
 ```
 mutation updateScheduleItem($force:Boolean,$payload: UpdateScheduleItemInput!, $scope: APPLY_SCHEDULE_ITEM_SCOPES!){  
   
-  updateScheduleItem(force:$force,payload:$payload,scope:$scope){  
-       _id,  
-       name,  
-       assetId,        
-       teamId,  
-       playlistId,  
-       repeatObject{  
-         id,  
-         repeat,  
-         text,  
-         type,  
-         rrule  
-       },  
-       range{startDate,endDate},  
-       documentDuration  
-  }  
+  updateScheduleItem(force:$force,payload:$payload,scope:$scope){  
+       _id,  
+       name,  
+       assetId,        
+       teamId,  
+       playlistId,  
+       repeatObject{  
+         id,  
+         repeat,  
+         text,  
+         type,  
+         rrule  
+       },  
+       range{startDate,endDate},  
+       documentDuration  
+  }  
 }
 ```
 
@@ -185,15 +185,15 @@ With this mutation, we’ll input these variables:
 ```
 {"force": false,  
  "payload": {"_id": "",  
-            "assetId": "",  
-            "playlistId":"",  
-            "repeatObject": {  
-              "rrule": ""  
-             },  
-            "range": {  
-              "startDate": "",  
-              "endDate": ""  
-            }  
+            "assetId": "",  
+            "playlistId":"",  
+            "repeatObject": {  
+              "rrule": ""  
+             },  
+            "range": {  
+              "startDate": "",  
+              "endDate": ""  
+            }  
  },  
  "scope": ""  
 }

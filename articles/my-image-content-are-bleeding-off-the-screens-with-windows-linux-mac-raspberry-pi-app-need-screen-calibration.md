@@ -19,7 +19,7 @@ Once you are done, click Apply.
 ![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360054602974)
 
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
 
 
 
