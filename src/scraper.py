@@ -34,7 +34,9 @@ def process_html_content(html_body):
                 tag['href'] = f"{BASE_URL}{href}"
         elif tag.name == 'img' and tag.get('src'):
             src = tag['src']
-            if src.startswith('/') and not src.startswith('//'):
+            if src.startswith('data:'):
+                tag.decompose()
+            elif src.startswith('/') and not src.startswith('//'):
                 tag['src'] = f"{BASE_URL}{src}"
 
     # Process links (a tags)
