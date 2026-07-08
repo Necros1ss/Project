@@ -28,12 +28,17 @@ To test the AI Assistant with the embedded RAG knowledge:
 python src/chat_test.py
 ```
 
-## 3. Link to Daily Job Logs
+## 3. Link to Daily Job Logs & Artifacts
 
 The pipeline is fully dockerized and deployed via **GitHub Actions** as a daily Cron Job (runs every day at 02:00 UTC). This ensures a stateless, serverless architecture that automatically synchronizes deltas.
 
-**Latest Job Logs:**
-[View Latest Sync Logs Here](https://github.com/Necros1ss/Project/blob/main/last_run.log)
+You can view the execution logs and latest artifacts using the following public links:
+
+1. **Daily Job Runs & Logs:**
+   [View GitHub Actions Execution History](https://github.com/Necros1ss/Project/actions)
+
+2. **Last Run Artifact (Latest Log File):**
+   [View Latest Sync Log (last_run.log)](https://github.com/Necros1ss/Project/blob/main/last_run.log)
 
 *(Note: The `last_run.log` file is automatically committed back to this repository after every successful run, detailing the exact counts of added, updated, and skipped files.)*
 
