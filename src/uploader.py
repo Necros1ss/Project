@@ -16,7 +16,7 @@ ARTICLES_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "article
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-GEMINI_FILE_SEARCH_STORE_ID = os.environ.get("GEMINI_FILE_SEARCH_STORE_ID", "optisigns-help-center-9n6q5v8jpotm")
+GEMINI_FILE_SEARCH_STORE_ID = os.environ.get("GEMINI_FILE_SEARCH_STORE_ID")
 
 if not GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY is not set.")

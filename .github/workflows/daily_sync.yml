@@ -29,6 +29,7 @@ jobs:
     - name: Run sync script and save log
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        GEMINI_FILE_SEARCH_STORE_ID: ${{ secrets.GEMINI_FILE_SEARCH_STORE_ID }}
       run: |
         mkdir -p log
         python main.py > log/last_run.log 2>&1
