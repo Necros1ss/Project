@@ -34,7 +34,6 @@ jobs:
         python main.py > log/last_run.log 2>&1
 
     - name: Commit and Push last_run.log
-      if: always()
       run: |
         if [ -f log/last_run.log ]; then
           git config --global user.name "github-actions[bot]"
