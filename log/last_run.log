@@ -4,6 +4,7 @@ STARTING OPTISIGNS DAILY KNOWLEDGE SYNC
 
 --- PHASE 1: SCRAPING ---
 Fetching articles from https://support.optisigns.com/api/v2/help_center/en-us/articles.json?per_page=100
+Saved: refer-earn-optisigns-referral-program.md
 Saved: what-access-does-optisigns-have-to-my-account-and-devices.md
 Saved: using-the-japan-earthquake-app.md
 Saved: how-to-display-a-snowflake-dashboard-with-optisigns.md
@@ -409,24 +410,35 @@ Saved: how-to-use-the-news-app.md
 Saved: how-to-use-google-calendar-with-optisigns.md
 Saved: how-to-add-use-vimeo-video-with-optisigns.md
 Saved: how-to-use-the-website-app-and-display-urls-on-optisigns.md
-Total articles scraped: 405
+Total articles scraped: 406
 
 --- PHASE 2: UPLOADING TO GEMINI ---
 Using existing File Search Store: fileSearchStores/optisigns-help-center-9n6q5v8jpotm
 Fetching files attached to Gemini File Search Store (fileSearchStores/optisigns-help-center-9n6q5v8jpotm)...
 Fetching current articles from Zendesk...
-Found 405 active articles on Zendesk.
+Found 406 active articles on Zendesk.
 Found 405 active files in Gemini Store.
 ----------------------------------------
-Running 1 uploads/updates in parallel...
-Deleting old document for 8899727608083...
-Uploading optibot_doc_8899727608083_1754407290.md...
-  Upload completed for optibot_doc_8899727608083_1754407290.md
+Running 5 uploads/updates in parallel...
+Uploading optibot_doc_53293393593491_1783530590.md...
+Deleting old document for 53095698149011...
+Deleting old document for 52113036672403...
+Deleting old document for 28598173096723...
+Deleting old document for 360051014713...
+Uploading optibot_doc_28598173096723_1783522027.md...
+Uploading optibot_doc_360051014713_1783522885.md...
+Uploading optibot_doc_52113036672403_1783522691.md...
+Uploading optibot_doc_53095698149011_1783535991.md...
+  Upload completed for optibot_doc_53293393593491_1783530590.md
+  Upload completed for optibot_doc_52113036672403_1783522691.md
+  Upload completed for optibot_doc_53095698149011_1783535991.md
+  Upload completed for optibot_doc_28598173096723_1783522027.md
+  Upload completed for optibot_doc_360051014713_1783522885.md
 ----------------------------------------
 SYNC COMPLETE
-Total files in Gemini Store: 405
-Estimated chunks embedded: 733
-Added: 0, Updated: 1, Deleted: 0, Skipped: 404
+Total files in Gemini Store: 406
+Estimated chunks embedded: 735
+Added: 1, Updated: 4, Deleted: 0, Skipped: 401
 
 ==================================================
 SYNC PROCESS COMPLETED SUCCESSFULLY
