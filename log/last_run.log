@@ -420,11 +420,18 @@ Fetching current articles from Zendesk...
 Found 407 active articles on Zendesk.
 Found 407 active files in Gemini Store.
 ----------------------------------------
+Running 2 uploads/updates in parallel...
+Deleting old document for 27267311796243...
+Deleting old document for 360016380053...
+Uploading optibot_doc_27267311796243_1784473517.md...
+Uploading optibot_doc_360016380053_1784467003.md...
+  Upload completed for optibot_doc_27267311796243_1784473517.md
+  Upload completed for optibot_doc_360016380053_1784467003.md
 ----------------------------------------
 SYNC COMPLETE
 Total files in Gemini Store: 407
 Estimated chunks embedded: 741
-Added: 0, Updated: 0, Deleted: 0, Skipped: 407
+Added: 0, Updated: 2, Deleted: 0, Skipped: 405
 
 ==================================================
 SYNC PROCESS COMPLETED SUCCESSFULLY
